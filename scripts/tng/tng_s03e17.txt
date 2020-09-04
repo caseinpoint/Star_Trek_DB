@@ -3,19 +3,19 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                     "Sins of the Father" 
-                          #40273-165 
-                              
-                     Based on a script by 
-                         Drew Deighan 
-                              
-                          Teleplay by 
-                 Ronald D. Moore & Reed Moran 
-                              
-                          Directed by 
-                          Les Landau 
+                STAR TREK: THE NEXT GENERATION
+
+                     "Sins of the Father"
+                          #40273-165
+
+                     Based on a script by
+                         Drew Deighan
+
+                          Teleplay by
+                 Ronald D. Moore & Reed Moran
+
+                          Directed by
+                          Les Landau
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -28,24 +28,24 @@ reproduction. No one is authorized to dispose of same. If
 lost or destroyed, please notify the Script Department.
 
                         FINAL DRAFT
- 
+
                       JANUARY 5, 1990
- 
 
-        STAR TREK: "Sins of the Father" - 1/5/90 - CAST 
 
-                STAR TREK: THE NEXT GENERATION 
-                     "Sins of the Father" 
+        STAR TREK: "Sins of the Father" - 1/5/90 - CAST
 
-                             CAST                               
-                              
+                STAR TREK: THE NEXT GENERATION
+                     "Sins of the Father"
+
+                             CAST
+
                 PICARD             KURN
                 RIKER              K'MPEC
                 DATA               DURAS
                 BEVERLY            KAHLEST
-                TROI               
-                GEORDI             
-                WORF               
+                TROI
+                GEORDI
+                WORF
                 WESLEY             Non-Speaking
                                      KLINGON SUPERNUMERARIES
                 TRANSPORTER TECH     KLINGON COUNCIL MEMBERS
@@ -53,15 +53,15 @@ lost or destroyed, please notify the Script Department.
                 Non-Speaking         KLINGON GUARD
                   SUPERNUMERARIES    KLINGON WOMAN CLERK
 
-         STAR TREK: "Sins of the Father" 1/5/90 - SETS 
+         STAR TREK: "Sins of the Father" 1/5/90 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                     "Sins of the Father" 
-                        
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                     "Sins of the Father"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               MAIN BRIDGE
               CAPTAIN'S READY ROOM     KLINGON SHIP (STOCK)
@@ -72,7 +72,7 @@ lost or destroyed, please notify the Script Department.
               SICKBAY
               CAPTAIN'S DINING ROOM
               KURN'S QUARTERS
-          
+
             KLINGON CITY
               ANTE ROOM
               GREAT HALL
@@ -80,12 +80,12 @@ lost or destroyed, please notify the Script Department.
               KLINGON HOME
               K'MPEC'S CHAMBERS
 
-   STAR TREK: "Sins of the Father" - 1/8/90 - PRONUNCIATION 
+   STAR TREK: "Sins of the Father" - 1/8/90 - PRONUNCIATION
 
-                STAR TREK: THE NEXT GENERATION 
-                     "Sins of the Father" 
-                       
-                      PRONUNCIATION GUIDE 
+                STAR TREK: THE NEXT GENERATION
+                     "Sins of the Father"
+
+                      PRONUNCIATION GUIDE
 
               biHnuch                bekh-NOOCH*
               cha'DIch               cha-DICH*
@@ -108,7 +108,7 @@ lost or destroyed, please notify the Script Department.
               mev yap                MIV-yap
               MOGH                   MOHG
 
-       STAR TREK: "Sins of the Father" - 1/8/90 - PRONUNCIATION        
+       STAR TREK: "Sins of the Father" - 1/8/90 - PRONUNCIATION
 
                                CONTINUED:
 
@@ -130,9 +130,9 @@ lost or destroyed, please notify the Script Department.
 
    STAR TREK: "Sins of the Father" - REV. 1/7/90 - TEASER   1.
 
-                STAR TREK: THE NEXT GENERATION                  
-                     "Sins of the Father"                          
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                     "Sins of the Father"
+                            TEASER
 
 	FADE IN:
 
@@ -393,11 +393,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
      STAR TREK: "Sins of the Father" - 1/5/90 - ACT ONE     6.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -984,11 +984,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
      STAR TREK: "Sins of the Father" - 1/5/90 - ACT TWO     17.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1175,7 +1175,7 @@ thru	OMITTED
 					KURN
 			Mister Crusher...
 
-					WES
+					WESLEY
 				(instantly)
 			Sir!
 
@@ -1184,7 +1184,7 @@ thru	OMITTED
 			System. Bearing one-four-five
 			by two-four-oh...
 
-					WES
+					WESLEY
 				(overlapping Kurn)
 			Ready sir!
 
@@ -1405,11 +1405,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
     STAR TREK: "Sins of the Father" - 1/5/90 - ACT THREE    25.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -1922,11 +1922,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
   STAR TREK: "Sins of the Father" - REV. 1/8/90 - ACT FOUR  36.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2501,11 +2501,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
          STAR TREK: "Sins of the Father" - 1/5/90 - ACT FIVE        47.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -3139,7 +3139,6 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
+                        END OF ACT FIVE
 
-                            THE END                             
-
+                            THE END

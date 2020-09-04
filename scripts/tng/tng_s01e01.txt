@@ -3901,7 +3901,7 @@ destroyed, please notify the Script Department.
 				 toward Wes's puddle)
 			Very good.
 
-					WES
+					WESLEY
 			Sir, maybe I should get something
 			to wipe this water up.
 
@@ -4252,11 +4252,11 @@ destroyed, please notify the Script Department.
 
 159  CONTINUED: (2)
 
-					WES
+					WESLEY
 			Perimeter alert, Captain!
 
 	Wesley is instantly embarrassed; Beverly is mortified;
-	Picard is ang7ry.
+	Picard is angry.
 
          WES                             BEVERLY
   I'm sorry. I didn't mean          Wes! You shouldn't

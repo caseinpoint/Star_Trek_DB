@@ -6,27 +6,27 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                   "Yesterday's Enterprise" 
-                          #40273-163 
-                              
-                           Story by 
-                   Trent Christopher Ganino 
-                               & 
-                       Eric A. Stillwell 
-                              
-                          Teleplay by 
-                        Ira Steven Behr 
-                               & 
-                        Richard Manning 
-                               & 
-                         Hans Beimler 
-                               & 
-                        Ronald D. Moore 
-                              
-                          Directed by 
-                         David Carson 
+                STAR TREK: THE NEXT GENERATION
+
+                   "Yesterday's Enterprise"
+                          #40273-163
+
+                           Story by
+                   Trent Christopher Ganino
+                               &
+                       Eric A. Stillwell
+
+                          Teleplay by
+                        Ira Steven Behr
+                               &
+                        Richard Manning
+                               &
+                         Hans Beimler
+                               &
+                        Ronald D. Moore
+
+                          Directed by
+                         David Carson
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -39,40 +39,40 @@ reproduction. No one is authorized to dispose of same. If
 lost or destroyed, please notify the Script Department.
 
                         FINAL DRAFT
- 
+
                       DECEMBER 8, 1989
- 
 
-     STAR TREK: "Yesterday's Enterprise" - 12/08/89 - CAST 
 
-                STAR TREK: THE NEXT GENERATION 
-                   "Yesterday's Enterprise" 
+     STAR TREK: "Yesterday's Enterprise" - 12/08/89 - CAST
 
-                             CAST                               
-                              
+                STAR TREK: THE NEXT GENERATION
+                   "Yesterday's Enterprise"
+
+                             CAST
+
                 PICARD             RACHEL GARRETT
                 RIKER              RICHARD CASTILLO
-                DATA               
-                BEVERLY            
-                TROI               
-                GEORDI             
-                WORF               
+                DATA
+                BEVERLY
+                TROI
+                GEORDI
+                WORF
                 WESLEY             Non-Speaking
                 GUINAN              SUPERNUMERARIES
-                TASHA              
+                TASHA
 
-                Non-Speaking       
-                  SUPERNUMERARIES    
+                Non-Speaking
+                  SUPERNUMERARIES
 
-      STAR TREK: "Yesterday's Enterprise" 12/08/89 - SETS 
+      STAR TREK: "Yesterday's Enterprise" 12/08/89 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                   "Yesterday's Enterprise" 
-                       
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                   "Yesterday's Enterprise"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE-D           USS ENTERPRISE-D
               MAIN BRIDGE
               CAPTAIN'S READY ROOM     USS ENTERPRISE-C
@@ -84,25 +84,25 @@ lost or destroyed, please notify the Script Department.
               ENGINEERING
               TRANSPORTER ROOM
               TASHA'S QUARTERS
-          
+
             USS ENTERPRISE-C
               MAIN BRIDGE
 
-        STAR TREK: "Yesterday's Enterprise" - 12/11/89 
+        STAR TREK: "Yesterday's Enterprise" - 12/11/89
 
-                STAR TREK: THE NEXT GENERATION 
-                   "Yesterday's Enterprise" 
-                  
-                      PRONUNCIATION GUIDE 
+                STAR TREK: THE NEXT GENERATION
+                   "Yesterday's Enterprise"
+
+                      PRONUNCIATION GUIDE
 
                   NARENDRA        nah-REN-dra
                   SARAJEVO        sar-ah-YEH-voh
 
        STAR TREK: "Yesterday's... " - 12/8/89 - TEASER       1.
 
-                STAR TREK: THE NEXT GENERATION                  
-                    "Yesterday's Enterprise"                        
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                    "Yesterday's Enterprise"
+                            TEASER
 
 	FADE IN:
 
@@ -385,11 +385,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
    STAR TREK: "Yesterday's... " - REV. 12/11/89 - ACT ONE   7.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -894,11 +894,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
    STAR TREK: "Yesterday's... " - REV. 12/15/89 - ACT TWO   16.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1345,11 +1345,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
   STAR TREK: "Yesterday's... " - REV. 12/11/89 - ACT THREE  25.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -2306,11 +2306,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
        STAR TREK: "Yesterday's... " - REV. 12/11/89 - ACT FOUR       42.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2746,11 +2746,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
        STAR TREK: "Yesterday's... " - REV. 12/11/89 - ACT FIVE       50.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -2935,7 +2935,7 @@ thru	OMITTED
 			come about to one-four-eight mark
 			zero-zero-three, on my command.
 
-					WES
+					WESLEY
 			Aye sir.
 
 					RIKER
@@ -2985,7 +2985,7 @@ thru	OMITTED
 			two hundred kilometers of the
 			Enterprise-C.
 
-					WES
+					WESLEY
 			Aye, sir. Coming to two-one-seven
 			mark one-one-five... increasing
 			to two-thirds impulse.
@@ -3258,9 +3258,6 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
+                        END OF ACT FIVE
 
-                            THE END                             
-
-
-
+                            THE END
