@@ -2491,7 +2491,7 @@ thru   OMITTED
 					KRIT
 			Must be nine years.
 
-					NAHSK.
+					NAHSK
 			Nine years.
 
 					HAIN

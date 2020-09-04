@@ -1129,7 +1129,7 @@ NEW ANGLE (OPTICAL)
 
 30   OMITTED
 
-31   NEW ANGLE - THE DOOR - CLIP (OPTICAL)
+31   NEW ANGLE - THE DOOR (OPTICAL)
 
 	as CHEKOV and UHURA ENTER the room and cross toward the
 	bar. (Timecode 8:30 - 8:32) In the b.g. of this shot
@@ -1140,14 +1140,14 @@ NEW ANGLE (OPTICAL)
 	as he watches them cross the room. He palms the
 	tricorder, not wanting to seem suspicious.
 
-33   NEW ANGLE - THE SERVICE BAR - CLIP
+33   NEW ANGLE - THE SERVICE BAR
 
 	as Chekov and Uhura approach the counter, where the
 	BARTENDER and CYRANO JONES are conducting business.
 	(Timecode 8:34 - 8:42) (Kirk and Spock left the scene
 	prior to this shot)
 
-					BARTENDER - CLIP
+					BARTENDER
 			-- thanks to you I already have
 			enough spican flame gems to
 			me a lifetime.
@@ -1196,17 +1196,17 @@ NEW ANGLE (OPTICAL)
 
 	Odo thinks for a moment, then glances toward the bar...
 
-35   NEW ANGLE - THE SERVICE BAR - CLIP
+35   NEW ANGLE - THE SERVICE BAR
 
 	where the Bartender is refusing Jones's wares.
 	(Timecode 8:44 - 8:48)
 
-					JONES - CLIP
+					JONES
 			Surely you want some...
 
 36   ON ODO & WAITRESS
 
-					JONES'S VOICE - CLIP
+					JONES'S VOICE
 			... Antarean glow water?
 
 					WAITRESS
@@ -1231,25 +1231,25 @@ NEW ANGLE (OPTICAL)
 	mind absorbed by the information that Darvin has been
 	here.
 
-					JONES' VOICE - CLIP
+					JONES' VOICE
 			I have something from the far
 			reaches of the galaxy. Surely you
 			want --
 
-					BARTENDER'S VOICE - CLIP
+					BARTENDER'S VOICE
 			Not at your price.
 
 	Suddenly Odo hears the SOUND OF TRILLING AND COOING
 	coming from the bar. He looks up in curiosity.
 
-36A  ON UHURA & CHEKOV - CLIP (OPTICAL)
+36A  ON UHURA & CHEKOV (OPTICAL)
 
 	As Uhura and Chekov react to the sight of the O.S.
 	Tribble, Odo can be seen in the b.g. over
 	shoulder as he tries to see what's causing all that
 	noise. (Timecode 9:04 - 9:06)
 
-					UHURA - CLIP
+					UHURA
 			Oooh. What is it? Is it alive?
 
 36B  ON ODO
@@ -1258,7 +1258,7 @@ NEW ANGLE (OPTICAL)
 	O.S. We can still HEAR the sound of COOING. (Timecode
 	9:06 - 9:08)
 
-					UHURA'S VOICE - CLIP
+					UHURA'S VOICE
 			May I hold it?
 
 	OFF Odo's intrigued expression...
@@ -2002,7 +2002,7 @@ CUT TO:
 
 Sisko looks up and reacts as...
 
-47   NEW ANGLE - CLIP (OPTICAL)
+47   NEW ANGLE (OPTICAL)
 
 	KIRK and SPOCK are walking down the Corridor toward
 	camera. They walk into an intersection just as the
@@ -2013,10 +2013,10 @@ Sisko looks up and reacts as...
 	his back to the camera, while Dax is standing in
 	profile facing camera left. (Timecode 16:57 - 17:06)
 
-					CHEKOV'S COM VOICE - CLIP
+					CHEKOV'S COM VOICE
 			Bridge to Captain Kirk.
 
-					KIRK - CLIP
+					KIRK
 			Kirk here.
 
 48   ON SISKO & DAX
@@ -2036,16 +2036,16 @@ Sisko looks up and reacts as...
 
 	Dax glances to her left.
 
-					BARRIS'S COM VOICE - CLIP
+					BARRIS'S COM VOICE
 			Captain Kirk, this station is
 			swarming with Klingons.
 
-49   INCLUDE KIRK & SPOCK - CLIP (OPTICAL)
+49   INCLUDE KIRK & SPOCK (OPTICAL)
 
 	As Dax's glance falls on the two men. (Timecode 17:23 -
 	17:27)
 
-					KIRK - CLIP
+					KIRK
 			I was not aware, Mister Barris,
 			that twelve Klingons constitutes
 			a swarm.
@@ -2074,7 +2074,7 @@ Sisko looks up and reacts as...
 					DAX
 			Not him. Spock.
 
-51   INCLUDE KIRK & SPOCK - CLIP (OPTICAL)
+51   INCLUDE KIRK & SPOCK (OPTICAL)
 
 	In the f.g., Kirk is giving Spock a pained look. In
 	the b.g., Sisko glances up at Dax, then he starts
@@ -2089,14 +2089,14 @@ Sisko looks up and reacts as...
 
 	He begins to take her by the arm.
 
-53   INCLUDE KIRK & SPOCK - CLIP (OPTICAL)
+53   INCLUDE KIRK & SPOCK (OPTICAL)
 
 	Dax is still looking at Spock as Sisko takes her by the
 	arm and they cross toward camera right and head off
 	down the Corridor. Kirk is talking to the wall com.
 	(Timecode 17:38 - 17:44)
 
-					KIRK - CLIP
+					KIRK
 			Mister Barris, I have guards
 			around the grain... I have guards
 			around the Klingons...
@@ -2192,7 +2192,7 @@ CUT TO:
 			A vital clue others might've
 			missed.
 
-57   ON BASHIR - CLIP (OPTICAL)-
+57   ON BASHIR (OPTICAL)-
 
 	As Bashir talks, he moves to camera right to get
 	another chair for the table.
@@ -2228,7 +2228,7 @@ CUT TO:
 
     DEEP SPACE NINE: "Trials and... " - REV. 08/30/96 - ACT THREE    39.
 
-59   ON THE DOOR - CLIP
+59   ON THE DOOR
 
 	As Scotty, Chekov and Freeman sit down. Clearly
 	O'Brien has mistaken Freeman for Kirk.  (Timecode 19:32 -
@@ -2267,7 +2267,7 @@ CUT TO:
 
 	They look over at the table again.
 
-61   SCOTTY'S TABLE - CLIP
+61   SCOTTY'S TABLE
 
 	The blonde waitress is serving Scotty, Chekov and
 	Freeman drinks at their table.  (Timecode 21:03 -
@@ -2362,22 +2362,22 @@ CUT TO:
 	questions by the distinctive SOUND of an o.s. CHAIR
 	being SHOVED BACK. They all turn and look to see...
 
-63   SCOTTY'S TABLE - CLIP
+63   SCOTTY'S TABLE
 
 	Chekov is on his feet and glaring at KORAX, the
 	Klingon.  (Timecode 22:31 - 22:46)
 
-					SCOTTY - CLIP
+					SCOTTY
 			Take it easy, lad. Everybody's
 			entitled to an opinion.
 
-					KORAX - CLIP
+					KORAX
 			That's right. And if I think that
 			Kirk is a Denebian slime devil...
 
 64   ODO'S TABLE
 
-					KORAX'S VOICE - CLIP
+					KORAX'S VOICE
 			... well, that's my opinion too.
 
 	The dialog between Korax, Chekov and Scotty continues
@@ -2388,7 +2388,7 @@ CUT TO:
 
 64   CONTINUED:
 
-					SCOTTY'S VOICE - CLIP
+					SCOTTY'S VOICE
 			Don't do it, mister. That's an
 			order.
 
@@ -2423,17 +2423,17 @@ CUT TO:
 
 									INTERCUT:
 
-65   SCOTTY'S TABLE - CLIP
+65   SCOTTY'S TABLE
 
 	Scotty looks up at Korax with a slow burn. Our
 	characters watch as the situation escalates out of
 	control.  (Timecode 23:34 - 24:12)
 
-					SCOTTY - CLIP
+					SCOTTY
 			Laddie, don't you think you should
 			rephrase that?
 
-					KORAX - CLIP
+					KORAX
 			You're right. I should. I didn't
 			mean to say that the Enterprise
 			should be hauling garbage... I
@@ -2466,7 +2466,7 @@ CUT TO:
 					ODO
 			What are you doing?
 
-69   SCOTTY - CLIP
+69   SCOTTY
 
 	Odo's question comes too late -- Scotty HITS another
 	Klingon, Chekov goes over the table and the fight is
@@ -2490,7 +2490,7 @@ INTERCUT:
 
 	takes a punch and staggers back into...
 
-73   WIDE SHOT - CLIP (OPTICAL)
+73   WIDE SHOT (OPTICAL)
 
 	As O'Brien falls into the shot with the Bartender
 	escaping across the room  (Timecode 24:30 - 24:32)
@@ -2501,7 +2501,7 @@ INTERCUT:
 
 	The fight continues...
 
-74   ANOTHER WIDE SHOT - CLIP
+74   ANOTHER WIDE SHOT
 
 	As CYRANO JONES crosses the room in the b.g.  (Timecode
 	24:45 - 25:50)
@@ -2510,7 +2510,7 @@ INTERCUT:
 
 	Are holding their own against the Klingons.
 
-76   CYRANO JONES - CLIP
+76   CYRANO JONES
 
 	Jones is standing in front of the door as Enterprise
 	Security Guards rush inside.  (Timecode 25:52 - 25:54)
@@ -2521,7 +2521,7 @@ INTERCUT:
 	Suddenly he notices something in the direction of the
 	doorway.
 
-78   THE DOORWAY - CLIP (OPTICAL)
+78   THE DOORWAY (OPTICAL)
 
 	As Jones has his drink taken away by the returning
 	Bartender, we can suddenly see Darvin outside in the
@@ -2611,7 +2611,7 @@ CUT TO:
 
      DEEP SPACE NINE: "Trials and... " - REV. 08/30/96 - ACT FOUR    47.
 
-83   INT. ENTERPRISE - BRIEFING ROOM - CLIP (OPTICAL)
+83   INT. ENTERPRISE - BRIEFING ROOM (OPTICAL)
 
 	Kirk is walking away from camera down the lineup of
 	men who were arrested in the K-7 bar fight. O'Brien is
@@ -2619,28 +2619,28 @@ CUT TO:
 	O'Brien. Kirk turns and starts back toward camera.
 	(Timecode 26:22 - 26:28)
 
-					KIRK - CLIP
+					KIRK
 			I want to know who started it.
 
 84   O'BRIEN & BASHIR (OPTICAL)
 
 	standing with the others. They exchange a look.
 
-					KIRK'S VOICE - CLIP
+					KIRK'S VOICE
 			I'm waiting.
 
-85   WIDER - CLIP (OPTICAL)
+85   WIDER (OPTICAL)
 
 	Kirk stops in front of O'Brien and turns to him.
 	(Timecode 26:29 - 26:31)
 
-86   O'BRIEN & KIRK - CLIP (OPTICAL)
+86   O'BRIEN & KIRK (OPTICAL)
 
 	Kirk confronts O'Brien.  (Timecode 26:32 - 26:36 Extend
 	time as needed, and drop the word "Freeman" from Kirk's
 	dialog.)
 
-					KIRK - CLIP
+					KIRK
 			Who started the fight?
 
 	O'Brien is on the spot, can only come up with one
@@ -2649,18 +2649,18 @@ CUT TO:
 					O'BRIEN
 			I don't know, sir.
 
-87   ON KIRK - CLIP
+87   ON KIRK
 
 	As he moves away from O'Brien and goes to Chekov.
 	(Timecode 26:37 - 26:52)
 
-					KIRK - CLIP
+					KIRK
 			All right.
 				(beat)
 			Chekov... I know you. You started
 			it didn't you?
 
-					CHEKOV - CLIP
+					CHEKOV
 			No, sir. I didn't.
 
 	We can still see O'Brien standing next to Chekov.
@@ -2669,13 +2669,13 @@ CUT TO:
 
 87   CONTINUED:
 
-					KIRK - CLIP
+					KIRK
 			Well, who did?
 
-					CHEKOV - CLIP
+					CHEKOV
 			I don't know, sir.
 
-					KIRK - CLIP
+					KIRK
 			I don't know, sir...
 
 	Kirk turns and begins walking away from camera.
@@ -2685,16 +2685,16 @@ CUT TO:
 	Watching Kirk pace in front of them, very uncomfortable
 	to be here.
 
-					KIRK'S VOICE - CLIP
+					KIRK'S VOICE
 			I want to know who threw the first
 			punch.
 
-89   WIDER - CLIP (OPTICAL)
+89   WIDER (OPTICAL)
 
 	Kirk reaches the end of the line and begins walking
 	back toward camera.  (Timecode 26:55 - 27:01)
 
-					KIRK - CLIP
+					KIRK
 			All right, you're all confined to
 			quarters until I find out who
 			started it. Dismissed.
@@ -2966,7 +2966,7 @@ CUT TO:
 	hears the O.S. SOUND of the turbolift door OPENING and
 	he turns to see...
 
-95   WIDER - CLIP
+95   WIDER
 
 	Kirk ENTERING the Bridge and heading for his chair.
 	(Timecode 30:51 - 30:54)
@@ -2984,7 +2984,7 @@ CUT TO:
 	look. Dax reacts by taking a deep breath -- they have
 	to be careful.
 
-98   WIDER - CLIP (OPTICAL)
+98   WIDER (OPTICAL)
 
 	As Kirk moves to his chair, we can now see Dax in the
 	b.g. at the Engineering station. He sits, we hear a
@@ -2997,7 +2997,7 @@ CUT TO:
 
 	who supresses a smile.
 
-100  WIDER - CLIP (OPTICAL)
+100  WIDER (OPTICAL)
 
 	As Kirk sits down and looks around the Bridge. He
 	looks directly at the O.s. Dax. (Timecode 31:08 -
@@ -3007,7 +3007,7 @@ CUT TO:
 
 	looks back at Kirk, smiles and shrugs.
 
-102  WIDER - CLIP (OPTICAL)	102
+102  WIDER (OPTICAL)	102
 
 	As Kirk gets up out of his chair and starts moving to
 	camera right.  (Timecode 31:27 - 31:29)
@@ -3018,7 +3018,7 @@ CUT TO:
 	an old-style PADD, and then begins to cross the Bridge
 	toward Sisko.
 
-104  WIDER - CLIP (OPTICAL)	104
+104  WIDER (OPTICAL)	104
 
 	Kirk is now standing in front of the Helmsman as Dax
 	walks down the steps behind him and EXITS frame to
@@ -3055,12 +3055,12 @@ CUT TO:
 	We hear the sound of the Turbolift OPENING and Dax
 	turns to see...
 
-106  WIDER - CLIP
+106  WIDER
 
 	As McCOY ENTERS the Bridge and goes to Kirk.  (Timecode
 	32:09 - 32:11)
 
-					BONES - CLIP
+					BONES
 			You wanted to see me, Jim?
 
 107  DAX & SISKO
@@ -3082,11 +3082,11 @@ CUT TO:
 
      DEEP SPACE NINE: "Trials and... " - REV. 08/30/96 - ACT FOUR    55.
 
-108  BONES - CLIP
+108  BONES
 
 	(Timecode 32:19 - 32:25)
 
-					BONES - CLIP
+					BONES
 			The nearest thing I can figure out
 			is they're born pregnant. Which
 			seems to be quite a timesaver.
@@ -3163,7 +3163,7 @@ FADE OUT.
 	Bashir puts down his Tribble, crosses to camera right
 	and goes o.s. to...
 
-114  THE BAR - CLIP (OPTICAL)
+114  THE BAR (OPTICAL)
 
 	As Bashir moves into frame from camera left, stands
 	behind the table in the f.g., picks up a Tribble and
@@ -3251,7 +3251,7 @@ FADE OUT.
 
 	The ship hangs in space.
 
-119  INT. ENTERPRISE - REC ROOM - CLIP (OPTICAL)
+119  INT. ENTERPRISE - REC ROOM (OPTICAL)
 
 	Sisko and Dax are sitting across from each other at a
 	table in the f.g. as Kirk and Spock ENTER the room in
@@ -3272,21 +3272,21 @@ FADE OUT.
 
 120  CONTINUED
 
-					KIRK'S VOICE - CLIP
+					KIRK'S VOICE
 			This is my chicken sandwich and
 			coffee.
 
-					SPOCK'S VOICE - CLIP
+					SPOCK'S VOICE
 			Fascinating.
 
      DEEP SPACE NINE: "Trials and... " - REV. 08/30/96 - ACT FIVE    59.
 
-121  KIRK AND SPOCK - CLIP
+121  KIRK AND SPOCK
 
 	Kirk and Spock react to the Tribbles in their food.
 	(Timecode 37:01 - 37:04)
 
-					KIRK - CLIP
+					KIRK
 			I want these things off the ship.
 			I don't care if it takes every
 			last man we've got, I want them
@@ -3298,32 +3298,32 @@ FADE OUT.
 
 	Watch Scotty cross the room O.S.
 
-					SCOTTY'S VOICE - CLIP
+					SCOTTY'S VOICE
 			Aye, they're into the machinery,
 			all right.
 
-123  KIRK, SPOCK & SCOTTY - CLIP
+123  KIRK, SPOCK & SCOTTY
 
 	(Timecode 37:09 - 37:17)
 
-					SCOTTY.- CLIP
+					SCOTTY
 			And they're probably into all the
 			food processors too.
 
-					KIRK - CLIP
+					KIRK
 			How?
 
-					SCOTTY - CLIP
+					SCOTTY
 			Probably through one of the air
 			vents.
 
-					SPOCK - CLIP
+					SPOCK
 			Captain, there are air vents of
 			that type on the space station.
 
 124  DAX AND SISKO
 
-					KIRK'S VOICE - CLIP
+					KIRK'S VOICE
 			And in the storage compartments.
 
 					SISKO
@@ -3373,7 +3373,7 @@ FADE OUT.
 
 	The sound continues.
 
-127  INT. K-7 - STORAGE CORRIDOR - CLIP
+127  INT. K-7 - STORAGE CORRIDOR
 
 	Kirk is trying without success to open one of the doors
 	as Spock, BARRIS, LURRY and the Security Guards look
@@ -3391,7 +3391,7 @@ FADE OUT.
 
      DEEP SPACE NINE: "Trials and... " - REV. 08/30/96 - ACT FIVE    61.
 
-129  INT. K-7 - STORAGE CORRIDOR - CLIP
+129  INT. K-7 - STORAGE CORRIDOR
 
 	Kirk is placing the lock mechanism on the upper door.
 	He turns it, and then the door opens and Tribbles pour
@@ -3402,7 +3402,7 @@ FADE OUT.
 	A quick shot of Sisko and Dax as the Tribbles pour out
 	the now-open door and half empty the room.
 
-131  INT. K-7 - STORAGE CORRIDOR - CLIP
+131  INT. K-7 - STORAGE CORRIDOR
 
 	The Tribbles continue to pour down on Kirk. (Timecode
 	38:40 - 38:43)
@@ -3422,7 +3422,7 @@ FADE OUT.
 	it, and then tosses it away... the Tribble goes out the
 	open door and...
 
-133  INT. K-7 - STORAGE CORRIDOR - CLIP
+133  INT. K-7 - STORAGE CORRIDOR
 
 	HITS Kirk in the head as he is coming out from
 	underneath the pile of Tribbles.  (Timecode 38:54 -
@@ -3434,10 +3434,10 @@ FADE OUT.
 	work, we hear the o.s. conversation taking place just
 	outside the open door.  (Timecode 39:06 - 39:10)
 
-					SPOCK'S VOICE - CLIP
+					SPOCK'S VOICE
 			They appear to be gorged.
 
-					BARRIS'S VOICE - CLIP
+					BARRIS'S VOICE
 			Gorged? On my grain?
 
 	As Barris says this line, Dax tosses a large brown
@@ -3445,7 +3445,7 @@ FADE OUT.
 
      DEEP SPACE NINE: "Trials and... " - REV. 08/30/96 - ACT FIVE    62.
 
-135  INT. K-7 STORAGE CORRIDOR - CLIP
+135  INT. K-7 STORAGE CORRIDOR
 
 	The Brown Tribble HITS Kirk in the head.
 	(Timecode 39:11-39:12)
@@ -3454,17 +3454,17 @@ FADE OUT.
 
 	As Before. They continue searching.
 
-					BARRIS'S VOICE - CLIP
+					BARRIS'S VOICE
 			Kirk, I'll hold you responsible
 			for this. There must be
 			thousands...
 
-136A INT. K-7 STORAGE CORRIDOR - CLIP
+136A INT. K-7 STORAGE CORRIDOR
 
-					KIRK - CLIP
+					KIRK
 			Hundreds of thousands.
 
-					SPOCK - CLIP
+					SPOCK
 			One million, seven hundred and
 			seventy-one thousand, five hundred
 			and sixty-one.
@@ -3474,7 +3474,7 @@ FADE OUT.
 	For just the briefest second, Sisko and Dax exchange a
 	look at this -- she was right!
 
-					SPOCK'S VOICE - CLIP
+					SPOCK'S VOICE
 			That's assuming one Tribble
 			multiplying with an average litter
 			of ten...
@@ -3547,25 +3547,25 @@ FADE OUT.
 	Sisko and Dax exchange a relieved look. In the
 	background, Kirk is saying --
 
-					KIRK'S VOICE - CLIP
+					KIRK'S VOICE
 			-- and as captain I want two
 			things done...
 
 	Sisko and Dax absently toss the Tribbles in their hands
 	away...  (Timecode 41:04-41:06)
 
-141  INT. K-7 - STORAGE CORRIDOR - CLIP
+141  INT. K-7 - STORAGE CORRIDOR
 
 	as a matching Tribble comes out and hits Kirk in the
 	head.
 
-					KIRK - CLIP
+					KIRK
 			First, find Cyrano Jones...
 
 	A second matching Tribble falls out of the door and
 	Kirk looks up, annoyed.
 
-					KIRK - CLIP
+					KIRK
 				(glancing up)
 			Second, close that door...
 
@@ -3581,7 +3581,7 @@ FADE OUT.
 			After the bomb was detonated,
 			history continued uninterrupted.
 
-143  INT. K-7 - STATION MANAGER'S OFFICE - CLIP
+143  INT. K-7 - STATION MANAGER'S OFFICE
 
 	As Kirk holds a Tribble up at Darvin and it squeals.
 	(Timecode 43:42 - 43:49)
@@ -3590,15 +3590,15 @@ FADE OUT.
 			Kirk uncovered the truth about
 			Darvin...
 
-					KIRK - CLIP
+					KIRK
 			They don't like you Mister Darvin.
 			I wonder why.
 
-143A BONES - CLIP
+143A BONES
 
 	Bones has scanned Darvin.  (Timecode 44:02 - 44:06)
 
-					BONES - CLIP
+					BONES
 			Jim, this man is a Klingon.
 
 									DISSOLVE TO:
@@ -3667,14 +3667,14 @@ FADE OUT.
 
      DEEP SPACE NINE: "Trials and... " - REV. 08/30/96 - ACT FIVE   65A.
 
-148  WIDER - CLIP (OPTICAL)
+148  WIDER (OPTICAL)
 
 	Sisko is standing next to Kirk's chair, holding an old-
 	style PADD and stylus. Kirk looks over at Sisko and
 	reacts with puzzlement.  ("Mirror, Mirror" clip.
 	Timecode 49:19 - 49:28)
 
-					KIRK - CLIP
+					KIRK
 			Lieutenant... ? Lieutenant... ?
 
 					SISKO
@@ -3692,15 +3692,15 @@ FADE OUT.
 			to say... it's been an honor
 			serving with you.
 
-150  ON KIRK - CLIP
+150  ON KIRK
 
 	As Kirk smiles at Sisko.  (Timecode 49:31 - 49:33)
 
-151  WIDER - CLIP (OPTICAL)
+151  WIDER (OPTICAL)
 
 	Kirk begins to hand the PADD back to Sisko.
 
-					KIRK - CLIP
+					KIRK
 			All right, Lieutenant. Carry on.
 
 	(NOTE: Cut away before Kirk actually hands him the
