@@ -1,0 +1,3247 @@
+                  STAR TREK: DEEP SPACE NINE
+
+                            "Babel"
+                          #40511-405
+
+                          Written by
+                        Ira Steven Behr
+
+                          Directed by
+                          Paul Lynch
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1992 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+Return to Script Department             FINAL DRAFT
+PARAMOUNT PICTURES CORPORATION
+                        OCTOBER 7, 1992
+
+           STAR TREK: DS9 "Babel" - 10/13/92 - CAST
+
+                STAR TREK: THE NEXT GENERATION
+                            "Babel"
+                             CAST
+
+                SISKO              ASOTH
+                O'BRIEN            BUSINESSMAN
+                BASHIR             STARFLEET MALE
+                DAX                GALIS
+                KEIKO              JAHEEL
+                KIRA               NURSE JABARA
+                JAKE SISKO         VICTIM #1
+                ODO                VICTIM #2
+                QUARK              SURMAK
+                                   BAJORAN SECURITY GUARD
+
+                COMPUTER VOICE
+
+                Non-Speaking
+                N.D. BAJORANS
+                N.D. ALIENS
+                SUPERNUMARIES (INFIRMARY)
+
+           STAR TREK: DS9 "Babel" - 10/13/92 - SETS
+
+                  STAR TREK: DEEP SPACE NINE
+                            "Babel"
+                             SETS
+
+        INTERIORS                     EXTERIORS
+        DEEP SPACE NINE                 DEEP SPACE NINE
+          AIRLOCK
+          CORRIDOR                      JAHEEL'S SHIP
+          LABORATORY
+          OPS                           RUNABOUT
+          ACCESS TUNNEL
+          QUARK'S                       DOCKING PORT FIVE
+          PROMENADE
+          O'BRIEN'S QUARTERS
+            (LIVING AREA)
+          INFIRMARY
+          EMPTY CREW QUARTERS
+          COMMANDER'S OFFICE
+          CREW QUARTERS
+          HOSPITAL WARD
+          DOCKING PORT FIV
+          GALIS' OFFICE (VIEWSCREEN)
+          SURMAK'S OFFICE (VIEWSCREEN)
+          JAHEEL'S BRIDGE (VIEWSCREEN)
+
+      STAR TREK: "Babel" - 10/19/92 - PRONUNCIATION GUIDE
+
+
+                  STAR TREK: DEEP SPACE NINE
+                            "Babel"
+                      PRONUNCIATION GUIDE
+
+          BAJORAN                  bah-JOR-an
+          BAJORA                   bah-JOR-uh
+          BAJOR                    BAY-jor
+          CARDASSIANS              car-DASS-ee-en
+          SURMAK                   SIR-mak
+          ASOTH                    AY-soth
+          KOHLANESE                KO-lan-ese
+          JABARA                   JUH-bar-uh
+          JAHEEL                   JAH-heel
+          HIGA METAR               HIGH-guh MET-ar
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - TEASER              1.
+
+                  STAR TREK: DEEP SPACE NINE
+                               "Babel"
+                            TEASER
+
+	FADE IN:
+
+1    OMITTED
+
+2    INT. CLOSE ON AIRLOCK GATE
+
+	Three newly arrive visitors to DS Nine (one Bajoran national,
+	one human and one N.D. alien) are trapped inside the airlock.
+	They bang their fists in frustration against the window.
+	O'BRIEN, looking tired and harried, stands on the other side
+	of the gate, trying to placate them.
+
+					O'BRIEN
+			Look, save your energy.  We'll have
+			you out of there as soon as possible.
+				(muttering under his
+				breath)
+			I hope.
+
+	He turns toward his repair crew (two humans) who are working
+	inside an open panel.
+
+					O'BRIEN
+			Try re-routing the power coupling...
+
+	And hand reaches into frame and taps O'Brien impatiently on
+	the shoulder.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - TEASER              2.
+
+2    CONTINUED:
+
+					JAHEEL (V.O.)
+			Mister O'Brien...
+
+					O'BRIEN
+				(to repair crew;
+				ignoring the tap.)
+			... See if you can activate the
+			interlock servos.
+
+	Another shoulder tap.  This time even more insistent.
+
+					JAHEEL (V.O.)
+			Mister O'Brien...
+
+	An annoyed O'Brien turns to confront CAPTAIN JAHEEL, a wiry
+	bearded alien.
+
+					O'BRIEN
+			Captain, Jaheel, those people have
+			been stuck in that air lock for over
+			an hour.  Now if you'll just wait
+			until we get that door opened, I'll
+			be happy to discuss any problem you
+			might have.
+
+					JAHEEL
+			But I've already been waiting two
+			days for your people to readjust my
+			ship's antimatter flow converter.
+
+					O'BRIEN
+			I'm afraid we've fallen a bit behind
+			in our maintenance schedule.
+
+					JAHEEL
+			I'm not interested in hearing excuses.
+			I have a shipment of Tamen Sasheer
+			waiting to be delivered to Largo
+			Five, and I'll need to do better
+			than warp one to get there before it
+			spoils.
+
+					O'BRIEN
+			I'll try to get a repair crew on it
+			before the end of the day.  Now that's
+			the best I can do.
+
+					JAHEEL
+			Your best, Mister O'Brien, hardly
+			seems good enough.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - TEASER              3.
+
+2    CONTINUED:	(2)
+
+	Jaheel turns and storms away leaving behind a scowling
+	O'Brien.
+
+					DAX'S COM VOICE
+			Dax to O'Brien.
+
+					O'BRIEN
+				(taps combadge)
+			O'Brien here.
+
+					DAX
+			Can you spare a minute, Chief.  I
+			have a little problem here at the
+			lab.
+
+	O'Brien glances over at the repair crew.  He figures they
+	can handle things at this end.
+
+					O'BRIEN
+			On my way.
+
+3    INT. CORRIDOR OUTSIDE LABORATORY
+
+	DAX stands by the laboratory door as O'Brien approaches.
+
+					DAX
+			Thanks for coming, Chief.
+
+					O'BRIEN
+			What are you doing out here?
+
+	Dax answers by touching the door's entry panel.  The door
+	slides open and we are assaulted by a LOUD CACOPHONOUS WHINE
+	BLARING from within the room.
+
+4    INT. LABORATORY - CONTINUOUS
+
+	Dax and O'Brien have to shout to be heard above the noise.
+
+					O'BRIEN
+			Have you checked the EPS convertor?
+
+					DAX
+			Yes.  First thing.
+
+					O'BRIEN
+			How about the intensity grid?
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - TEASER              4.
+
+4    CONTINUED:
+
+					DAX
+				(nodding)
+			It's fine.
+
+					O'BRIEN
+			Then it's probably the secondary
+			phase modulator.  We had trouble
+			with them last week in the main power
+			core.
+
+	He opens up a panel.  Makes some adjustments.
+
+					O'BRIEN
+			This should do it.
+
+	The noise abruptly stops.  At the same moment lights go out,
+	plunging the room into utter darkness.  A beat, then...
+
+					O'BRIEN (V.O.)
+			Anything else I can do for you?
+
+5    INT. OPS
+
+	Close on KIRA who leans over her desk console as she talks
+	to someone O.S.
+
+					KIRA
+			The navigational computer hasn't
+			been working reliably for three days.
+			I ask for the star charts of the
+			Argosian sector and the Glessene
+			sector comes up instead.
+
+	Pan down to REVEAL O'Brien half buried in an open panel.
+
+					O'BRIEN
+			Uh-huh.
+
+					KIRA
+			That's when I can even coax the system
+			on line.
+
+					O'BRIEN
+			Try it now.
+
+	Kira taps a control panel.  The console lights up.
+
+					KIRA
+				(pleased)
+			That's more like it.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - TEASER              5.
+
+5    CONTINUED:
+
+	O'Brien sighs.  Another victory for the good guys.
+	Wearily, he closes the panel and gets to his feet.
+
+					KIRA
+			You look like you could use some
+
+			sleep.
+
+					O'BRIEN
+			Who has time for sleep... ?
+
+	In the background SISKO stands before a food replicator.
+
+					SISKO
+				(to replicator)
+			Coffee.
+
+	O'Brien sits down at Kira's station.
+
+					O'BRIEN
+			I'd settle for five minutes of peace
+			and quiet.
+
+	Sisko takes his first deep sip of Java... and nearly gags...
+	it's awful.
+
+					SISKO
+			Chief, I thought you were going to
+			fix the replicators.
+
+	O'Brien shoots Kira a long suffering look as he hauls himself
+	out of the seat.
+
+					O'BRIEN
+				(to Sisko, emphatic)
+			You're absolutely right, Sir.  I
+			knew I'd forgotten something.  Can't
+			have the operations chief sitting
+			around daydreaming when there's work
+			to be done, can we?  I'll get right
+			on it.
+
+	He EXITS.  Sisko looks over at Kira.  What's his problem?
+
+6    INT. CORRIDOR/ACCESS TUNNEL (OPTICAL)
+
+	O'Brien lies on his back in an access tunnel, grumbling as
+	he works on the circuitry with various tools.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - TEASER              6.
+
+6    CONTINUED:
+
+					O'BRIEN
+			Fix the Replicators, Chief... My
+			console's off line, Chief... I
+			should've transferred to a cargo
+			drone... no people, no complaints...
+
+	He completes the repair and moves out of the tunnel and into
+	the corridor.  There's a small REPLICATOR UNIT in the wall.
+	He touches the panel... and the entire display BLACKS OUT...
+	a BRIGHT ELECTRICAL DISCHARGE envelopes the panel.
+
+	O'Brien steps back, startled.  Now what's going on?  Suddenly,
+	the DISCHARGE DISAPPEARS... the panel looks completely normal
+	again.
+
+	O'Brien scans the unit with his tricorder... there's nothing
+	wrong with it.  He scowls.
+
+					O'BRIEN
+				(touches panel)
+			Hot coffee black, double sweet.
+
+	A steaming mug of coffee MATERIALIZES.  O'Brien picks it up
+	and takes a wary sip.  A smile breaks slowly across his
+	face... it's delicious.  Finally, something's working.
+
+7    INT. REPLICATOR
+
+	Camera looking out through the open panel at O'Brien.  He
+	takes a big gulp from the MUG and CLOSES THE PANEL, we HEAR
+	HIM EXIT down the corridor, whistling.  Hold a beat... then
+	as music builds ominously the camera pans along the replicator
+	circuitry... coming to rest on...
+
+8    OMITTED
+
+8A   AN ALIEN DEVICE
+
+	attached to the circuitry.  As the camera pushes in closer
+	the device suddenly activates... a LIGHT PULSATING on and
+	off to eerie effect.  Whatever this thing is, it definitely
+	doesn't belong here.
+
+									FADE OUT.
+
+                         END OF TEASER
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT ONE             7.
+                            ACT ONE
+
+	FADE IN:
+
+	(Note:  Episode credits fall over opening scenes)
+
+9    INT. QUARK'S
+
+	ODO observes the premises from his seat at the bar.  Actually
+	there's not much to see... only three or four customers in
+	the entire place.  Odo seems quite pleased at the lack of
+	activity, an attitude in sharp contrast to QUARK who appears
+	positively morose as he wipes down the bar counter top.
+
+					ODO
+			Tell me, Quark, am I mistaken or is
+			business a little slow today?
+
+					QUARK
+			Slow?  It's been almost nonexistent
+			for the past three days.
+
+					ODO
+			Who knows, if things don't improve
+			you may have to close down altogether.
+
+					QUARK
+			You'd like that, wouldn't you?
+
+					ODO
+			Let's just say that without you
+			around, my job would be considerably
+			easier.
+
+					QUARK
+			Without me around you'd be forced to
+			find some other, poor innocent to
+			persecute.  Think about that while
+			you sit here gloating at my
+			misfortune.
+
+					ASOTH (V.O.)
+			Quark!
+
+	Angle to include ASOTH, who slams his food bowl onto the bar.
+
+					ASOTH
+			You call this Kohlanese stew?
+
+	Confronted by the large, angry alien, Quark turns on his
+	most obsequious charm.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT ONE             8.
+
+9    CONTINUED:
+
+					QUARK
+			If your meal isn't satisfactory I'm
+			sure we could exchange it for
+			something more to your liking.
+
+	Asoth grabs Quark by the collar.
+
+					ASOTH
+			Aren't you the least bit curious how
+			it tastes?
+
+	He spoons up some of the stew and shoves it into Quark's
+	mouth.  Quark takes one bite... and immediately spits out
+	the hideous tasting gruel.
+
+					ASOTH
+			Oh no you don't.  You served it.
+			You're going to eat it.
+
+	He scoops up another spoonful.  Odo appears behind him.
+	Places a restraining hand on his shoulder.
+
+					ODO
+			All right.  That's enough.
+
+	Ignoring Odo, Asoth tries thrusting the spoon between Quark's
+	lips.
+
+					ASOTH
+			You heard me.  Eat.
+
+	Odo's hand clamps down on Asoth's shoulder.  The Alien drops
+	this spoon and grunts in pain.
+
+					ODO
+				(quiet authority)
+			I said leave him alone.
+
+	Asoth nods in agreement.  Odo releases him.  Clutching his
+	shoulder the Alien beats a hasty retreat.
+
+					ODO
+				(watching him exit)
+			Another satisfied customer.
+
+	Quark glares at the bar's replicator unit.
+
+					QUARK
+			It's these replicators.  If I don't
+			get them repaired soon, they'll
+			destroy my business.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT ONE             9.
+
+9    CONTINUED:	(2)
+
+					ODO
+			Why not get O'Brien to fix them.  He
+			has the replicators on the command
+			level working perfectly.
+
+
+	Quark's eyes narrow.  This is news to him.
+
+					QUARK
+			I'm on his waiting list.  He assures
+			me he'll get to them as soon as he
+			can.
+
+					ODO
+			No telling when that will be.  The
+			Chief's a very busy man.
+
+	Odo EXITS.
+
+10   ANGLE QUARK
+
+	Who immediately moves to a computer panel behind the bar.
+
+					QUARK
+			Computer... display a station layout.
+			Highlight locations of all repaired
+			replicators on the command level.
+
+					COMPUTER VOICE
+			Information restricted to security
+			clearance five and above.  Please
+			enter security verification.
+
+	Quark pulls out a drawer full of the Cardassian equivalent
+	to isolinear chips.  He counts off five of them... pulls out
+	the fifth one... places it into the computer panel.
+
+					COMPUTER VOICE
+			Clearance verified.
+
+	The computer displays a graphic of the station plans,
+	indicating several locations.  Quark studies the layout, a
+	self-satisfied grin on his face.
+
+11   INT. OPS
+
+	Close on O'Brien's hand removing a coffee cup from inside
+	the replicator.
+
+             DEEP SPACE: "Babel" REV. 10/16/92 - ACT ONE            10.
+
+12   ANGLE
+
+	As O'Brien passes the coffee to SISKO --
+
+					O'BRIEN
+			Here you go, Sir.  I think you'll
+			find it more to your liking.
+
+	Sisko takes a sip.  Smiles.
+
+					SISKO
+			Much appreciated, Mister O'Brien.
+
+					O'BRIEN
+			Don't mention it, Sir.  Unfortunately,
+			there are still plenty of replicators
+			around the station that need looking
+			after...
+
+	O'Brien mops at his brow.
+
+					SISKO
+			You all right, Chief?
+
+					O'BRIEN
+			Bit warm, that's all.  Environmental
+			controls must be acting up again.
+
+	O'Brien starts away but is stopped by Sisko.
+
+					SISKO
+			Please send my regards to Mrs.
+			O'Brien.  Jake tells me she's a
+			wonderful teacher.
+
+					O'BRIEN
+			That's nice to hear, Sir.  She's
+			flower units about the lad herself.
+
+					SISKO
+				(sure he's misheard)
+			Excuse me?
+
+					O'BRIEN
+				(confused)
+			Sir?
+
+					SISKO
+			What was that you just said?
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT ONE           10A.
+
+12   CONTINUED:
+
+					O'BRIEN
+			She's quite fond of the lad herself.
+
+	It's a weird moment... but Sisko lets it go.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT ONE            11.
+
+12   CONTINUED:	(2)
+
+					SISKO
+			Glad to hear it.
+
+
+					O'BRIEN
+			Very good, Sir.
+
+	A somewhat perplexed O'Brien heads back to his station.
+
+13   INT. PROMENADE
+
+	Dax and Kira, off duty, are strolling through the complex.
+	A BAJORAN SECURITY GUARD passes by and shoots Dax a warm
+	smile.
+
+					BAJORAN SECURITY GUARD
+			Lieutenant Dax.
+
+	She returns the smile.  An alien BUSINESSMAN comes out of a
+	shop and nods pleasantly.
+
+					BUSINESSMAN
+			Ladies.
+
+	Dax and Kira nod back.  A few more steps and they encounter
+	a STARFLEET CREWMEMBER.  He grins boyishly at Dax.
+
+					STARFLEET MALE
+			Hello, Lieutenant.
+
+	Dax smiles.  She looks over at Kira.  They share a laugh.
+
+					DAX
+			I'd forgotten how different it was.
+
+					KIRA
+			How different what was?
+
+					DAX
+			Being female.  I haven't been one
+			for over eighty years.
+
+	She reacts to another smile from a friendly passerby.
+
+					DAX
+			All this attention.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT ONE            12.
+
+13   CONTINUED:
+
+					KIRA
+			I imagine it must take some getting
+			use to.
+
+					DAX
+			Actually I find it quite enjoyable.
+
+					QUARK (V.O.)
+			Major Kira... Lieutenant Dax...
+
+14   ANGLE ON QUARK
+
+	Leaning against the part of the bar counter facing the
+	Promenade.  Behind him, we see that business has picked up
+	considerably.  Customers are eating and drinking with gusto.
+
+					QUARK
+			I'd be honored to have you join my
+			little party.  As my guests, of
+			course.
+
+					KIRA
+			What's all this, Quark?  You cheat
+			your one-thousandth customer?
+
+	Quark lets loose with an insincere laugh... quickly replaced
+	by a sharp glare toward Kira.
+
+					QUARK
+			Who says Bajorans have no sense of
+			humor?
+				(pointing to the
+				activity taking place
+				behind him)
+			Actually we're celebrating the repair
+			of the bar's replicator system.
+				(to Dax)
+			Perhaps I could interest you in a
+			nice double-whipped I'danian spice
+			pudding.
+
+					DAX
+				(to Kira; tempted)
+			What do you think?
+
+					KIRA
+			I think I'm due back at Ops.  But go
+			on, enjoy yourself.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT ONE            13.
+
+14   CONTINUED:
+
+	Kira EXITS.  Dax looks over at Quark who anxiously awaits
+	her decision.  Dax shrugs why not.  She moves toward the
+	doorway.
+
+15   INT. QUARK'S - CONTINUOUS
+
+	Dax ENTERS.  She makes her way over to the bar where Quark
+	is giving the bum's rush to a customer in order to make room
+	for her.  He fawningly escorts her to a seat.
+
+					QUARK
+				(exaggerated courtesy)
+			Please, make yourself comfortable,
+			Lieutenant.  I did say a double
+			whipped spice pudding, didn't I?
+
+	From beneath the counter he pulls out an outrageously caloric
+	dessert.  Places it in front of Dax.
+
+					DAX
+			It's lovely.  I almost hate to eat
+			it.
+
+					QUARK
+			By all means, take the time to admire
+			its beauty... While I admire yours.
+
+15A  INT. OPS - CLOSE ON O'BRIEN
+
+	at his station.  Looking sweaty and pale.  He steadies himself
+	against a console; tries to clear his head.
+
+15B  ANGLE WIDENS
+
+	to include a concerned Kira.
+
+					KIRA
+			Chief... ?
+
+					O'BRIEN
+				(trying to cover, but
+				failing)
+			How can I help you, Major?
+
+	She touches his brow.
+
+					KIRA
+			You're the one who could use a little
+			help.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT ONE            14.
+
+15B  CONTINUED:
+
+					O'BRIEN
+			I'm fine, really.
+
+					KIRA
+			I guess this isn't a good time to
+			tell you the number three Turbolift
+			has broken down again.
+
+	O'Brien gives Kira a puzzled look.
+
+					KIRA
+			I'm joking, Chief.
+				(Note: From here on
+				dialogue spoken by
+				characters with
+				aphasia will appear
+				as gibberish in the
+				script.  A translation
+				will be provided
+				upon request, but it
+				would probably be
+				more effective if
+				the actors really
+				were unable to
+				communicate.)
+
+					O'BRIEN
+			Major.  Cat's lark pepper.
+
+             DEEP SPACE: "Babel" REV. 10/19/92 - ACT ONE            15.
+
+15B  CONTINUED:  (2)
+
+					KIRA
+			What?
+
+					O'BRIEN
+				(frustration building)
+			Let birds go further loose maybe.
+			Shout easy play.
+
+					KIRA
+			Chief, you're not making any sense.
+
+	An agitated O'Brien, struggles to make himself understood.
+
+					O'BRIEN
+			Round the turbulent quick.
+
+	A worried Kira shakes her head.
+
+					O'BRIEN
+			Close the reverse harbor.
+
+	By now, the rest of the Ops crew is staring at O'Brien,
+	wondering what's going on.
+
+					O'BRIEN
+				(shouting at them)
+			Ankle try sound reset gleaming?
+
+	Realizing he still isn't getting through to anyone O'Brien
+	heads for the Turbolift.
+
+					O'BRIEN
+			Dinner to bug.  When.
+
+					KIRA
+			Chief... wait...
+
+	As she hurries after him...
+
+16   OMITTED
+
+									FADE OUT.
+
+                        END OF ACT ONE
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO            16.
+                            ACT TWO
+
+	FADE IN:
+
+17   INT. INFIRMARY
+
+	O'Brien is seated on the diagnostic bed, as BASHIR examines
+	his eyes with a sophisticated scanner.
+
+					BASHIR
+			Computer continue neural imaging
+			scan.  Stimulate visual cortex.
+
+	A beat, as the scanner runs through its tests.  Then --
+
+					COMPUTER VOICE
+			All visual responses normal.
+
+18   ANGLE WIDENS - TO INCLUDE KIRA AND NURSE JABARA
+
+	Bashir crosses to a work station and grabs a piece of Med
+	tech which he places over O'Brien's ears.
+
+					BASHIR
+			Computer begin auditory stimuli.
+
+	Another series of tests are completed.  Then --
+
+					COMPUTER VOICE
+			No physiological damage.  All brain
+			functions within normal parameters.
+
+	Bashir removes the equipment.  He's clearly puzzled by the
+	results.
+
+					BASHIR
+				(a thoughtful beat)
+			Nurse, pull up Mister O'Brien's neuro-
+			physiological history.
+
+					NURSE JABARA
+			Yes, Doctor.
+
+	She seats herself at a work station and begins accessing the
+	information.  Mister O'Brien looks at Bashir and knows the
+	diagnosis isn't good.  He gets up and grabs a PADD, punches
+	in a message which he pushes toward the Doctor.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO           16A.
+
+18   CONTINUED:
+
+					KIRA
+			What is it?  What's he writing?
+
+					BASHIR
+
+			I wish I knew.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO            17.
+
+18   CONTINUED:	(2)
+
+	He shows the PADD to Kira.
+
+19   INSERT - PADD (OPTICAL)
+
+	The screen is filled with gibberish.
+
+20   RESUME SCENE
+
+	O'Brien's desperation building.  He feels trapped and alone.
+
+					O'BRIEN
+				(exasperated)
+			Flame the dark true salt.
+
+	Bashir tries to gently direct him back to the bed.
+
+					BASHIR
+			Please, Chief, have a seat.
+
+	O'Brien pushes away.
+
+					O'BRIEN
+			Way link complete.  Way link.
+
+	Kira touches his shoulder.  He whirls around.  Their eyes
+	lock in silent sympathetic communication.  He allows her to
+	lead him to the bed.
+
+					KIRA
+				(to Bashir)
+			What's wrong with him?
+
+					BASHIR
+			He appears to be suffering from a
+			form of aphasia.  It's a perceptual
+			dysfunction in which aural and visual
+			stimuli are incorrectly processed by
+			the brain.  His actual thinking hasn't
+			been affected.  But he's incapable
+			of expressing himself or understanding
+			others.
+
+					O'BRIEN
+				(despairing)
+			Strike limits victory frosted wake.
+			Simple hesitation.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO            18.
+
+20   CONTINUED:
+
+	Kira and Bashir exchange concerned looks.
+
+21   INT. OPS
+
+	Sisko, Bashir, Dax and Kira at the operations table.
+
+					SISKO
+			I'm not sure I follow you, Doctor.
+			You say Mister O'Brien is aphasic,
+			but all of his tests come up negative.
+
+	Dax wipes her forehead; she appears a bit flushed.
+
+					DAX
+				(to Bashir)
+			Isn't aphasia typically associated
+			with some kind of cranial trauma?
+
+					BASHIR
+			Yes.  It can occur as a result of a
+			stroke or blow to the head.  But
+			there's no evidence of that here.
+
+					DAX
+			Have you checked the medical library
+			for precedents?
+
+					BASHIR
+			And re-checked.  Nothing so far.
+
+					SISKO
+			Have you any theories?
+
+	A hard admission for Bashir.
+
+					BASHIR
+			Not yet.
+
+					SISKO
+			Find one.
+				(to Kira)
+			Major, get hold of the Chief's
+			personal duty log.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO            19.
+
+21   CONTINUED:
+
+					SISKO
+			I want to know where he's been and
+			what he's done for the past fifty-
+			two hours.
+
+					KIRA
+			I've already examine it, Commander.
+			He's been all over this station.
+
+					SISKO
+			Retrace his steps.  See what you
+			come up with.
+				(a beat)
+			Dax, you will temporarily assume
+			Mister O'Brien's duties.
+
+	Dax's face is slick with perspiration.  She appears slightly
+	disoriented.
+
+					DAX
+			Yes... I'll...
+
+	The others are now aware of her discomfort.
+
+					SISKO
+			Is there a problem, Lieutenant?
+
+	Dax stares blankly at him.
+
+					SISKO
+			Lieutenant.
+
+	Dax forces herself to speak calmly and deliberately.
+
+					DAX
+			I'm sorry, Benjamin, but... I'm unable
+			to... foolish assembled regal...
+			control weather.
+
+	Hold on reactions.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT TWO           19A.
+
+22   EXT. - SPACE - DEEP SPACE NINE (OPTICAL)
+
+23   INT. INFIRMARY - DAY TWO
+
+	Sisko and Bashir are at a wall monitor studying an Okudagram
+	which details a virus-like organism.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT TWO            20.
+
+23   CONTINUED:
+
+					BASHIR
+			Commander, spontaneous development
+			of aphasia is virtually impossible.
+			But we saw Lieutenant Dax become
+			aphasic before our eyes.  That told
+			me we were dealing with a disease
+			that only mimics aphasia.  So I ran
+			a full neuro-synaptic comparison of
+			Dax and O'Brien.
+				(pointing to monitor)
+			And found this in the temporal lobes
+			of both patients.
+
+					SISKO
+			A virus?
+
+					BASHIR
+				(nods)
+			It imposes itself within established
+			synaptic pathways and then randomly
+			reroutes them.  For example, when I
+			look at this...
+				(picks up tricorder)
+			... a process occurs in my brain which
+			connects this stimulus to the word
+			"tricorder."  The virus disrupts
+			that process.
+
+					SISKO
+			I'd see the tricorder but I would
+			say something ridiculous like...
+			window.
+
+					BASHIR
+			Exactly.
+
+	Suddenly we HEAR a BABBLE OF VOICES from behind them.
+
+23A  NEW ANGLE
+
+	Sisko and Bashir turn to see NURSE JABARA and two STARFLEET
+	CREWMEMBERS at the doorway.
+
+					NURSE JABARA
+			Doctor, I think you better get over
+			here.
+
+	Sisko and Bashir walk over and are immediately confronted by
+	the crewmembers, both talking at once... and making no sense
+	at all.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT TWO            21.
+
+23A  CONTINUED:
+
+				STARFLEET APHASIA VICTIM ONE
+
+			Night, the flow trade again.
+
+				STARFLEET APHASIA VICTIM TWO
+
+			View lost pile luck.  Away tunnel
+			back the garden.
+
+	Sisko and Bashir exchange a look.
+
+					SISKO
+			Doctor, I want this station put under
+			emergency quarantine immediately.
+
+24   INT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+25   INT. PROMENADE - ANGLE ON ODO
+
+	As he exits Turbolift.  He glances up and down the street,
+	which is deserted except for two passersby.  Odo is about to
+	reenter the Turbolift to continue his rounds, when he hears
+	noise coming from Quark's.  He goes to investigate.
+
+26   INT. QUARKS
+
+	Surprisingly busy, Odo ENTERS, takes one look at the crowd,
+	and makes a bee line for Quark, who is behind the bar.
+
+					ODO
+			Quark, what is going on here?
+
+					QUARK
+			What's it look like?
+
+					ODO
+			It looks like business as usual.
+			But that's impossible, because all
+			shops and business have been closed
+			until further notice.
+
+					QUARK
+			Except, of course, for essential
+			station operations.
+
+					ODO
+			For which this place hardly qualifies.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO            22.
+
+26   CONTINUED:
+
+	Quark eyes the house.
+
+					QUARK
+			I don't think they would agree.
+			This quarantine has everyone on
+			edge, Constable.  Would you deprive
+			them of a little harmless diversion?
+
+					ODO
+			They'd be safer in their quarters.
+
+	Asoth passes by.
+
+					ASOTH
+			Quark, that Kohlanese stew...
+			magnificent.
+
+	Quark nods modestly, then notices Odo's questioning look.
+
+					QUARK
+			Fortunately my assistant, Rom, was
+			able to fix the replicators.
+
+					ODO
+			Yes, very fortunate.
+
+	But Odo's suspicions have been raised.
+
+27   INT. PROMENADE SECOND LEVEL
+
+	CAMERA PANS along the empty corridor until it comes to rest
+	on JAKE, who leans against the railing, looking down at the
+	street below.
+
+					SISKO (V.O.)
+			Jake!
+
+	Jake's head snaps up... sees his father headed his way.
+
+					SISKO
+				(an angry parent)
+			I expected you home an hour ago.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT TWO            23.
+
+27   CONTINUED:
+
+					JAKE
+			Sorry.  I was over at Nog's.
+
+	They start down the staircase.
+
+					JAKE
+			Dad, about this quarantine, it's
+			going to be okay, isn't it?
+
+					SISKO
+				(reassuring)
+			It's just a precaution.  Nothing
+			more.
+
+28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS
+
+	They reach the bottom of the stairs only to find an anxious
+	Captain Jaheel waiting for them.
+
+					JAHEEL
+			I wish I shared your confidence
+			Commander.
+
+	Sisko gives Jake an encouraging pat.
+
+					SISKO
+			Go on home, son.  I'll see you at
+			dinner.
+
+	Jake EXITS - Sisko watches him go then turns a disapproving
+	eye towards Jaheel.
+
+					SISKO
+			Captain Jaheel, all visitors have
+			been confined to their ships.
+
+					JAHEEL
+			Believe me, there is no place I'd
+			rather be.
+
+					SISKO
+			Then what are you doing here?
+
+					JAHEEL
+			Searching for you.  Commander, I
+			officially request permission to
+			leave this station.
+
+	Sisko's response is immediate and leaves no room for doubt.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO            24.
+
+					SISKO
+			Request denied.
+
+					JAHEEL
+			But none of my crew has been affected
+			by this virus of yours, and unless I
+			depart at once my entire cargo will
+			be ruined...
+
+					SISKO
+				(an order)
+			Captain, I suggest you return to
+			your ship.  Now.
+
+					JAHEEL
+				(urgent)
+			Please... I don't want to get sick.
+
+	Sisko's tone softens as he realizes Jaheel is terrified of
+	the virus.
+
+					SISKO
+			I'm sorry, but until we find a cure
+			for this thing no one's going
+			anywhere.
+
+	A beat.  Then mustering up his remaining dignity Jaheel nods
+	and EXITS.
+
+	Hold on Sisko's reaction.
+
+29   INT. CORRIDOR
+
+	Quark pushes a small cart along the passageway.
+
+29A  ANGLE
+
+	as he stops in front of a door with a Starfleet logo
+	prominently displayed.  He checks the corridor -- it's clear.
+	He taps a code into a Ferengi PADD.  We HEAR A CLICK; the
+	door OPENS and he ENTERS.
+
+30   INT. EMPTY CREW QUARTERS (OPTICAL)
+
+	The room is dark.  Quark moves quickly to the replicator,
+	checks a PADD.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO           24A.
+
+					QUARK
+			Let's start with one Ferengi
+			Stardrifter, please.  Extra strong.
+
+	The goblet sized drink MATERIALIZES.  Quark turns to place
+	it on the cart -- which suddenly MORPHS into Odo.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT TWO            25.
+
+30   CONTINUED:
+
+	A startled Quark drops the glass, but quickly regains his
+	wits.  After all he's been playing "games" like this with
+	Odo for many years.
+
+					QUARK
+			I thought the front wheels were
+			sticking a bit.
+
+					ODO
+			Unauthorized access to crew quarters
+			is a crime, Quark.
+				(a beat)
+			You could have just asked to use the
+			replicators.
+
+					QUARK
+			There's an old Ferengi saying, "Never
+			ask when you can take."
+				(trying to hide his
+				annoyance)
+			How did you figure it out, anyway?
+
+					ODO
+			You claimed Rom fixed your
+			replicators.
+
+					QUARK
+			So?
+
+					ODO
+			Rom's an idiot.  He couldn't fix a
+			straw if it was bent.
+
+	As he leads Quark out of the room.
+
+					QUARK
+			You're right.  He is an idiot.  Remind
+			me to get rid of him tomorrow.
+
+31   INT. OPS
+
+	Sisko, Bashir, and Kira at the operations table.
+
+					BASHIR
+			Based on the levels of the virus
+			found in the patients' blood, I believe
+			it's being absorbed through ingestion.
+
+					SISKO
+			You're saying it's in our food?
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT TWO           25A.
+
+31   CONTINUED:
+
+					KIRA
+			That's not possible.  All the food
+			on the station is replicated and all
+			the replicators use bio-filters.
+			They automatically screen out
+			contaminants, including viruses.
+
+             DEEP SPACE: "Babel" REV. 10/07/92 - ACT TWO            26.
+
+31   CONTINUED:
+
+					BASHIR
+			Major, I have analyzed samples from
+			all over the station.  All of the
+			food on the command level is
+			contaminated with the virus.
+
+					SISKO
+			But all of us here have eaten from
+			those replicators.  How come we're
+			not aphasic?
+
+					BASHIR
+			This virus is highly adaptable.  Its
+			gestation period seems to vary within
+			each individual.
+
+	Both Sisko and Kira consider this news for a beat.
+
+					KIRA
+			According to O'Brien's duty log the
+			last thing he did before become
+			aphasic was fix the command level
+			replicators.  But I had a repair
+			crew inspect the site.  They found
+			nothing suspicious.
+
+					SISKO
+			Look again.  Closer.
+
+	Kira nods.
+
+					SISKO
+				(continuing, to Bashir)
+			Let's shut down the command level
+			replicators.  At the very least we
+			can contain this thing.
+
+					BASHIR
+			I'm not sure that's going to do it,
+			sir.  I've been getting aphasic
+			patients from all over the station...
+
+					SISKO
+			But how is that possible...
+
+					ODO (O.S.)
+			You can thank Quark.
+
+32   ANGLE TO INCLUDE ODO
+
+	as he joins the group.
+
+             DEEP SPACE: "Babel" REV. 10/15/92 - ACT TWO            27.
+
+32   CONTINUED:
+
+					ODO
+			I caught him using a replicator in
+			one of the vacant crew quarters.  He
+			was producing his entire menu out of
+			there.
+
+					SISKO
+			And contaminating all his customers.
+
+	A long beat as the implications sink in.  Bashir takes a
+	reading with his medical tricorder --
+
+					BASHIR
+			If this virus is present in a large
+			enough segment of the population, it
+			could mean...
+
+	Bashir rises.
+
+33   NEW ANGLE
+
+	As he quickly crosses over to Dax's station.  He feeds the
+	information from the tricorder into a monitor.
+
+					SISKO
+			What is it, Doctor?
+
+					BASHIR
+			I just took an air sample.
+
+34   INSERT MONITOR
+
+	We recognize the same organism we saw earlier in the
+	Infirmary.
+
+35   RESUME SCENE
+
+	Sisko recognizes it too.
+
+					SISKO
+			The virus?
+
+					BASHIR
+				(nodding)
+			It's mutated into an airborne variety.
+
+             DEEP SPACE: "Babel" REV. 10/13/92 - ACT TWO            28.
+
+35   CONTINUED:
+
+					ODO
+				(speaking for all)
+			Which means?
+
+					BASHIR
+			Which means the whole station is
+			infected.
+
+	And off their reactions we...
+
+									FADE OUT.
+
+
+                        END OF ACT TWO
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT THREE           29.
+                           ACT THREE
+
+36   EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+					SISKO (V.O.)
+			Station log Stardate 46423.7.  Nearly
+			sixty percent of DS Nine's population
+			has now contracted the aphasia virus.
+			We are advising all incoming ships
+			to maintain their distance from the
+			station until further notice.
+
+37   INT. ACCESS TUNNEL (SAME LOCATION AS TEASER)
+
+	Kira and a repair crew are carefully rechecking every inch
+	of the tunnel.  Kira scans an open panel with a tricorder.
+	She reacts to a reading and carefully reaches inside the
+	circuitry and as her fingers close around her target...
+
+38   INT. COMMANDER'S OFFICE
+
+	The ALIEN DEVICE we saw in the teaser is now resting on
+	Sisko's table.
+
+38A  WIDEN TO INCLUDE
+
+	Sisko and Kira.
+
+					KIRA
+			I found it inside the replicator's
+			pattern generator.
+
+					SISKO
+			O'Brien must have accidently triggered
+			it when he repaired the system.
+
+					KIRA
+			According to Bashir, it introduced
+			an anomalous programming sequence
+			into the materialization subroutine.
+			In effect it built the virus directly
+			into the replicated food at a
+			molecular level.
+
+					SISKO
+			So what we have here is sabotage.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT THREE           30.
+
+38A  CONTINUED:
+
+					KIRA
+			Cardassian sabotage.
+
+					SISKO
+			How can you be sure?
+
+	Kira picks up the device and slowly turns it over in her
+	hands.
+
+					KIRA
+			It has a diboridium core for a power
+			source.  That's Cardassian technology.
+
+	She hands the device over to Sisko who studies it.
+
+            DEEP SPACE: "Babel" REV. 10/15/92 - ACT THREE           31.
+
+38A  CONTINUED:  (2)
+
+					BASHIR'S COM VOICE
+			Bashir to Sisko.
+
+					SISKO
+				(taps com)
+			Sisko here.
+
+					BASHIR'S COM VOICE
+			I think you'd better get down here
+			to the Infirmary, Commander.
+
+					SISKO
+			On my way.
+
+	And he's in motion...
+
+39   INT. INFIRMARY
+
+	Sisko ENTERS and is met by a solemn Bashir.
+
+					SISKO
+			You wanted to see me, Doctor?
+
+	Before Bashir can answer, Sisko spots Jake seated on the
+	diagnostic bed, alone and scared.
+
+					SISKO
+			Jake?
+
+40   ANGLE - SISKO AND JAKE
+
+	as they embrace.
+
+					SISKO
+			It's okay, son.  It's okay.  I'm
+			here.
+
+					JAKE
+			Left become better control entire
+			hope.
+
+	Sisko gives Jake a reassuring smile, but he's a very worried
+	father right now.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT THREE           32.
+
+40   CONTINUED:
+
+					BASHIR
+			We've converted some empty crew
+			quarters into a hospital ward.  He'll
+			be well looked after.
+
+					SISKO
+			I'll take him there myself.
+
+				(to Jake)
+			Come on Jake.  It's going to be all
+			right.
+
+	He drapes his arm around Jake's shoulder and leads him toward
+	the door.
+
+					BASHIR
+			Commander, when you have a moment...
+			I've found something I'd like to
+			show you.
+
+	Sisko nods and EXITS with Jake.
+
+41   INT. HOSPITAL WARD
+
+	Transformed into what at first glance resembles a refugee
+	camp.  Aphasic victims are scattered throughout the room,
+	many seated on cots that have been set up along the walls.
+	Volunteer nurses (including Nurse Jabara) patrol the area,
+	communicating with the patients by gesture and body language.
+
+42   ANGLE ON SISKO AND JAKE
+
+	and they ENTER.  Sisko spots Quark struggling to make himself
+	understood to an N.D. Bajoran seated on a cot.
+
+					QUARK
+			Money... hand... mine... give.
+
+					SISKO
+			Well, Quark, I see even you couldn't
+			weasel your way clear of this one.
+
+	Quark straightens up and flashes a self-satisfied grin.
+
+					QUARK
+			You underestimate the Ferengi immune
+			system, Commander.  I'm merely here
+			to visit some of my less fortunate
+			customers...
+
+            DEEP SPACE: "Babel" REV. 10/15/92 - ACT THREE           33.
+
+42   CONTINUED:
+
+					QUARK
+			To make certain they're not faking
+			the illness to avoid paying their
+			bills.
+
+					SISKO
+			No one's that devious Quark.
+
+					QUARK
+			I am.
+
+	He turns back to the Bajoran patient.
+
+					QUARK
+			You... gold... owe... me.
+
+43   NEW ANGLE
+
+	as Sisko leads Jake deeper into the room.  At first they
+	both are hesitant, this place looks pretty grim, but they
+	lighten up when they notice O'Brien and Dax who approach.
+	Sisko and Dax exchange rueful smiles.
+
+					SISKO
+				(simply)
+			We're doing everything possible.
+
+	And though Dax and the others can't understand the words,
+	Sisko's concern comes through loud and clear.
+
+	Dax holds out a comforting hand to Jake.  He looks over at
+	Sisko who leans over and kisses him on the head.
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT THREE           34.
+
+43   CONTINUED:
+
+					SISKO
+			I'll be back as soon as I can.
+
+	Sisko turns and EXITS.  Leaving his son behind is no easy
+	thing.
+
+44   INT. INFIRMARY
+
+	Bashir directs Sisko over to a wall monitor... activates the
+	screen.  An Okudagram of a DNA sequence appears on the
+	monitor.
+
+					BASHIR
+			The virus is synthetic, Commander.
+			Its nucleotide sequence is too
+			perfect.  It's clearly not natural.
+
+					SISKO
+			You're saying the Cardassians
+			genetically engineered this thing?
+
+					BASHIR
+			That's what I thought at first.  But
+			I've studied Cardassian genetic
+			engineering.  They always build
+			distinctive monoclonial links into
+			their DNA.  This virus has none of
+			those features.
+
+					SISKO
+			All right, then who made it.
+
+					BASHIR
+				(enthusiasm rising)
+			That's what I wanted to find out.
+			So I referenced all known DNA
+			construction techniques in the
+			Federation records...
+
+	Indicates a section of the DNA.
+
+					BASHIR
+			This protein series was the key.  It
+			indicates that...
+
+					SISKO
+				(enough already)
+			Doctor, who created this virus?
+
+					BASHIR
+			The Bajorans, sir.  I believe this
+			must have been a terrorist plot to
+			sabotage the Cardassians while they
+			were here.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT THREE           35.
+
+44   CONTINUED:
+
+	Off Sisko's surprised reaction...
+
+45   INT. COMMANDER'S OFFICE
+
+	Sisko, Kira, and Odo.  Kira is holding the Cardassian
+	programming device.
+
+					KIRA
+			The energy decay of this power core
+			indicates that it dates back to the
+			building of the station.
+
+					ODO
+			That's eighteen years ago.  I suppose
+			the Bajoran underground could have
+			smuggled it aboard during
+			construction.
+				(a beat)
+			Before I took over as head of
+			security.
+
+					SISKO
+			But why would the underground go to
+			all the trouble of planting a booby
+			trap and then not set it off?
+
+	Good question.
+
+					ODO
+			Maybe they forgot.
+
+					KIRA
+			More likely they were captured or
+			killed before they could release it.
+
+					SISKO
+			We need to find out who created the
+			virus.
+				(to Kira)
+			You're our best hope.
+
+	Kira nods, knowing she has her work cut out for her.
+
+					KIRA
+			Eighteen years is a long time.
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT THREE           36.
+
+					ODO
+			Besides, even if she finds this
+			person... that's no guarantee he can
+			help us.
+
+					SISKO
+			We just have to hope he remembers
+			the antidote.
+
+					ODO
+			That's assuming he ever bothered to
+			create one.
+
+	That leaves them all with something to think about.
+
+46   INT. OPS - CLOSE ON KIRA
+
+	standing in front of a monitor at Dax's station.  GALIS BLIN,
+	a middle aged Bajoran woman is on the screen.  (In b.g. we
+	see that Ops is running on a skeleton crew.)
+
+					KIRA
+			... Had to be someone in the
+			underground familiar with genetic
+			engineering.
+
+					GALIS
+				(thinks for a beat)
+			Eighteen years ago... sounds like
+			something Dekon Elig might have
+			thought up.
+
+					KIRA
+			How can I find him?
+
+					GALIS
+				(thinking)
+			Last I heard he was in a Cardassian
+			prison.
+
+					KIRA
+			Where was he being held?
+
+					GALIS
+			The Velos Seven Internment Camp.
+			But that was nine years ago.
+
+					KIRA
+			And you have no idea where he is
+			now?
+				(pressing)
+			Think, Galis.  This is important.
+
+            DEEP SPACE: "Babel" REV. 10/15/92 - ACT THREE           37.
+
+					GALIS
+				(sympathetic)
+			I'm sorry Kira, but it was all so
+			long ago.
+
+46A  HOLD ON KIRA
+
+	not ready to give up.
+
+47   OMITTED
+
+            DEEP SPACE: "Babel" REV. 10/21/92 - ACT THREE           38.
+
+48   INT. CREW QUARTERS/HOSPITAL WARD
+
+	Nurse Jabara is making her rounds when she hears a commotion
+	on the other side of the room.
+
+49   NEW ANGLE
+
+	As a frantic Jake comes running over.
+
+					JAKE
+			Roll linger when life.  Roll linger
+			when.
+
+					NURSE JABARA
+			What is it, Jake?
+
+	Jake drags her over to where Dax is kneeling over a motionless
+	O'Brien.  Dax is checking his vital signs.
+
+					DAX
+				(to nurse Jabara)
+			Other support strong courage.
+
+	She takes the nurse's hand and presses it to O'Brien's
+	forehead.
+
+					NURSE JABARA
+			He's running a high fever.
+
+					JAKE
+			Open way long.  Openway.
+
+	Nurse Jabara taps her combadge.
+
+					NURSE JABARA
+			Doctor, we have an emergency here in
+			the crew quarters.
+
+					BASHIR (COM VOICE)
+			I'll be right there.
+
+50   CAMERA HOLD
+
+	on an unconscious O'Brien, his face drawn and sweating.
+
+									FADE OUT.
+
+                       END OF ACT THREE
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT FOUR            39.
+                           ACT FOUR
+
+	FADE IN:
+
+51   INT. INFIRMARY - CLOSE ON O'BRIEN
+
+	His body racked with fever.
+
+52   ANGLE ON BASHIR
+
+	Checking his vital signs monitor.  They're dangerously low.
+
+53   ANGLE WIDENS
+
+	to include a grim faced Sisko.
+
+					SISKO
+			How is he, Doctor?
+
+					BASHIR
+			Not good, I'm afraid.  It seems the
+			virus has attacked his autonomic
+			nervous system.
+
+					SISKO
+			Can he be stabilized?
+
+					BASHIR
+			He hasn't responded to neural
+			stimulation.  I've given him thirty
+			c.c.'s of corophizine to avoid
+			secondary infection, but so far I've
+			been unable to lower his fever.
+
+					SISKO
+			What are his chances?
+
+	Bashir eyes the monitor, then faces Sisko.
+
+					BASHIR
+			Unless I find some way to counteract
+			the virus, he'll be dead in twelve
+			hours.
+
+					SISKO
+				(gently; knows Bashir
+				is doing his best)
+			Have you made any progress?
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT FOUR            40.
+
+53   CONTINUED:
+
+					BASHIR
+				(a painful admission)
+			No... I've tried base pair de-
+			stabilizers, sequential disruption,
+			nothing seems to affect it.
+				(a beat)
+			Sir, I have seven other aphasic
+			patients displaying the same symptoms
+			as O'Brien here.  And I'm afraid
+			it's only the beginning.
+
+					SISKO
+			Keep searching, Doctor.  And let's
+			hope Major Kira can find whoever's
+			responsible for creating this virus.
+
+					BASHIR
+			I'd like to meet that person myself.
+			This virus is a work of genius.
+
+					SISKO
+				(dryly)
+			I'll try and arrange it for you.
+
+54   OMITTED
+
+54A  INT. OPS - CLOSE ON KIRA
+
+	at her station.
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT FOUR           40A.
+
+54A  CONTINUED:
+
+					COMPUTER VOICE
+			Link established with the Bajoran
+			Archival Records.
+
+					KIRA
+			Locate files on Velos Seven Internment
+			camp.
+
+					COMPUTER VOICE
+			Ready.
+
+					KIRA
+			Do you show a record of an inmate
+			named Dekon Elig?
+
+					OMPUTER VOICE
+			Affirmative.
+
+					KIRA
+			Biographical data...
+
+					COMPUTER VOICE
+			Dekon Elig.  Geneticist...
+
+	Kira smiles triumphantly.
+
+					COMPUTER VOICE
+			Former member of the Higa Metar Sect
+			of the Bajoran underground.  Killed
+			while attempting escape Stardate
+			39355.  Certificate of Death on file.
+
+	The worst news possible.  Kira slumps back in defeat.
+
+					SISKO (V.O.)
+			No need to ask how you're doing.
+
+55   ANGLE WIDENS
+
+	To include Sisko as he EXITS from the Turbolift.
+
+            DEEP SPACE: "Babel" REV. 10/20/92 - ACT FOUR            41.
+
+55   CONTINUED:
+
+					KIRA
+			I'm chasing after ghosts.
+
+					SISKO
+			You have twelve hours to catch one.
+
+					KIRA
+			And then?
+
+					SISKO
+			People start dying.
+
+	A silent beat between them, then Sisko LEAVES.  Kira turns
+	back to her console.
+
+					KIRA
+				(a stab in the dark)
+			Computer, display Dekon Elig's
+			Certificate of Death.
+
+	The certificate is brought up on her monitor.  (We do not
+	have to see this on screen.)
+
+					KIRA
+				(continuing)
+			Identify signature of witness.
+
+					COMPUTER VOICE
+			Certificate of Death was witnessed
+			by Surmak Ren, Bajoran Medical
+			Assistant.
+
+					KIRA
+			Show me biographical data on Surmak
+			Ren.
+
+					COMPUTER VOICE
+			Doctor Surmak Ren.  Former member of
+			the Higa Metar sect of the Bajoran
+			underground.  Repatriated to Bajor
+			upon closing of the Velos Seven
+			Internment Camp, Stardate 46302.
+			Current status... unknown.
+
+55A  HOLD ON KIRA
+
+	the closer she gets to an answer... the farther away she has
+	to go.
+
+            DEEP SPACE: "Babel" REV. 10/20/92 - ACT FOUR           41A.
+
+56   INT. QUARK'S
+
+	abandoned except for Quark alone at the dabo table.  As the
+	wheel grinds to a halt.
+
+					QUARK
+				(halfheartedly)
+			Dabo!
+
+					ODO
+			Having any luck?
+
+57   ON ODO
+
+	standing in the doorway.  He makes his way over to the table.
+
+					QUARK
+			I haven't won a spin in hours.
+				(brightening)
+			Care to place a friendly wager?
+				(off Odo's hesitation)
+			If it's your reputation you're
+			thinking about... no one need ever
+			know.
+
+					ODO
+			It has nothing to do with my
+			reputation.  The truth is I've
+			never...
+				(a beat)
+			... learned the game.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT FOUR            42.
+
+57   CONTINUED:
+
+					QUARK
+				(incredulous)
+			You mean, you've sat in here all
+			those years and you don't even know
+			how to gamble?
+
+					ODO
+				(stiffly)
+			That's correct.
+
+					QUARK
+				(laughing)
+			No wonder you always look so bored.
+				(smells a quick killing)
+			The rules are quite simple, actually.
+			I would be happy to teach them to
+			you...
+
+					ODO
+			Some other time perhaps.  Sisko needs
+			me in Ops.
+				(pointedly)
+			And with the entire security force
+			stricken with aphasia, that leaves
+			the promenade in a very vulnerable
+			position.
+
+	Quark's eyes light up at that thought.
+
+					QUARK
+			How... unfortunate.
+
+					ODO
+			Consider it a warning, Quark.  Because
+			I'm holding you personally responsible
+			for anything that turns up missing.
+			Is that understood?
+
+					QUARK
+			Perfectly.
+
+	Odo stares flatly at Quark until he's convinced that the
+	Ferengi has gotten the message.  Then he turns and EXITS.
+
+58   HOLD ON QUARK
+
+	who gives the wheel a frustrated spin...
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FOUR            43.
+
+58   CONTINUED:
+
+					QUARK
+				(a curse)
+			Dabo!
+
+59   INT. INFIRMARY
+
+	Bashir is in front of a wall monitor, using the computer to
+	test antidotes.  He is exhausted.
+
+					BASHIR
+			Computer, analyze test sample thirty-
+			seven delta.  Detail effects on viral
+			containment.
+
+59A  ON MONITOR - BASHIR'S POV
+
+	We see a medical readout.  The words are clearly in English
+	and make perfect sense.
+
+					COMPUTER VOICE
+			Working...
+				(beat)
+			Analysis complete.  Sample thirty-
+			seven delta ineffective...
+
+59B  ANGLE ON BASHIR
+
+	he sags... Another failure.
+
+					COMPUTER VOICE
+				(continuing)
+			... viral protein sheath is
+			unaffected... Nucleotide sequence
+			remains intact...
+
+	Bashir's head snaps up, a look of dread in his face.
+
+					BASHIR
+			Computer... Replay morning.
+
+					COMPUTER VOICE
+			Command unclear.  Please repeat.
+
+60   ON MONITOR - BASHIR'S POV
+
+	The medical read out on the screen is now an indecipherable
+	jumble.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT FOUR           43A.
+
+60   CONTINUED:
+
+					BASHIR
+			Glass lunch judge a bin to let it...
+
+					COMPUTER VOICE
+			Command unclear.  Please repeat.
+
+61   RESUME BASHIR
+
+	As he realizes what has happened.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FOUR            44.
+
+62   INT. OPS
+
+	A weary Kira is still at her console.
+
+					KIRA
+			Computer, establish link with the
+			Bajoran Medical Index for Northwestern
+			District...
+
+
+					COMPUTER VOICE
+			Link established.
+
+					KIRA
+			Access all information on Doctor
+			Surmak Ren.
+
+					COMPUTER VOICE
+			There are no records matching that
+			name.
+
+	Kira's not surprised.
+
+					KIRA
+			Try the Northeastern District.  Same
+			search.
+
+					COMPUTER VOICE
+			Doctor Surmak Ren, currently serving
+			as Chief Administrator of the Ilvian
+			Medical Complex.
+
+	Kira jolts forward in her seat.
+
+					KIRA
+			Computer, open a channel to the Ilvian
+			Medical Complex... Administrators
+			office.
+
+	A soft, rather pudgy man SURMAK REN appears on the console.
+
+					SURMAK
+				(a pleasant smile)
+			This is Doctor Surmak.  And you are?
+
+					KIRA
+			Major Kira Nerys.  Bajoran liaison
+			to Deep Space Nine.
+
+					SURMAK
+			Ah yes, the old Cardassian mining
+			station.  How can I help you?
+
+					KIRA
+			That depends.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FOUR           44A.
+
+62   CONTINUED:
+
+					SURMAK
+			On what?
+
+					KIRA
+			On whether or not you helped Dekon
+			Elig plant an aphasia virus here,
+			eighteen years ago.
+
+					SURMAK
+				(smile vanishing)
+			I have no idea what you're talking
+			about.
+
+	The screen goes blank.  Kira slams the deck in frustration.
+
+63   INT. COMMANDER'S OFFICE
+
+	Odo, ill at ease, stands before Sisko.
+
+					ODO
+			Look here, Sisko.  I'm a security
+			officer.  A good one.  But that
+			doesn't make me qualified to help
+			you run station operations.
+
+					SISKO
+			You're probably right, Constable...
+
+	He gestures toward Ops.
+
+            DEEP SPACE: "Babel" REV. 10/22/92 - ACT FOUR            45.
+
+63   CONTINUED:
+
+					SISKO
+			But as you can see, you're all I've
+			got.
+
+	Odo reluctantly accepts his fate.
+
+64   NEW ANGLE
+
+	As Kira comes hurrying into Sisko's office.
+
+					KIRA
+			Commander, I think I found our
+			scientist.
+
+					SISKO
+			Does he have an antidote?
+
+					KIRA
+			I don't know.  He broke the connection
+			the minute I mentioned the virus.
+
+	She heads towards the door.  Sisko on her heels.
+
+					SISKO
+			Major, you mind telling me where
+			you're going?
+
+					KIRA
+			To continue my conversation with
+			Doctor Surmak.
+
+	Sisko blocks her path...
+
+					SISKO
+			Major, I can't allow you to break
+			quarantine.  We can't risk spreading
+			the virus to Bajor.
+
+					KIRA
+			I'm well aware of that, Commander.
+			As a matter of fact, I don't intend
+			to step foot on the planet.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FOUR            46.
+
+	Sisko still isn't sure.  Odo steps forward to break the
+	stalemate.
+
+					ODO
+			Better let her go, Sisko.
+
+	Sisko's gaze demands Odo give a reason.
+
+					ODO
+				(continuing)
+			She's all we've got.
+
+	A beat.  Sisko steps aside.  Kira nods goodbye, EXITS the
+	office.
+
+					ODO
+			I just hope there's someone left to
+			greet her when she returns.
+
+	Hold on Sisko.  His thoughts exactly.
+
+65   EXT. SPACE DEEP SPACE NINE (OPTICAL)
+
+	as Kira's Runabout leaves the station.
+
+66   INT. CREW QUARTERS/HOSPITAL WARD (DAY THREE)
+
+	Jake and Dax are among a crowd watching another aphasic
+	patient, in an advanced state of the disease, being carried
+	out on a stretcher.
+
+67   ANGLE SISKO
+
+	Making his way through the crowd.
+
+					SISKO
+			Jake!
+
+	Jake brightens at the sight of his dad.
+
+					SISKO
+			How's it going, fella?
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT FOUR            47.
+
+67   CONTINUED:
+
+	They hug, Sisko exchanges glances with Dax, who sensing their
+	need for privacy, nods and steps away.
+
+68   NEW ANGLE
+
+	Sisko seats Jake on a cot, then kneels down so that they can
+	be at eye level.  He knows Jake can't understand him, but
+	he's hoping that his tone and expression can convey all that
+	he's feeling.
+
+					SISKO
+			I've missed you, son.  I know things
+			don't look too good right now.  But
+			they'll get better.  You have to
+			believe that.  Because... I'm not
+			going to lose you, Jake.  You hear
+			me?  I'm not going to lose you.
+
+	And the intensity of Sisko's words do get through to Jake,
+	who smiles and gives him a "we're in this together" nod.
+	Sisko smiles back.  And for a moment, there is communication
+	and understanding.
+
+69   OMITTED
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FOUR            48.
+
+70   INT. OPS
+
+	Odo at the operations table, stares at a panel with growing
+	unease.
+
+71   ANGLE SISKO
+
+	as he ENTERS OPS.
+
+					ODO
+			You better take a look at this... We
+			have activity on Docking Port Five.
+			I think a ship's about to depart.
+
+					SISKO
+			Docking Port Five?  That's Jaheel's
+			ship.  Put him on screen.
+
+72   THE VIEWSCREEN (OPTICAL)
+
+	The image of Captain Jaheel appears.  He's frantically working
+	his ship's control panels.
+
+73   INTERCUT WITH SISKO AND ODO (OPTICAL)
+
+	Sisko, tensing in anger.
+
+					SISKO
+			Captain, your ship has not been
+			cleared for departure.  The mooring
+			clamps are locked.  And I don't intend
+			to release them.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FOUR            49.
+
+73   CONTINUED:
+
+					JAHEEL
+			I suggest you change your mind.  I'm
+			taking aft thrusters to one half.
+
+74   EXT. SPACE - JAHEEL'S SHIP (OPTICAL)
+
+	Engine's firing but the vessel remains held fast to station.
+
+75   INT. OPS (OPTICAL)
+
+	as before.
+
+					SISKO
+			Captain, cut your engines before you
+			rip your ship apart.
+
+					ODO
+				(checking panel)
+			He's not reducing power.
+
+					SISKO
+			Jaheel, I'm ordering you to stand
+			down.
+
+	Jaheel's ship shudders from the strain of his engines.
+
+					JAHEEL
+			Your orders are no concern of mine.
+			My entire crew has been confined to
+			your hospital.  I must leave now
+			while I can still function.
+
+					SISKO
+			Look, I understand you're frightened.
+			But believe me, you're better off
+			here.  You don't want to be out there
+			alone and get hit by the virus.
+
+					JAHEEL
+			Don't worry about me.  I'm fine and
+			I intend to stay that way.
+
+	Sisko hits a panel to mute communication with Jaheel.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT FOUR           49A.
+
+75   CONTINUED:
+
+					SISKO
+			Damn.
+
+					ODO
+			What's wrong?
+
+					SISKO
+			There's too much stress on the mooring
+			clamps.  They're not retracting.
+
+	A violent shake almost knocks Sisko and Odo off their feet.
+	The Viewscreen image disappears into static.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FOUR            50.
+
+75   CONTINUED:	(2)
+
+					ODO
+			His aft isolation plate buckled.
+
+	Sisko comes over to check the console.
+
+					SISKO
+			The main power core's been ruptured.
+			If the internal fuel cells collapse
+			the whole ship will explode.
+
+					ODO
+			And take half the docking ring with
+			it.
+
+	Off Sisko and Odo's expressions...
+
+									FADE OUT.
+
+                        END OF ACT FOUR
+
+         DEEP SPACE: "Babel" REV. 10/13/92 - ACT FIVE 51-53.
+                           ACT FIVE
+
+	FADE IN:
+
+75A  EXT. SPACE - THE RUNABOUT (OPTICAL)
+
+	Orbiting around Bajor.
+
+75B  INT. RUNABOUT
+
+	Kira in the cockpit, taking readings.
+
+					KIRA
+			Computer, isolate a comline to the
+			Ilvian Medical Complex.
+			Administrator's office.
+
+					COMPUTER VOICE
+			Line isolated.
+
+					KIRA
+			Scan the office for lifeforms.
+
+					COMPUTER VOICE
+			One life form present.
+
+					KIRA
+			Lock on and stand by to transport.
+
+	She works console.
+
+75C  INCLUDE MONITOR (OPTICAL)
+
+	as Surmak Ren appears on screen.
+
+					SURMAK
+			This is Doctor Surmak.
+
+					KIRA
+			Hello again, Doctor.  Just wanted to
+			make sure you were in your office.
+
+					SURMAK
+			I have nothing to say to you...
+
+	Surmak moves to sever their connection, but Kira is quicker --
+	she touches a panel and Surmak DEMATERIALIZES.  A delighted
+	Kira swirls around in her chair.
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT FIVE           53A.
+
+76
+thru   OMITTED
+82
+
+83   NEW ANGLE (OPTICAL)
+
+	to find a flabbergasted Surmak MATERIALIZING on the runabout's
+	Transport pad.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FIVE            54.
+
+					KIRA
+			Welcome aboard.
+
+
+	Surmak steps off the pad... and it's wrath of God time.
+
+					SURMAK
+			This is outrageous.  I demand you
+			return me to my office immediately.
+
+					KIRA
+			Relax, Doctor.  You won't be gone
+			long.
+
+84   ANGLE KIRA
+
+	Working panels... plotting a new course... Surmak feels the
+	ship leaving orbit.
+
+					SURMAK
+			Where are you taking me?
+
+					KIRA
+			To the space station.
+
+	Off Surmak's reaction.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FIVE            55.
+
+84A  INT. OPS (FORMERLY SCENE 76)
+
+	Sisko and Odo are staring at the static filled Viewscreen.
+
+					SISKO
+			Try to re-establish visual contact
+			with Jaheel's ship.
+
+					ODO
+				(working console)
+			No response.  His com lines are down.
+
+					SISKO
+			Bypass communications through his
+			secondary grid.  See if you can switch
+			to external pickups.
+
+					ODO
+				(working feverishly)
+			Got it.
+
+84B  ON VIEWSCREEN (OPTICAL)
+
+	The static clears -- replaced with the burning bridge of
+	Jaheel's vessel.  (Jaheel's nowhere in sight)
+
+					ODO
+			His fire control systems don't appear
+			to be working.
+
+					SISKO
+				(checking console)
+			We have about fifteen minutes before
+			the fuel cells collapse.
+
+	Sisko is hit by a wave of dizziness.  He tries to fight it
+	off.
+
+					ODO
+			I hope you feel better than you look.
+
+					SISKO
+				(sweating)
+			It must be that damn virus.
+				(hitting console)
+			This is Sisko.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT FIVE            56.
+
+84B  CONTINUED:
+
+					SISKO (Cont'd)
+			Any station personnel who can
+			understand what I'm saying should
+			come to Ops immediately.  We need
+			help up here.
+				(to Odo)
+			We have to get that ship away from
+			the station.
+
+					ODO
+			Why don't we explode the mooring
+			clamps.  The blast should push the
+			ship away from the docking ring.
+
+					SISKO
+				(agreed)
+			We'll have to get down there and
+			blow them manually.
+
+					ODO
+			I'll do it.
+
+					SISKO
+			All right... you can cross barrels
+			all job appalled.
+
+					ODO
+			What was that you...
+
+					SISKO
+			Bread the arrive seen earlier.
+
+					ODO
+			Oh, I see...
+
+	One look at Odo's face and Sisko knows he's through.  He
+	slumps down helplessly in his chair.
+
+84C  EXT. SPACE RUNABOUT (OPTICAL)
+
+84D  INT. RUNABOUT
+
+	Surmak and Kira still going at it.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FIVE           56A.
+
+84D  CONTINUED:
+
+					SURMAK
+			Major, this is kidnapping.  Turn
+			this ship around or I swear you'll
+			spend the rest of your life in Kran-
+			Tobol Prison.
+
+					KIRA
+			Fine.  But first we need your help.
+			The aphasia virus is spreading through
+			the station.
+
+					SURMAK
+			But why come to me.
+
+					KIRA
+			You helped create the virus didn't
+			you.
+
+	Surmak sits down beside her, nervously trying to cover any
+	suggestion of guilt.
+
+					SURMAK
+			No!  I had practically nothing to do
+			with it.  Dekon Elig created the
+			virus.  I was merely his medical
+			assistant.
+				(half to himself)
+			It all seems like a life time ago.
+			I was only with the underground six
+			months before we were captured.
+				(to Kira, urgent)
+			I am not responsible for this.
+
+					KIRA
+			I'm not looking to place blame.  All
+			I want is the antidote.
+
+					SURMAK
+			But I don't know of any antidote.
+			If Dekon made one, he never told me.
+
+					KIRA
+				(reacts, a beat)
+			Look, all I know is I have a station
+			full of dying people, and you're the
+			closest thing to an expert on this
+			virus.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FIVE           56B.
+
+84D  CONTINUED:	(2)
+
+					SURMAK
+			I sympathize, Major.  But I don't
+			think I can help you.
+
+	Kira stares at Surmak for a beat.
+
+					KIRA
+			All right, then how about helping
+			yourself?
+
+					SURMAK
+			Meaning what?
+
+					KIRA
+				(leaning toward him
+				for emphasis)
+			Meaning I've been infected with your
+			virus, Doctor.  So now you're infected
+			too.
+
+85   TIGHT ON SURMAK
+
+	As Kira's words hit home.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT FIVE           56C.
+
+86   INT. OPS
+
+	Odo taking readings.  Doesn't like what he sees.  (Sisko in
+	b.g.)
+
+
+					ODO
+				(hits com panel)
+			To anyone who can hear me... this is
+			Odo.  Sisko's infected.  I could
+			really use some help in Ops.
+
+					QUARK (V.O.)
+			Do I detect a note of panic in your
+			voice?
+
+86A  WIDER SHOT
+
+	To include Quark.  Odo reacts.  A mixture of surprise and
+	suspicion.
+
+					ODO
+			Quark, am I to believe you're
+			volunteering to help?
+
+					QUARK
+			Who said anything about volunteering?
+			But we can haggle over price later.
+				(enjoying the power)
+			Now how may I be of service?
+
+86B  HOLD ON ODO
+
+	weighing his options.  Then --
+
+					ODO
+			I need to get to Docking Port Five,
+			now.  That ship is going to explode
+			in five minutes.
+
+					QUARK
+			I'll beam you over.
+
+	Quark moves to the Transporter control panel.  Notices Odo's
+	hesitation.
+
+					QUARK
+			Relax.  I served on a Ferengi
+			freighter for eight years.
+
+	Odo steps onto the Transporter pad.
+
+            DEEP SPACE: "Babel" REV. 10/19/92 - ACT FIVE           56D.
+
+86B  CONTINUED:
+
+					QUARK
+				(carefully, studying
+				panel)
+			I must have witnessed this procedure
+			hundreds of times.
+
+					ODO
+			Witnessed?  You mean to say you never
+			handled the controls yourself?
+
+	But before Odo can step off the pad --
+
+					QUARK
+				(working panel)
+			Energizing.
+
+87   ANGLE (OPTICAL)
+
+	Odo DEMATERIALIZES.
+
+88   INT. DOCKING PORT FIVE
+
+	Odo appears out of the smoke pouring through an open airlock
+	(we do not see him MATERIALIZE).
+
+88A  INT. OPS
+
+	Quark crosses over to take Odo's place at the operations
+	table.
+
+					KIRA'S COM VOICE
+			Kira to Ops.  Approaching landing
+			pad seven.  Request clearance to
+			initiate docking procedure.
+
+					QUARK
+			Welcome back Major.  I could use
+			some help up here.
+
+					KIRA'S COM VOICE
+			Quark what are you doing in Ops?
+
+88B  INT. INFIRMARY
+
+	as Kira, looking pale, ENTERS with Surmak.
+
+					SURMAK
+			First thing I need to see is your
+			Doctors' viral characterization
+			research.
+
+            DEEP SPACE: "Babel" REV. 10/13/92 - ACT FIVE           56E.
+
+88B  CONTINUED:
+
+	He seats himself at a wall monitor.  He taps the console and
+	the monitor displays Bashir's notes.
+
+					SURMAK
+				(scans data)
+			He was beginning to develop an
+			antidote series.  Let's take a look
+			at that.
+
+	Kira dabs at her forehead.  Her hand comes away damp with
+	sweat.
+
+					KIRA
+			I'll be in Ops.  If you need me use
+			the string...
+
+	Surmak looks at her oddly.  She hesitates, confusion lining
+	her face.
+
+					KIRA
+			... impact lots show red intense.
+
+					SURMAK
+			I think you'd better sit down, Major.
+
+	He helps her to a seat then turns back to the monitor.
+
+88C  INT. DOCKING PORT FIVE
+
+	Odo makes his way through the smoke.  We HEAR A GROAN O.S.
+
+89   ODO'S POV
+
+	Jaheel, having escaped from his ship, lies half conscious on
+	the floor.
+
+90   RESUME SCENE
+
+	Odo lifts him up.
+
+					JAHEEL
+				(aphasic)
+			Dog fellow distance.
+
+            DEEP SPACE: "Babel" REV. 10/22/92 - ACT FIVE            57.
+
+					ODO
+			Tell me about it.
+
+	He lifts Jaheel.
+
+91   INT. OPS - TIGHT ON QUARK AT OPERATIONS TABLE
+
+	Starting to feel the pressure, as he checks a console.
+
+					QUARK
+			Odo, that ship's going to explode in
+			one minute.
+
+92   INT. DOCKING PORT FIVE
+
+	Odo carries Jaheel to safety, then continues on his mission.
+
+92A  INT. INFIRMARY
+
+	Surmak, scanning the monitor, keeps up a running commentary
+	for Kira.  She doesn't understand a word but she watches him
+	intently, hoping for some sign of success.
+
+					SURMAK
+				(scanning info)
+			Virum protein sheath... uh-huh...
+			Nucleotide sequence... yes...
+				(remembers)
+			That's right, it's an adaptive
+			synaptic inhibitor... Dekon was
+			brilliant, there's no doubt of that.
+
+	He continues to work.
+
+92B  INT. DOCKING PORT FIVE
+
+	Odo over to the wall near the airlock, searches for the
+	correct access panel.
+
+					QUARK'S COM VOICE
+			Forty seconds.
+
+	Odo finds the panel, tears it open... Reveals a lever in an
+	upright position.  Odo slams it down.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FIVE           57A.
+
+93   INT. OPS
+
+	If Ferengis do indeed have hearts, then Quark's is banging
+
+	out of his chest.
+
+					QUARK
+			Thirty seconds.  Hurry.
+
+94   INT. DOCKING PORT FIVE
+
+	Odo crossing through the smoke to the other side of the
+	airlock, heaves open another access panel... flips down
+	another lever.
+
+95   INT. OPS - QUARK
+
+	Assuming a defensive position know as the Ferengi cringe.
+
+					QUARK
+			Twenty seconds.
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FIVE            58.
+
+96   INT. DOCKING PORT FIVE
+
+	Odo doubletimes it through the smoke.
+
+					ODO
+				(muttering)
+			I know.  I know.
+
+	He arrives at a control panel... presses a button, the airlock
+	doors close... He quickly punches in a code sequence... braces
+	himself against the wall.  We HEAR THE SOUND OF THE MOORING
+	CLAMPS EXPLODING.
+
+97   EXT. DOCKING PORT FIVE (OPTICAL)
+
+	Blown free of the clamps, Jaheel's ship is pushed clear of
+	the docking port.
+
+98   INT. OPS
+
+	Quark prays to whatever God Ferengis pray to as he and Sisko
+	are jolted by the blast.
+
+99   OMITTED
+
+100  INT. OPS
+
+	As the shaking subsides... Quark gets to his feet.
+
+					QUARK
+			Quark to Odo.  You still with us?
+
+101  INT. DOCKING PORT FIVE
+
+	As Odo picks himself up off the floor.
+
+					ODO
+			Try not to sound too disappointed.
+
+102  INT. OPS
+
+	Quark leaning comfortably back in Kira's chair.
+
+					QUARK
+			Now, about that little matter of my
+			hazard pay...
+
+            DEEP SPACE: "Babel" REV. 10/16/92 - ACT FIVE            59.
+
+103  INT. DOCKING PORT FIVE
+
+	Odo's eyes narrow.  One of these days he's going to throttle
+	that greedy rodent.
+
+103A INT. INFIRMARY
+
+	Kira and Surmak as before.
+
+					SURMAK
+				(confidence growing)
+			Your doctor came very close to finding
+			the antidote himself.  The answer is
+			in a progressive base substitution.
+
+	He gets up and crosses to an equipment drawer and takes out
+	a twenty-fourth century syringe.
+
+					SURMAK
+				(to Kira)
+			Now I just need to take a blood
+			sample.
+
+	And as he begins to draw Kira's blood...
+
+104  EXT. SPACE - DEEP SPACE NINE (OPTICAL)
+
+					SISKO (V.O.)
+			Station log, Stardate 46425.8.  We're
+			continuing to administer Doctor
+			Surmak's antidote throughout the
+			station.  Things are slowly returning
+			to normal.
+
+            DEEP SPACE: "Babel" REV. 10/14/92 - ACT FIVE            60.
+
+105  INT. OPS
+
+	Fully staffed... Business as usual.  Sisko, Dax, Kira and
+	O'Brien all at their stations.  Sisko crosses to the
+	replicator.  Passes O'Brien.
+
+					SISKO
+			Good to have you back, Chief.
+
+					O'BRIEN
+			Thank you, sir.
+
+106  ON O'BRIEN
+
+	He sees where Sisko's headed, and a look of panic crosses
+	his face.
+
+					SISKO (O.S.)
+			Hot coffee, black.
+
+107  RESUME SCENE
+
+	Sisko, cup in hand, takes a big gulp... And nearly gags.
+	The coffee's awful -- again.
+
+					SISKO
+			O'Brien... !
+
+	All eyes turn to O'Brien.  And as O'Brien's eyes turn to the
+	heavens, we...
+
+									FADE OUT.
+
+                            THE END
