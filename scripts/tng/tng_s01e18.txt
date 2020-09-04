@@ -5,17 +5,17 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                        "Coming Of Age" 
-                   (fka "Starfleet Academy") 
-                          #40271-119 
-                              
-                          Written by 
-                          Sandy Fries 
-                              
-                          Directed by 
-                          Mike Vejar 
+                STAR TREK: THE NEXT GENERATION
+
+                        "Coming Of Age"
+                   (fka "Starfleet Academy")
+                          #40271-119
+
+                          Written by
+                          Sandy Fries
+
+                          Directed by
+                          Mike Vejar
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -32,12 +32,12 @@ lost or destroyed, please notify the Script Department.
 
                        DECEMBER 30, 1987
 
-         STAR TREK: "Coming Of Age" - 12/30/87 - CAST 
+         STAR TREK: "Coming Of Age" - 12/30/87 - CAST
 
-                STAR TREK: THE NEXT GENERATION 
-                        "Coming Of Age" 
+                STAR TREK: THE NEXT GENERATION
+                        "Coming Of Age"
 
-                             CAST 
+                             CAST
 
                 PICARD             JAKE KURLAND
                 RIKER              ADMIRAL GREGORY QUINN
@@ -51,15 +51,15 @@ lost or destroyed, please notify the Script Department.
                                    TECHNICIAN #2
                                    Voice-Over
 
-         STAR TREK: "Coming Of Age" - 12/30/87 - SETS 
+         STAR TREK: "Coming Of Age" - 12/30/87 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                        "Coming Of Age" 
+                STAR TREK: THE NEXT GENERATION
+                        "Coming Of Age"
 
-                             SETS 
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               Deck 21 Forward Lounge
               Transporter Room         RELVA 7 (PLANET)
@@ -67,28 +67,28 @@ lost or destroyed, please notify the Script Department.
                                        SHUTTLECRAFT
               Captain's Ready Room
               Main bridge
-          
+
               Holodeck
-          
+
               Admiral's Quarters
               Main Engineering
-          
+
             RELVA 7
               Classroom
               Corridor
               Testing Room
               Long corridor
               Environmental Lab
-          
+
             SHUTTLECRAFT
               Cockpit
 
        STAR TREK: "Coming Of Age" - 12/30/87 - TEASER       1.
 
-                STAR TREK: THE NEXT GENERATION                  
-                       "Coming Of Age"     
-                        
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                       "Coming Of Age"
+
+                            TEASER
 
 	FADE IN:
 
@@ -426,11 +426,11 @@ and no one knows why, as WE:
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
        STAR TREK: "Coming Of Age" - 12/30/87 - ACT ONE       8.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -893,11 +893,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
       STAR TREK: "Coming of Age" - 12/30/87 - ACT TWO      17.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1487,11 +1487,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
      STAR TREK: "Coming Of Age" - 12/30/87 - ACT THREE     28.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -2059,11 +2059,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
       STAR TREK: "Coming Of Age" - 12/30/87 - ACT FOUR      39.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2433,11 +2433,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
       STAR TREK: "Coming Of Age" - 12/30/87 - ACT FIVE      46.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -2665,7 +2665,7 @@ thru	OMITTED
 	Technician #1 EXITS the Lab, nods to them both, and
 	FOLLOWS the other Technician.
 
-					CHANG.
+					CHANG
 			Excellent performance, Mister
 			Crusher.
 
@@ -3030,10 +3030,5 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
-                            THE END                             
-
-
-
-
-
+                        END OF ACT FIVE
+                            THE END

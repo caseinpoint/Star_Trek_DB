@@ -102,6 +102,8 @@ def parse_characters_lines(connection, path, ep_id):
 					### lots of DS9 episodes have directions with the same number of tabs as character names
 					read_line = file.readline()
 				else:
+					### some names have a stray period
+					char_name.rstrip('.')
 					char_id = create_character(connection, (char_name,))
 					read_line = file.readline()
 					### lots of DS9 episodes have an extra blank line after name
