@@ -1,82 +1,82 @@
 
 
 
-                              
-                          "Hard Time" 
-                   (fka "Untitled O'Brien") 
-                          #40510-491 
-                              
-                           Story by 
-                Daniel Keys Moran & Lynn Barker 
-                              
-                          Teleplay by 
-                      Robert Hewitt Wolfe 
-                              
-                          Directed by 
-                       Alexander Singer 
 
-THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
-FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+                          "Hard Time"
+                   (fka "Untitled O'Brien")
+                          #40510-491
+
+                           Story by
+                Daniel Keys Moran & Lynn Barker
+
+                          Teleplay by
+                      Robert Hewitt Wolfe
+
+                          Directed by
+                       Alexander Singer
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
 WITH THE TELEVISION LEGAL DEPARTMENT.
 
-Copyright 1996 Paramount Pictures Corporation. All Rights 
-Reserved. This script is not for publication or 
-reproduction. No one is authorized to dispose of same. If 
+Copyright 1996 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
 lost or destroyed, please notify the Script Department.
 
 Return to Script Department          FINAL DRAFT
 PARAMOUNT PICTURES CORPORATION
                         January 24, 1996
 
-        STAR TREK: DS9 - "Hard Time" - 01/24/96 - CAST 
+        STAR TREK: DS9 - "Hard Time" - 01/24/96 - CAST
 
-                  STAR TREK: DEEP SPACE NINE 
-                          "Hard Time" 
-                             CAST 
+                  STAR TREK: DEEP SPACE NINE
+                          "Hard Time"
+                             CAST
 
           SISKO                    EE'CHAR
           KIRA                     RINN
           BASHIR                   MUNIZ
-          DAX                      
-          O'BRIEN                  
-          ODO                      
-          QUARK                    
-          WORF                     
-          JAKE                     
-          KEIKO                    
-          MOLLY                    
-          COMPUTER VOICE           
+          DAX
+          O'BRIEN
+          ODO
+          QUARK
+          WORF
+          JAKE
+          KEIKO
+          MOLLY
+          COMPUTER VOICE
 
           Non-Speaking             Non-speaking
-          N.D. SUPERNUMERARIES     
+          N.D. SUPERNUMERARIES
 
-        STAR TREK: DS9 - "Hard Time" - 01/24/96 - SETS 
+        STAR TREK: DS9 - "Hard Time" - 01/24/96 - SETS
 
-                  STAR TREK: DEEP SPACE NINE 
-                          "Hard Time" 
-                             SETS 
+                  STAR TREK: DEEP SPACE NINE
+                          "Hard Time"
+                             SETS
 
         INTERIORS                     EXTERIORS
         DEEP SPACE NINE                 DEEP SPACE NINE
-          CAPTAIN'S OFFICE              
-          CARGO BAY                     
-          HABITAT RING CORRIDOR         
-          INFIRMARY                     
-          MAINTENANCE CONDUIT           
-          O'BRIEN'S QUARTERS/BEDROOM    
-          OPS                           
-          PROMENADE/SECOND LEVEL        
-          QUARK'S                       
-          TURBOLIFT                     
+          CAPTAIN'S OFFICE
+          CARGO BAY
+          HABITAT RING CORRIDOR
+          INFIRMARY
+          MAINTENANCE CONDUIT
+          O'BRIEN'S QUARTERS/BEDROOM
+          OPS
+          PROMENADE/SECOND LEVEL
+          QUARK'S
+          TURBOLIFT
 
-        RUNABOUT                      
+        RUNABOUT
 
-        ARGRATHI CELL                 
+        ARGRATHI CELL
 
-    DEEP SPACE NINE - "Hard Time"- 01/24/96 - PRONUNCIATION 
+    DEEP SPACE NINE - "Hard Time"- 01/24/96 - PRONUNCIATION
 
-                  STAR TREK: DEEP SPACE NINE 
-                          "Hard Time" 
+                  STAR TREK: DEEP SPACE NINE
+                          "Hard Time"
                      PRONUNCIATION GUIDE
 
           ARGRATHI                 ar-GRATH-ee
@@ -93,9 +93,9 @@ PARAMOUNT PICTURES CORPORATION
 
         DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - TEASER         1.
 
-                  STAR TREK: DEEP SPACE NINE                    
-                             "Hard Time"                               
-                            TEASER                              
+                  STAR TREK: DEEP SPACE NINE
+                             "Hard Time"
+                            TEASER
 
 	FADE IN:
 
@@ -309,7 +309,7 @@ PARAMOUNT PICTURES CORPORATION
 					O'BRIEN
 			What?
 
-     DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - TEASER 4A-5.        
+     DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - TEASER 4A-5.
 
 7    CONTINUED:
 
@@ -356,10 +356,10 @@ PARAMOUNT PICTURES CORPORATION
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
         DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT ONE        6.
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -428,7 +428,7 @@ PARAMOUNT PICTURES CORPORATION
 
 	The Runabout emerges from the wormhole.
 
-12   INT. RUNABOUT (OPTICAL) 
+12   INT. RUNABOUT (OPTICAL)
 
 	Kira is at the controls of the runabout, O'Brien is off
 	to one side. Kira brings the runabout around and Deep
@@ -454,7 +454,7 @@ PARAMOUNT PICTURES CORPORATION
 	O'Brien nods, but he still can't quite believe this is
 	really happening.
 
-13   CLOSE ON O'BRIEN (OPTICAL) 
+13   CLOSE ON O'BRIEN (OPTICAL)
 
 	As he looks at the station for a long beat as it
 	revolves in front of him, obviously deeply moved. His
@@ -495,7 +495,7 @@ PARAMOUNT PICTURES CORPORATION
 
 	O'Brien looks up and sees...
 
-17   NEW ANGLE 
+17   NEW ANGLE
 
 	BASHIR, standing at the end of the airlock, waiting for
 	him.
@@ -609,7 +609,7 @@ PARAMOUNT PICTURES CORPORATION
 	O'Brien collapses to the floor as the cell door is
 	closed and sealed with a forcefield.
 
-19   CLOSE ON O'BRIEN 
+19   CLOSE ON O'BRIEN
 
 	As O'Brien lays there, semiconscious and in tremendous
 	pain, a hand reaches out and squeezes juice from an
@@ -697,10 +697,10 @@ PARAMOUNT PICTURES CORPORATION
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
         DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT TWO       14.
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -745,7 +745,7 @@ PARAMOUNT PICTURES CORPORATION
 			Paradans, during his trial on
 			Cardassia Prime. And he's always
 			survived.
-				(trying to convince them 
+				(trying to convince them
 				both)
 			In the long run, he's going to be
 			okay. It's just going to take
@@ -813,7 +813,7 @@ PARAMOUNT PICTURES CORPORATION
 
         DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT TWO      15A.
 
-23A  CONTINUED: 
+23A  CONTINUED:
 
 	He's overwhelmed.
 
@@ -904,7 +904,7 @@ PARAMOUNT PICTURES CORPORATION
 
 	Molly nods. She understands. She EXITS.
 
-27   CLOSE ON O'BRIEN AND KEIKO 
+27   CLOSE ON O'BRIEN AND KEIKO
 
 	O'Brien watches Molly go. Now that she's not looking
 	at him, he collapses a little, showing how difficult it
@@ -1008,7 +1008,7 @@ PARAMOUNT PICTURES CORPORATION
 			as little as possible and save the
 			rest.
 
-    DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT TWO 19-20.       
+    DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT TWO 19-20.
 
 27   CONTINUED:	(3)
 
@@ -1042,7 +1042,7 @@ PARAMOUNT PICTURES CORPORATION
 
 28
 thru   OMITTED
-30   
+30
 
         DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT TWO       21.
 
@@ -1226,7 +1226,7 @@ thru   OMITTED
 
 									CUT TO:
 
-33   INT. O'BRIEN'S QUARTERS 
+33   INT. O'BRIEN'S QUARTERS
 
 	The room is dark. Close on Keiko as she rolls over and
 	then wakes up to the realization that O'Brien is no
@@ -1237,7 +1237,7 @@ thru   OMITTED
 
 	Keiko looks around and finally sees..
 
-34   NEW ANGLE 
+34   NEW ANGLE
 
 	O'Brien lying on the floor, asleep with his back to the
 	wall, in the exact same sleeping position he used in
@@ -1250,10 +1250,10 @@ thru   OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT THREE      25.
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -1311,7 +1311,7 @@ thru   OMITTED
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT THREE      26.
 
-36A  NEW ANGLE 
+36A  NEW ANGLE
 
 	O'Brien catches a glimpse of Ee'char walking through
 	the crowd on the Promenade. For a second Ee'char looks
@@ -1446,7 +1446,7 @@ thru   OMITTED
 
 	Re-establishing.
 
-40   INT. MAINTENANCE CONDUIT 
+40   INT. MAINTENANCE CONDUIT
 
 	O'Brien is back in uniform and hard at work on an open
 	panel in one of the conduits. He's concentrating on an
@@ -1504,7 +1504,7 @@ thru   OMITTED
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT THREE      31.
 
-41   CLOSE ON O'BRIEN 
+41   CLOSE ON O'BRIEN
 
 	As Muniz and the other crewmembers EXIT, O'Brien
 	slumps. Even thought he seemed to be back to normal,
@@ -1574,7 +1574,7 @@ thru   OMITTED
 			forget what happened on Argratha
 			and get on with my life.
 
-	Which is the end of the discussion as far as O'Brien's 
+	Which is the end of the discussion as far as O'Brien's
 	concerned, but not for Bashir
 
 					BASHIR
@@ -1631,7 +1631,7 @@ thru   OMITTED
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT THREE      34.
 
-45   NEW ANGLE 
+45   NEW ANGLE
 
 	To include O'Brien, pacing around the cell. Almost ten
 	years have passed since O'Brien's incarceration and
@@ -1759,7 +1759,7 @@ thru   OMITTED
 
 	But before O'Brien can pound on the door again...
 
-47   NEW ANGLE 
+47   NEW ANGLE
 
 	Ee'char grabs O'Brien and pulls him away from the door.
 	O'Brien tries to fight back, but Ee'char forces him up
@@ -1917,12 +1917,12 @@ thru   OMITTED
 	O'Brien glances to the seat next to him and we pan over
 	to reveal...
 
-52   EE'CHAR 
+52   EE'CHAR
 
 	sitting at the formerly vacant seat, wearing his prison
 	garb.
 
-53   CLOSE ON O'BRIEN 
+53   CLOSE ON O'BRIEN
 
 	As he reacts to Ee'char, confused and a little worried.
 
@@ -1961,7 +1961,7 @@ thru   OMITTED
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT THREE     39A.
 
-54   NEW ANGLE 
+54   NEW ANGLE
 
 	On Quark, who's been talking to Odo through his window,
 	and nods toward O'Brien.
@@ -1975,14 +1975,14 @@ thru   OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT FOUR       40.
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
-56   INT. O'BRIEN'S QUARTERS 
+56   INT. O'BRIEN'S QUARTERS
 
 	O'Brien is just finishing getting dressed for work. He
 	pulls on his boots and checks himself in the mirror.
@@ -2230,7 +2230,7 @@ thru   OMITTED
 				(to com)
 			Promenade.
 
-61   INT. INFIRMARY 
+61   INT. INFIRMARY
 
 	Bashir is at work, scanning some test samples. O'Brien
 	comes storming in.
@@ -2322,7 +2322,7 @@ thru   OMITTED
 
 	O'Brien EXITS.
 
-63   INT. PROMENADE 
+63   INT. PROMENADE
 
 	O'Brien ENTERS from the Infirmary and immediately loses
 	himself in a crowd of people. We follow O'Brien as he
@@ -2565,30 +2565,30 @@ thru   OMITTED
 	of the walls. It bears the label "WEAPONS LOCKER,
 	AUTHORIZED PERSONNEL ONLY."
 
-74   CLOSE ON A PHASER 
+74   CLOSE ON A PHASER
 
 	As O'Brien adjusts the setting. An LED readout
 	indicating the power level goes all the way to the top.
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT FOUR       51.
 
-75   NEW ANGLE 
+75   NEW ANGLE
 
 	To reveal O'Brien, standing by the open weapons locker,
 	and slowly raising the phaser to his head.
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT FIVE       52.
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
 76   INT. CARGO BAY - CONTINUOUS
 
-	O'Brien raises the phaser, placing it under his chin,	before he can 
+	O'Brien raises the phaser, placing it under his chin,	before he can
 	fire...
 
 					BASHIR (O.S.)
@@ -2620,7 +2620,7 @@ thru   OMITTED
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT FIVE       53.
 
-78   CONTINUED: 
+78   CONTINUED:
 
 	Bashir continues talking quietly and calmly, not making
 	any sudden moves.
@@ -2711,7 +2711,7 @@ thru   OMITTED
 
        DEEP SPACE NINE: "Hard Time" - REV. 2/05/96 - ACT FIVE       55.
 
-82   CONTINUED: 
+82   CONTINUED:
 
 	-- An older Ee'char pulling out a stash of food to
 	share with the older O'Brien.
@@ -2757,7 +2757,7 @@ thru   OMITTED
 
 									CUT TO:
 
-84   INT. ARGRATHI CELL 
+84   INT. ARGRATHI CELL
 
 	Ee'char watches as O'Brien draws an Eseeka. O'Brien's
 	gotten pretty good at it. It's been twenty years since
@@ -2797,7 +2797,7 @@ thru   OMITTED
 					O'BRIEN
 			You're sure there's nothing left?
 
-					EE I CHAR
+					EE'CHAR
 			Not unless you've got a hiding
 			place I don't know about.
 
@@ -2943,7 +2943,7 @@ thru   OMITTED
 
 	And throws a handful of sand into Ee'char's eyes.
 
-89   CLOSE ON EE'CHAR 
+89   CLOSE ON EE'CHAR
 
 	Ee'char is blinded. O'Brien is on him instantly.
 	Ee'char struggles, trying to get back at O'Brien, but
@@ -2954,7 +2954,7 @@ thru   OMITTED
 	Ee'char's neck an especially violent jerk and the
 	Argrathi stops fighting.
 
-90   CLOSE ON O'BRIEN 
+90   CLOSE ON O'BRIEN
 
 	As he lets Ee'char loose and slowly struggles to his
 	feet. He's battered and bruised, but in one piece. He
@@ -3202,5 +3202,5 @@ thru   OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
-                            THE END                             
+                        END OF ACT FIVE
+                            THE END

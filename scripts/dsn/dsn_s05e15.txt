@@ -2696,7 +2696,7 @@ thru   OMITTED
 					O'BRIEN
 			They're everywhere.
 
-					DAXIS COM VOICE
+					DAX'S COM VOICE
 			Captain, what are your orders?
 
 					SISKO

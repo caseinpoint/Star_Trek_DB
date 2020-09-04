@@ -3,16 +3,16 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                           "Q Who?" 
-                          #40272-142 
-                              
-                          Written by 
-                        Maurice Hurley 
-                              
-                          Directed by 
-                          Rob Bowman 
+                STAR TREK: THE NEXT GENERATION
+
+                           "Q Who?"
+                          #40272-142
+
+                          Written by
+                        Maurice Hurley
+
+                          Directed by
+                          Rob Bowman
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -28,37 +28,37 @@ lost or destroyed, please notify the Script Department.
 
                       FEBRUARY 24, 1989
 
-             STAR TREK: "Q Who?" - 2/24/89 - CAST 
+             STAR TREK: "Q Who?" - 2/24/89 - CAST
 
-                STAR TREK: THE NEXT GENERATION 
-                           "Q Who?" 
+                STAR TREK: THE NEXT GENERATION
+                           "Q Who?"
 
-                             CAST                               
-                              
+                             CAST
+
                 PICARD             Q
-                RIKER              
+                RIKER
                 DATA               Non-Speaking
                 TROI                 BORG ONE
                 GEORDI               BORG TWO
                 WORF                 BORG THREE
-                WESLEY             
-                GUINAN              
-                O'BRIEN            
-                SONYA              
+                WESLEY
+                GUINAN
+                O'BRIEN
+                SONYA
 
-                Non-Speaking       
-                  CREWMEMBERS        
-                  SECURITY MAN       
+                Non-Speaking
+                  CREWMEMBERS
+                  SECURITY MAN
 
-             STAR TREK: "Q Who?" - 2/24/89 - SETS 
+             STAR TREK: "Q Who?" - 2/24/89 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                           "Q Who?" 
-                              
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                           "Q Who?"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               CORRIDOR
               MAIN BRIDGE              BORG SHIP
@@ -68,14 +68,14 @@ lost or destroyed, please notify the Script Department.
               TRANSPORTER ROOM
               TEN-FORWARD
               GUINAN'S OFFICE
-          
+
             SHUTTLECRAFT
-          
+
             BORG SHIP
 
-                STAR TREK: THE NEXT GENERATION                  
-                           "Q Who?"                                
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                           "Q Who?"
+                            TEASER
 
 	FADE IN:
 
@@ -394,11 +394,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
            STAR TREK: "Q Who?" - 3/2/89 - ACT ONE           7.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -925,11 +925,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
           STAR TREK: "Q Who?" - 2/24/89 - ACT TWO          15.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1278,13 +1278,13 @@ lost or destroyed, please notify the Script Department.
 			Bridge this is the captain -- all
 			stop.
 
-					WESLEY COM VOICE
+					WESLEY'S COM VOICE
 			Answering all stop.
 
 					PICARD
 			Status.
 
-					DATA COM VOICE
+					DATA'S COM VOICE
 			According to these coordinates
 			we have traveled seven thousand light
 			years, and are located near system
@@ -1294,7 +1294,7 @@ lost or destroyed, please notify the Script Department.
 			Estimate travel time to the
 			closest starbase.
 
-					DATA COM VOICE
+					DATA'S COM VOICE
 			At maximum warp, in two years,
 			seven months, three days, eighteen
 			hours we would reach Starbase one
@@ -1546,11 +1546,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
           STAR TREK: "Q Who?"-2/28/89 - ACT THREE          27.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -1748,7 +1748,7 @@ lost or destroyed, please notify the Script Department.
 			You don't, at least to my
 			knowledge nobody has so far.
 
-					WORF COM VOICE
+					WORF'S COM VOICE
 			Captain, we are being hailed.
 
 					PICARD
@@ -1821,7 +1821,7 @@ lost or destroyed, please notify the Script Department.
 
 	Before Picard can answer...
 
-					WORF COM VOICE
+					WORF'S COM VOICE
 			Captain -- they have locked onto
 			us with some form of tractor beam.
 
@@ -2042,7 +2042,7 @@ lost or destroyed, please notify the Script Department.
 
 	Behind them Q is revealed (no Q Flash).
 
-           STAR TREK: "Q Who?" - 3/1/89 - ACT THREE 34AA.              
+           STAR TREK: "Q Who?" - 3/1/89 - ACT THREE 34AA.
 
 47A  INT MAIN ENGINEERING
 
@@ -2198,11 +2198,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
                STAR TREK: "Q Who?" - 3/2/89 - ACT FOUR              36.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2488,7 +2488,7 @@ lost or destroyed, please notify the Script Department.
 			Captain, the Borg are using their
 			combined power to repair the ship.
 
-					PICARD COM VOICE
+					PICARD'S COM VOICE
 			Transporter Chief, beam the away
 			team directly to the bridge.
 
@@ -2596,7 +2596,7 @@ lost or destroyed, please notify the Script Department.
 					PICARD
 			Fire.
 
-            STAR TREK: "Q Who?" - 3/2/89 - ACT FOUR 42AA.              
+            STAR TREK: "Q Who?" - 3/2/89 - ACT FOUR 42AA.
 
 58A  CONTINUED:
 
@@ -2641,7 +2641,7 @@ lost or destroyed, please notify the Script Department.
 					WORF
 			They had no effect.
 
-					GEORDI COM VOICE
+					GEORDI'S COM VOICE
 			Bridge, this is Engineering. We
 			are at warp nine point six five.
 
@@ -2669,11 +2669,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
                STAR TREK: "Q Who?"-2/27/89 - ACT FIVE               44.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -2701,7 +2701,7 @@ lost or destroyed, please notify the Script Department.
 			Agreed. Bridge this is
 			Engineering.
 
-					PICARD COM VOICE
+					PICARD'S COM VOICE
 			Go ahead.
 
 					GEORDI
@@ -3023,9 +3023,6 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
+                        END OF ACT FIVE
 
-                            THE END                             
-
-
-
+                            THE END

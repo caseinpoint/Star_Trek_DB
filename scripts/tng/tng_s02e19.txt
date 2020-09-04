@@ -7,16 +7,16 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                           "Manhunt" 
-                          #40272-145 
-                              
-                          Written by 
-                          Tracy Torme 
-                              
-                          Directed by 
-                          Rob Bowman 
+                STAR TREK: THE NEXT GENERATION
+
+                           "Manhunt"
+                          #40272-145
+
+                          Written by
+                          Tracy Torme
+
+                          Directed by
+                          Rob Bowman
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -33,13 +33,13 @@ lost or destroyed, please notify the Script Department.
                         MARCH 29, 1989
 
 
-             STAR TREK: "Manhunt" - 3/29/89 - CAST 
+             STAR TREK: "Manhunt" - 3/29/89 - CAST
 
-                STAR TREK: THE NEXT GENERATION 
-                           "Manhunt" 
+                STAR TREK: THE NEXT GENERATION
+                           "Manhunt"
 
-                             CAST                               
-                              
+                             CAST
+
                 PICARD             ANTEDIAN DIGNITARY
                 RIKER              MRS. TROI
                 DATA               MR. HOMN
@@ -48,7 +48,7 @@ lost or destroyed, please notify the Script Department.
                 GEORDI             SLADE BENDER
                 WORF               TOUGHGUY
                 WESLEY             REX
-                O'BRIEN            
+                O'BRIEN
 
                 Non-speaking       Non-Speaking
                   SECURITY GUARD     ANTEDIAN DIGNITARY
@@ -60,15 +60,15 @@ lost or destroyed, please notify the Script Department.
                                      MISC. PATRONS
 
 
-             STAR TREK: "Manhunt" - 3/29/89 - SETS 
+             STAR TREK: "Manhunt" - 3/29/89 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                           "Manhunt" 
-                           
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                           "Manhunt"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               MAIN BRIDGE
               TRANSPORTER ROOM         ANTEDE THREE
@@ -78,19 +78,19 @@ lost or destroyed, please notify the Script Department.
               MRS. TROI'S QUARTERS
               HOLODECK THREE
               SICKBAY
-          
+
             CHANDLERLAND (HOLODECK)
               HALLWAY
               DIXON HILL'S OFFICE
               OFFICE RECEPTION
               REX'S BAR
 
-     STAR TREK: "Manhunt" - 3/29/89 - PRONUNCIATION GUIDE 
+     STAR TREK: "Manhunt" - 3/29/89 - PRONUNCIATION GUIDE
 
-                STAR TREK: THE NEXT GENERATION 
-                           "Manhunt" 
-                            
-                      PRONUCIATION GUIDE 
+                STAR TREK: THE NEXT GENERATION
+                           "Manhunt"
+
+                      PRONUCIATION GUIDE
 
 
                ANTEDE THREE          an-TEE-DEE
@@ -98,9 +98,9 @@ lost or destroyed, please notify the Script Department.
                TONY PALERMO          pah-LAIR-mo
                HOMN                  hom
 
-                STAR TREK: THE NEXT GENERATION                  
-                          "Manhunt"                                
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                          "Manhunt"
+                            TEASER
 
 	FADE IN:
 
@@ -403,11 +403,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
           STAR TREK: "Manhunt" - 3/29/89 - ACT ONE          7.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -882,11 +882,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
           STAR TREK: "Manhunt" - 3/29/89 - ACT TWO          17.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1499,7 +1499,7 @@ thru	OMITTED
 			to this, Captain.
 					(MORE)
 
-           STAR TREK: "Manhunt" - 3/29/89 - ACT TWO 28-29.             
+           STAR TREK: "Manhunt" - 3/29/89 - ACT TWO 28-29.
 
 41   CONTINUED: (2)
 
@@ -1540,11 +1540,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
          STAR TREK: "Manhunt" - 3/29/89 - ACT THREE         30.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -2130,11 +2130,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
          STAR TREK: "Manhunt" - 3/29/89 - ACT FOUR         42.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2289,7 +2289,7 @@ thru	OMITTED
 
 64   CONTINUED:
 
-					PULASKI COM VOICE
+					PULASKI'S COM VOICE
 			Bridge this is Doctor Pulaski.
 			We have completed the transfer.
 			The Antedians are now in Sickbay.
@@ -2615,11 +2615,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
               STAR TREK: "Manhunt" - 3/29/89 - ACT FIVE             52.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -3075,7 +3075,7 @@ thru	OMITTED
 					PICARD
 			Go ahead, Doctor.
 
-					PULASKI COM VOICE
+					PULASKI'S COM VOICE
 			Our passengers are on their feet.
 
 					PICARD
@@ -3091,7 +3091,7 @@ thru	OMITTED
 					PICARD
 			What's their condition?
 
-					PULASKI COM VOICE
+					PULASKI'S COM VOICE
 			Hungry.
 
 	Picard acknowledges with a nod. Riker EXITS.
@@ -3248,9 +3248,4 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
-
-
-
-
-
+                        END OF ACT FIVE

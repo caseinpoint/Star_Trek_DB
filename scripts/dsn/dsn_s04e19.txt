@@ -1,106 +1,106 @@
-                  STAR TREK: DEEP SPACE NINE 
-                              
-                      "Shattered Mirror" 
-                     (fka "Crossover III") 
-                          #40510-492 
-                              
-                          Written by 
-                Ira Steven Behr & Hans Beimler 
-                              
-                          Directed by 
-                        James L. Conway 
+                  STAR TREK: DEEP SPACE NINE
 
-THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED 
-FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING 
+                      "Shattered Mirror"
+                     (fka "Crossover III")
+                          #40510-492
+
+                          Written by
+                Ira Steven Behr & Hans Beimler
+
+                          Directed by
+                        James L. Conway
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
 WITH THE TELEVISION LEGAL DEPARTMENT.
 
-Copyright 1996 Paramount Pictures Corporation. All Rights 
-Reserved. This script is not for publication or 
-reproduction. No one is authorized to dispose of same. If 
+Copyright 1996 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
 lost or destroyed, please notify the Script Department.
 
 Return to Script Department          FINAL DRAFT
 PARAMOUNT PICTURES CORPORATION
                         February 2, 1996
 
-     STAR TREK: DS9 - "Shattered Mirror" - 02/08/96 - CAST 
+     STAR TREK: DS9 - "Shattered Mirror" - 02/08/96 - CAST
 
-                  STAR TREK: DEEP SPACE NINE 
-                      "Shattered Mirror" 
-                             CAST 
+                  STAR TREK: DEEP SPACE NINE
+                      "Shattered Mirror"
+                             CAST
 
           SISKO                    JENNIFER
           KIRA                     KLINGON HELMSMAN
           BASHIR                   KLINGON OFFICER
           DAX                      GUARD
-          O'BRIEN                  
-          ODO                      
-          QUARK                    
-          WORF                     
-          NOG                      
-          JAKE                     
-          GARAK                    
-          COMPUTER VOICE           
+          O'BRIEN
+          ODO
+          QUARK
+          WORF
+          NOG
+          JAKE
+          GARAK
+          COMPUTER VOICE
 
           Non-Speaking             Non-Speaking
-          N.D. SUPERNUMERARIES     
+          N.D. SUPERNUMERARIES
 
-     STAR TREK: DS9 - "Shattered Mirror" - 02/02/96 - SETS 
-             STAR TREK: DEEP SPACE NINE                    
-                       "Shattered Mirror 
-                             SETS 
-                              
+     STAR TREK: DS9 - "Shattered Mirror" - 02/02/96 - SETS
+             STAR TREK: DEEP SPACE NINE
+                       "Shattered Mirror
+                             SETS
+
         INTERIORS                     EXTERIORS
         DEEP SPACE NINE                 DEEP SPACE NINE
-          PROMENADE                     
+          PROMENADE
           HABITAT RING CORRIDOR         KLINGON FLAGSHIP
           SISKO'S QUARTERS              TEROK NOR
           OPS                           THE BATTLE
           CAPTAIN'S OFFICE              DEFIANT
 
-        TEROK NOR                     
-          DOCKING RING CORRIDOR         
-          HOLDING CELL                  
-          INTENDANT'S OFFICE            
-          JENNIFER'S QUARTERS           
-          OPS                           
-          PROMENADE                     
-          QUARK'S                       
-          SURGERY                       
+        TEROK NOR
+          DOCKING RING CORRIDOR
+          HOLDING CELL
+          INTENDANT'S OFFICE
+          JENNIFER'S QUARTERS
+          OPS
+          PROMENADE
+          QUARK'S
+          SURGERY
 
-        DEFIANT                       
-          BRIDGE                        
-          CONDUIT                       
-          ENGINE ROOM                   
+        DEFIANT
+          BRIDGE
+          CONDUIT
+          ENGINE ROOM
 
-        KLINGON SHIP                  
-          BRIDGE                        
+        KLINGON SHIP
+          BRIDGE
 
-        REBEL RAIDER                  
+        REBEL RAIDER
 
   DEEP SPACE NINE -"Shattered Mirror" -  02/06/96 - PRONUNCIATION
 
-                  STAR TREK: DEEP SPACE NINE 
-                      "Shattered Mirror" 
-                      PRONUNCIATION GUIDE 
+                  STAR TREK: DEEP SPACE NINE
+                      "Shattered Mirror"
+                      PRONUNCIATION GUIDE
 
           GETTOR                   geh-TOR
           MARANI                   mah-RAH-nee
           TEROK NOR                TAIR-awk NOR
           P'TAK                    puh-TAHK
 
-     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - TEASER       
+     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - TEASER
 
-                  STAR TREK: DEEP SPACE NINE                    
-                          "Shattered Mirror"                           
-                            TEASER                              
+                  STAR TREK: DEEP SPACE NINE
+                          "Shattered Mirror"
+                            TEASER
 
 	FADE IN:
 
 1    INT. PROMENADE
 
-	Open on the first level of a very busy Promenade. TILT UP to 
-	reveal JAKE, standing alone, watching the crowd. He's at his 
+	Open on the first level of a very busy Promenade. TILT UP to
+	reveal JAKE, standing alone, watching the crowd. He's at his
 	"usual spot" -- only, he no longer has Nog there beside him.
 
 2    CLOSE ON JAKE
@@ -114,19 +114,19 @@ PARAMOUNT PICTURES CORPORATION
 
 					JAKE
 				(a bit flustered)
-			I'm stuck on this new story I'm 
-			working on. Coming here helps me 
+			I'm stuck on this new story I'm
+			working on. Coming here helps me
 			focus --
 
 					ODO
 				(interrupting)
-			No need to explain yourself, 
+			No need to explain yourself,
 			Mister Sisko.
 
 					JAKE
 			I just thought...
 
-	Jake stops himself, deciding it's not worth mentioning. But 
+	Jake stops himself, deciding it's not worth mentioning. But
 	Odo won't let it be.
 
 					ODO
@@ -276,10 +276,10 @@ PARAMOUNT PICTURES CORPORATION
 	As Jake tries to make sense of what he sees, we:
 
 									FADE OUT.
-                         END OF TEASER                          
+                         END OF TEASER
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT ONE     5.
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -505,7 +505,7 @@ PARAMOUNT PICTURES CORPORATION
 
 	Time cut.
 
-12   INT. OPS 
+12   INT. OPS
 
 	The doors to Sisko's office open, the Bajoran Minister,
 	flanked by two aides, EXITS. The Minister looks
@@ -543,7 +543,7 @@ PARAMOUNT PICTURES CORPORATION
 	Sisko EXITS quickly. HOLD ON Kira, curious as to whom
 	the captain is in such a rush to see.
 
-14   INT. SISKO'S QUARTERS 
+14   INT. SISKO'S QUARTERS
 
 	The captain hurriedly ENTERS, stops. The room's empty.
 
@@ -582,7 +582,7 @@ PARAMOUNT PICTURES CORPORATION
 			Looks like it.
 
 					DAX
-			And you're convinced Jake's gone 
+			And you're convinced Jake's gone
 			over there?
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT ONE    11.
@@ -715,10 +715,10 @@ PARAMOUNT PICTURES CORPORATION
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT TWO    14.
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -786,7 +786,7 @@ PARAMOUNT PICTURES CORPORATION
 				(the last thing he expected)
 			The Defiant.
 
-					O'BRIEN 
+					O'BRIEN
 			During our last encounter, when I
 			"visited" your station...
 				(pleased)
@@ -856,7 +856,7 @@ PARAMOUNT PICTURES CORPORATION
 
 	Sisko can see the box that he's in all too clearly.
 
-					O'BRIEN 
+					O'BRIEN
 			Help us, captain, and I promise
 			we'll get you and your son out of
 			here before the fireworks begin.
@@ -868,7 +868,7 @@ PARAMOUNT PICTURES CORPORATION
 
 			I want to see Jake first.
 
-					O'BRIEN 
+					O'BRIEN
 			I knew you would.
 
 	O'Brien and Sisko head for the door, it opens to REVEAL
@@ -1298,10 +1298,10 @@ PARAMOUNT PICTURES CORPORATION
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
    DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT THREE   25.
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -1322,12 +1322,12 @@ PARAMOUNT PICTURES CORPORATION
 
 									INTERCUT WITH:
 
-26   INT. DEFIANT - ENGINE ROOM - CONTINUOUS 
+26   INT. DEFIANT - ENGINE ROOM - CONTINUOUS
 
 	O'Brien is working at one of the consoles near the warp
 	core.
 
-					O'BRIEN 
+					O'BRIEN
 			Go ahead. I've got the flow
 			regulators shut off.
 
@@ -1778,7 +1778,7 @@ The door opens to REVEAL Sisko. He is very tired.
 
 	The door opens and in comes O'Brien, looking concerned.
 
-					O'BRIEN 
+					O'BRIEN
 			I just got word... the Alliance
 			fleet is less than eight hours
 			away.
@@ -1789,14 +1789,14 @@ The door opens to REVEAL Sisko. He is very tired.
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FOUR   34.
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
-34   INT. DEFIANT - ENGINE ROOM 
+34   INT. DEFIANT - ENGINE ROOM
 
 	The room is swarming with activity. Crews work on both
 	levels to get systems on-line. O'Brien and Sisko stand
@@ -2053,7 +2053,7 @@ The door opens to REVEAL Sisko. He is very tired.
 
 	Moving at warp.
 
-38   INT. KLINGON FLAGSHIP - BRIDGE 
+38   INT. KLINGON FLAGSHIP - BRIDGE
 
 	Garak smashes against a wall -- having just been struck
 	by Worf. Garak falls to the floor, his chain still
@@ -2115,7 +2115,7 @@ The door opens to REVEAL Sisko. He is very tired.
 					KLINGON OFFICER (O.S.)
 			Regent...
 
-	Worf, still holding the dagger handle, answers without 
+	Worf, still holding the dagger handle, answers without
 	turning away from Garak.
 
 					WORF
@@ -2206,12 +2206,12 @@ thru   OMITTED
 
 49   INT. DEFIANT - CONDUIT
 
-	Sisko is working on an open panel. He's working as 
-	fast as he can, but the work is precise and requires 
+	Sisko is working on an open panel. He's working as
+	fast as he can, but the work is precise and requires
 	concentration.
 
 					JENNIFER (O.S.)
-			You look like you could use 
+			You look like you could use
 			another pair of hands.
 
 	Widen to REVEAL Jennifer. Sisko keeps working, there's
@@ -2231,27 +2231,27 @@ thru   OMITTED
 49   CONTINUED:
 
 					SISKO
-			I'm trying to calibrate the torque 
+			I'm trying to calibrate the torque
 			sensors.
 
 					JENNIFER
 				(nodding)
-			To control the inertial dampers. 
-			I know. It's Professor Sisko, 
+			To control the inertial dampers.
+			I know. It's Professor Sisko,
 			remember?
 
 					SISKO
 			Sorry.
 
-	Jennifer begins work on the panel. Jennifer speaks 
-	offhandedly, but she knows that what she's about to say is 
+	Jennifer begins work on the panel. Jennifer speaks
+	offhandedly, but she knows that what she's about to say is
 	very significant.
 
 					JENNIFER
-			For what it's worth, you should 
+			For what it's worth, you should
 			know I've told Jake the truth.
 				(off Sisko's reaction)
-			About my visit to you... why I 
+			About my visit to you... why I
 			brought him here... everything.	Sisko's interest is piqued.
 
 					SISKO
@@ -2259,10 +2259,10 @@ thru   OMITTED
 
 					JENNIFER
 				(surprised herself)
-			He said it didn't matter. He's 
+			He said it didn't matter. He's
 			still glad to have met me.
 				(a beat)
-			And the funny thing is I know he 
+			And the funny thing is I know he
 			means it.
 
 					SISKO
@@ -2270,9 +2270,9 @@ thru   OMITTED
 			He has a forgiving nature.
 
 					JENNIFER
-			It's more than that -- I don't 
-			think he could be angry with me 
-			even if he wanted to. I remind 
+			It's more than that -- I don't
+			think he could be angry with me
+			even if he wanted to. I remind
 			him too much of his mother.
 
 					SISKO
@@ -2289,8 +2289,8 @@ thru   OMITTED
 
 					JENNIFER(Cont'd)
 				(a beat)
-			So if it's all right with you, 
-			I'll see to it that he's sent back 
+			So if it's all right with you,
+			I'll see to it that he's sent back
 			to Deep Space Nine.
 
 					SISKO
@@ -2300,11 +2300,11 @@ thru   OMITTED
 			Right away.
 
 					SISKO
-			What's Smiley going to say about 
+			What's Smiley going to say about
 			that?
 
  					JENNIFER
-			He trusts you to finish your job. 
+			He trusts you to finish your job.
 			And so do I.
 
 	Sisko nods.
@@ -2312,20 +2312,20 @@ thru   OMITTED
 					JENNIFER
 			You want to say good-bye to him?
 
-	Jennifer completes the task, returning the tool to 
+	Jennifer completes the task, returning the tool to
 	Sisko.
 
 					SISKO
-			I better finish here. Tell Jake 
+			I better finish here. Tell Jake
 			I'll see him soon.
 
-	There's an awkward beat between them; Sisko returns to 
-	work, opening another panel. Jennifer studies Sisko 
+	There's an awkward beat between them; Sisko returns to
+	work, opening another panel. Jennifer studies Sisko
 	intently before saying:
 
 					JENNIFER
-			Ben, when we first met... there 
-			was a connection between us... 
+			Ben, when we first met... there
+			was a connection between us...
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FOUR   43.
 
@@ -2333,14 +2333,14 @@ thru   OMITTED
 
 					JENNIFER
 				(Cont'd)
-			And now... because of what I've 
+			And now... because of what I've
 			done -- it's gone, isn't it?
 
 					SISKO
-			I'm not sure it was real to begin 
+			I'm not sure it was real to begin
 			with.
 
-	This is not what Jennifer wanted to hear, but she 
+	This is not what Jennifer wanted to hear, but she
 	resigns herself to the truth of his words.
 
 					JENNIFER
@@ -2348,9 +2348,9 @@ thru   OMITTED
 
 	She EXITS; Sisko watches her leave.
 
-49A  INT. PROMENADE 
+49A  INT. PROMENADE
 
-	Jake is standing at the equivalent of his "usual spot," 
+	Jake is standing at the equivalent of his "usual spot,"
 	lost in thought when an offscreen voice interrupts:
 
 					NOG (O.S)
@@ -2364,22 +2364,22 @@ thru   OMITTED
 			Nothing. I'm just... thinking.
 
 					NOG
-			Well, think somewhere else. 
+			Well, think somewhere else.
 			You're making me uncomfortable.
 
-	Jake can't help but to smile at the odd synchronicity 
+	Jake can't help but to smile at the odd synchronicity
 	of the moment.
 
 					NOG
 			What's so funny?
 
 					JAKE
-			Where I come from, it's you and I 
-			that would hang out here, and it's 
+			Where I come from, it's you and I
+			that would hang out here, and it's
 			your uncle that chases us away.
 
 					NOG
-			Am I suppose to be impressed by 
+			Am I suppose to be impressed by
 			that?
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FOUR  43A.
@@ -2387,10 +2387,10 @@ thru   OMITTED
 49B  CONTINUED:
 
 					NOG (Cont'd)
-			I don't care about some parallel 
-			universe -- I only care about this 
-			one. And in this one, I run a bar 
-			and you do your thinking in your 
+			I don't care about some parallel
+			universe -- I only care about this
+			one. And in this one, I run a bar
+			and you do your thinking in your
 			quarters.
 
 					JAKE
@@ -2428,19 +2428,19 @@ thru   OMITTED
 			Sure.
 
 
-	Jennifer and Jake walk away. We stay on Nog watching 
+	Jennifer and Jake walk away. We stay on Nog watching
 	them go, glad to be rid of them.
 
 50   INT. TEROK NOR - HOLDING CELL
 
-	A bored and exasperated Intendant stares malevolently 
+	A bored and exasperated Intendant stares malevolently
 	at her rebel GUARD. Her face brightens as she asks:
 
 					KIRA
-			Tell me something, are you as 
+			Tell me something, are you as
 			bored as I am?
 
-	The guard looks away, doesn't want to get involved in 
+	The guard looks away, doesn't want to get involved in
 	this.
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FOUR  43B.
@@ -2448,16 +2448,16 @@ thru   OMITTED
 50   CONTINUED:
 
 					KIRA
-			I'll take that as a yes. I bet if 
-			we put our... heads together, we 
-			could create a little excitement for 
+			I'll take that as a yes. I bet if
+			we put our... heads together, we
+			could create a little excitement for
 			ourselves.
 
 					GUARD
 			You sentenced my wife to death.
 
 					KIRA
-			Isn't that a coincidence... I was 
+			Isn't that a coincidence... I was
 			hoping you weren't married.
 
 	He stares at her with disgust and she laughs.
@@ -2479,10 +2479,10 @@ thru   OMITTED
 					GUARD
 			Show me.
 
-	Nog holds the tray up for inspection. The guard lifts 
-	the lid -- as he does, Nog slams the tray into 
-	the guard's face. The guard is jolted back, but Nog stays 
-	on him, pummeling him with both fists until he goes 
+	Nog holds the tray up for inspection. The guard lifts
+	the lid -- as he does, Nog slams the tray into
+	the guard's face. The guard is jolted back, but Nog stays
+	on him, pummeling him with both fists until he goes
 	down, knocked unconscious.
 
 					KIRA
@@ -2495,7 +2495,7 @@ thru   OMITTED
 
 52   CLOSE ON NOG (OPTICAL)
 
-	as he FIRES the disruptor at the forcefield controls. 
+	as he FIRES the disruptor at the forcefield controls.
 	The forcefield FRITZES OUT, freeing the Intendant.
 
 					NOG
@@ -2506,7 +2506,7 @@ thru   OMITTED
 
 					KIRA
 			I'll need this more than you will.
-				(as she checks the power 
+				(as she checks the power
 				levels on disruptor)
 			I wasn't aware we were on the same
 			side.
@@ -2517,33 +2517,33 @@ thru   OMITTED
 				(off her look)
 			Thanks to you -- I own the bar.
 
-	Kira nods, that's the kind of logic she understands. 
+	Kira nods, that's the kind of logic she understands.
 	They quickly EXIT the holding area.
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FOUR   45.
 
 53   INT. DEFIANT - CONDUIT
 
-	Sisko continues working; suddenly, the ship is ROCKED 
+	Sisko continues working; suddenly, the ship is ROCKED
 	by a photon torpedo blast.
 
 53A  EXT. SPACE - TEROK NOR (STOCK) (OPTICAL)
 
-	The station is attacked by a Bird of Prey. (NOTE: If 
-	not stock, we can lose it.)54   INT. DEFIANT - BRIDGE 
+	The station is attacked by a Bird of Prey. (NOTE: If
+	not stock, we can lose it.)54   INT. DEFIANT - BRIDGE
 
-	Sisko ENTERS as O'Brien and various N.D. rebels prepare 
+	Sisko ENTERS as O'Brien and various N.D. rebels prepare
 	the ship for takeoff. Another hit ROCKS the ship.
 
 					O'BRIEN
 				(to N.D. rebel)
 			Jettison the docking scaffold.
 				(to Sisko)
-			Time for you to go, captain. I 
+			Time for you to go, captain. I
 			believe that was the agreement.
 
 					SISKO
-			I'm on my way. Just wanted to 
+			I'm on my way. Just wanted to
 			wish you luck.
 
 					O'BRIEN
@@ -2558,21 +2558,21 @@ thru   OMITTED
 
 55   CLOSE ON SISKO
 
-	moving toward the exit; in the b.g., we see O'Brien 
+	moving toward the exit; in the b.g., we see O'Brien
 	checking out the captain's console.
 
-					O'BRIEN 
-			I only wish I had a chance to get 
-			to know her before taking her into 
+					O'BRIEN
+			I only wish I had a chance to get
+			to know her before taking her into
 			battle.
 
-	Sisko comes to a dead stop. WE HOLD ON HIM for a beat; 
-	O'Brien's words are the last thing he wants to hear, 
+	Sisko comes to a dead stop. WE HOLD ON HIM for a beat;
+	O'Brien's words are the last thing he wants to hear,
 	but he can't ignore them.
 
-					O'BRIEN 
-			Oh, well... nothing like a little 
-			on-the-job-training to get the 
+					O'BRIEN
+			Oh, well... nothing like a little
+			on-the-job-training to get the
 			adrenalin pumping.
 
 	Sisko pivots and makes a beeline for O'Brien.
@@ -2595,46 +2595,46 @@ thru   OMITTED
 			Just do it.	O'Brien does as he's asked; Sisko sits in the chair.
 
 					SISKO
-			Seal the airlock, release docking 
-			clamps. Aft thrusters at one 
+			Seal the airlock, release docking
+			clamps. Aft thrusters at one
 			quarter impulse.
 
 	O'Brien just stands there for a moment.
 
 					SISKO
-			What are you standing there for, 
+			What are you standing there for,
 			Smiley?
 
 
 					O'BRIEN
-			Captain, you never cease to amaze 
+			Captain, you never cease to amaze
 			me...
 
 					SISKO
 			Sometimes I even surprise myself.
 
-	O'Brien CROSSES over to take the helm as another hit 
+	O'Brien CROSSES over to take the helm as another hit
 	ROCKS the ship.
 
 					SISKO
-			How long will the station's 
-			shields withstand the Alliance 
+			How long will the station's
+			shields withstand the Alliance
 			assault?
 
 					O'BRIEN
-			Long enough for us to see just how 
-			tough this ship of yours really 
+			Long enough for us to see just how
+			tough this ship of yours really
 			is.
 
 					SISKO
-			Let's find out. Take us out of 
+			Let's find out. Take us out of
 			here.
 
 	O'Brien furiously taps his console --
 
 56   INT. DOCKING RING CORRIDOR - CONTINUOUS (OPTICAL)
 
-	Nog and the Intendant hurry down the corridor as a 
+	Nog and the Intendant hurry down the corridor as a
 	blast ROCKS the station.
 
 					NOG
@@ -2645,19 +2645,19 @@ thru   OMITTED
 56   CONTINUED:
 
 					KIRA
-			Hopefully, this new rebel ship 
-			will keep the Alliance busy while 
-			I get to Bajor. I have friends 
+			Hopefully, this new rebel ship
+			will keep the Alliance busy while
+			I get to Bajor. I have friends
 			there who'll hide me.
 
 					NOG
-			Well, don't worry, about me -- I 
+			Well, don't worry, about me -- I
 			won't tell anyone where you are.
 
-	Nog moves off down the corridor. WE STAY with the 
-	Intendant, who heads the other way, toward camera. 
-	Suddenly she stops -- we can see her debating 
-	something. She gives a small smile, and turns back to 
+	Nog moves off down the corridor. WE STAY with the
+	Intendant, who heads the other way, toward camera.
+	Suddenly she stops -- we can see her debating
+	something. She gives a small smile, and turns back to
 	Nog.
 
 					KIRA
@@ -2667,15 +2667,15 @@ thru   OMITTED
 	Down the corridor, Nog turns in response.
 
 					KIRA
-			You're right. You won't tell 
+			You're right. You won't tell
 			anyone.
 
-	The Intendant raises the disruptor and FIRES, hitting 
+	The Intendant raises the disruptor and FIRES, hitting
 	him squarely in the chest. He falls, dead.
 
 57   CLOSE ON THE INTENDANT
 
-	to see that a nagging weight has been lifted from her 
+	to see that a nagging weight has been lifted from her
 	shoulders. Kira moves off.
 
 58   INT. ANOTHER PART OF THE DOCKING RING CORRIDOR
@@ -2683,17 +2683,17 @@ thru   OMITTED
 	Jennifer leads Jake around the corner.
 
 					JAKE
-			I don't see why you can't come to 
+			I don't see why you can't come to
 			Deep Space Nine with me.
 
  					JENNIFER
-			Believe me, Jake, it's better in 
+			Believe me, Jake, it's better in
 			the long run if I don't... for all
 			of us.
 
 59   NEW ANGLE
 
-	as they turn a corner only to encounter the Intendant, 
+	as they turn a corner only to encounter the Intendant,
 	who levels the disruptor at the pair.
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FOUR   48.
@@ -2701,29 +2701,29 @@ thru   OMITTED
 59   CONTINUED:
 
 					KIRA
-			Jennifer. You look as beautiful 
+			Jennifer. You look as beautiful
 			as ever.
 
 	And off of their reactions, we:
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FIVE   49.
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
 60   EXT. SPACE - THE BATTLE (OPTICAL)
 
-	The Defiant swoops in among the attacking Birds 
-	of Prey, firing its phaser banks. It quickly scores 
-	direct hits on two enemy ships. This part of the 
-	battle should be fought in close proximity to the 
-	station. The Defiant swoops and maneuvers through the 
-	pylons, and in and out of the outer ring as it battles 
-	the Alliance ships, trying to draw their fire away from 
+	The Defiant swoops in among the attacking Birds
+	of Prey, firing its phaser banks. It quickly scores
+	direct hits on two enemy ships. This part of the
+	battle should be fought in close proximity to the
+	station. The Defiant swoops and maneuvers through the
+	pylons, and in and out of the outer ring as it battles
+	the Alliance ships, trying to draw their fire away from
 	the station.
 
 61   OMITTED
@@ -2741,7 +2741,7 @@ thru   OMITTED
 					O'BRIEN
 			Pattern Delta? What's that?
 
-	A grim reminder to Sisko that this O'Brien is not a 
+	A grim reminder to Sisko that this O'Brien is not a
 	Starfleet-trained officer.
 
 					SISKO
@@ -2764,17 +2764,17 @@ thru   OMITTED
 					SISKO
 			Hard to port.
 
-63   
+63
 thru   OMITTED
 64
 
 65   EXT. SPACE - THE BATTLE - CONTINUOUS (OPTICAL)
 
-	The Defiant turns to port, making a hard three hundred and 
-	sixty degree turn -- narrowly missing a station pylon -- 
+	The Defiant turns to port, making a hard three hundred and
+	sixty degree turn -- narrowly missing a station pylon --
 	and ending up directly behind the Bird of Prey.
 
-66   INT. DEFIANT - BRIDGE - CONTINUOUS 
+66   INT. DEFIANT - BRIDGE - CONTINUOUS
 
 					SISKO
 			Fire!
@@ -2790,53 +2790,53 @@ thru   OMITTED
 					O'BRIEN
 			I'll have to remember that one.
 
-	But their celebration is short-lived; the Defiant is 
-	ROCKED by a powerful phaser hit, causing even more 
+	But their celebration is short-lived; the Defiant is
+	ROCKED by a powerful phaser hit, causing even more
 	damage.
 
 69   INT. TEROK NOR - DOCKING RING CORRIDOR
 
-	Jennifer and Jake are walking. Holding the disruptor 
-	to their backs, the Intendant follows. Periodically, 
+	Jennifer and Jake are walking. Holding the disruptor
+	to their backs, the Intendant follows. Periodically,
 	the station SHAKES from the Alliance attack.
 
 					KIRA
-			I really must thank you, Jennifer. 
-			Not only will you guarantee my 
-			safe passage off the station, but 
-			you'll make a perfect gift for the 
+			I really must thank you, Jennifer.
+			Not only will you guarantee my
+			safe passage off the station, but
+			you'll make a perfect gift for the
 			Regent.
 
 					JENNIFER
-			You want me to go with you -- 
+			You want me to go with you --
 			fine. But leave the boy here.
 
     DEEP SPACE NINE: "Shattered Mirror" -REV. 2/15/96 - ACT FIVE    51.
 
-69   CONTINUED: 
+69   CONTINUED:
 
-	Kira is a bit puzzled; why is Jennifer so protective of 
+	Kira is a bit puzzled; why is Jennifer so protective of
 	this boy --
 
 					KIRA
 			Why's he so important to you?
 
  					JENNIFER
-			That doesn't matter. You're not 
+			That doesn't matter. You're not
 			taking him.
 
 	Kira is surprised by Jennifer's attitude.
 
 					KIRA
-			I've never seen you so passionate. 
-			It gives you a lovely glow. 
+			I've never seen you so passionate.
+			It gives you a lovely glow.
 				(a beat)
-			All right... he doesn't have to 
+			All right... he doesn't have to
 			come.
 
-	There's something in the Intendant's voice that alarms 
-	Jennifer, so that when the Intendant raises her 
-	disruptor to fire at Jake, Jennifer is already on the 
+	There's something in the Intendant's voice that alarms
+	Jennifer, so that when the Intendant raises her
+	disruptor to fire at Jake, Jennifer is already on the
 	move.
 
 					JENNIFER
@@ -2844,8 +2844,8 @@ thru   OMITTED
 
 70   ON JENNIFER (OPTICAL)
 
-	as she steps in front of Jake protectively just as the 
-	Intendant fires. Jennifer takes the hit, falling. 
+	as she steps in front of Jake protectively just as the
+	Intendant fires. Jennifer takes the hit, falling.
 	Jake rushes to her side.
 
 71   WIDER
@@ -2856,8 +2856,8 @@ thru   OMITTED
 				(calmly)
 			Now that was unfortunate.
 
-	She levels the disruptor at Jake who is crouched beside 
-	Jennifer. Jake looks up at her, trying to hold himself 
+	She levels the disruptor at Jake who is crouched beside
+	Jennifer. Jake looks up at her, trying to hold himself
 	together.
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FIVE   52.
@@ -2869,21 +2869,21 @@ thru   OMITTED
 			She needs a doctor.
 
 					KIRA
-			I'm afraid it's too late... for 
+			I'm afraid it's too late... for
 			both of you.
 
-	She points the disruptor at Jake, point blank. But 
-	something troubles her, still aiming the weapon 
+	She points the disruptor at Jake, point blank. But
+	something troubles her, still aiming the weapon
 	directly at Jake, she asks:
 
 					KIRA
-			Just out of curiosity, why was she 
+			Just out of curiosity, why was she
 			protecting you?
 
 	Jake, looking down at Jennifer.
 
 					JAKE
-				(more to Jennifer than 
+				(more to Jennifer than
 				to Kira)
 			She's... my mother.
 
@@ -2895,16 +2895,16 @@ thru   OMITTED
 			You're Sisko's son. From the
 			other side.
 
-	His silence confirms her suspicions. She lowers 
+	His silence confirms her suspicions. She lowers
 	the gun.
 
 					KIRA
-			In that case, give your father a 
-			message for me. Tell him I spared 
-			your life... and that's a debt I 
+			In that case, give your father a
+			message for me. Tell him I spared
+			your life... and that's a debt I
 			intend to collect.
 
-	And with that, she hurries down the corridor, leaving 
+	And with that, she hurries down the corridor, leaving
 	Jake to aid the gravely wounded Jennifer.
 
 72   INT. DEFIANT - BRIDGE
@@ -2915,7 +2915,7 @@ thru   OMITTED
 				(off his console)
 			Shields down to forty percent.
 				(then more bad news)
-			That cruiser has us in weapons' 
+			That cruiser has us in weapons'
 			range. Do we make a run for it?
 
     DEEP SPACE NINE: "Shattered Mirror" -REV. 2/15/96 - ACT FIVE    53.
@@ -2923,28 +2923,28 @@ thru   OMITTED
 72   CONTINUED:
 
 					SISKO
-			We run all right... right 
+			We run all right... right
 			at it.
 
 	O'Brien is surprised by Sisko's intent.
 
 					O'BRIEN
-				(with devil-may-care 
+				(with devil-may-care
 				aplomb)
 			Pattern Suicide.
 
 73   EXT. SPACE - THE BATTLE - CONTINUOUS (OPTICAL)
 
-	The Alliance flagship FIRES its multi-targeted phaser 
+	The Alliance flagship FIRES its multi-targeted phaser
 	banks at the Defiant.
 
-74   INT. KLINGON FLAGSHIP - BRIDGE 
+74   INT. KLINGON FLAGSHIP - BRIDGE
 
-	Worf barks orders at his crew, still holding one end of 
+	Worf barks orders at his crew, still holding one end of
 	a chain.
 
 					WORF
-			Concentrate your fire on that 
+			Concentrate your fire on that
 			ship.
 
 					KLINGON HELMSMAN
@@ -2955,44 +2955,44 @@ thru   OMITTED
 
 					WORF
 				(pleased)
-			Good. That should make things 
+			Good. That should make things
 			easier.
 
 	Worf looks down to someone off camera.
 
 					WORF
-			Terok Nor will soon be ours again. 
-			And then you can spend the rest of 
-			your life contemplating your 
-			failure as you labor alongside the 
-			other slaves in the ore processing 
+			Terok Nor will soon be ours again.
+			And then you can spend the rest of
+			your life contemplating your
+			failure as you labor alongside the
+			other slaves in the ore processing
 			center.
 
-	TILT DOWN TO REVEAL Garak again leashed to the Regent's 
-	chain. He is back from the medical bay and favors his 
+	TILT DOWN TO REVEAL Garak again leashed to the Regent's
+	chain. He is back from the medical bay and favors his
 	wounded side.
 
 					GARAK
-			It's nice to have something to 
+			It's nice to have something to
 			look forward to.
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FIVE   54.
 
 75   EXT. SPACE - THE BATTLE (OPTICAL)
 
-	The Defiant is headed for the Klingon flagship under 
+	The Defiant is headed for the Klingon flagship under
 	heavy FIRE, taking a hit despite its evasive maneuvers.
 
 76   INT. DEFIANT - BRIDGE
 
 	As the ship ROCKS.
 
-					O'BRIEN 
-			Shields down to twenty-five percent. 
+					O'BRIEN
+			Shields down to twenty-five percent.
 			One more hit could finish us.
 
 					SISKO
-			Then we have to make sure we don't 
+			Then we have to make sure we don't
 			get hit.
 
 	Sisko gets out of his seat and steps up to O'Brien.
@@ -3000,7 +3000,7 @@ thru   OMITTED
 					SISKO
 			I'll take the helm.
 				(off O'Brien's reaction)
-			Nothing personal, I just know this 
+			Nothing personal, I just know this
 			ship better than you do.
 
 
@@ -3025,39 +3025,39 @@ thru   OMITTED
 
 78   ANOTHER ANGLE (OPTICAL)
 
-	as the Defiant launches its attack against the much 
-	larger Klingon vessel. The wisdom of Sisko's plan soon 
-	becomes evident as the Defiant flies so close to the 
-	surface of the large ship that the Klingon phasers 
+	as the Defiant launches its attack against the much
+	larger Klingon vessel. The wisdom of Sisko's plan soon
+	becomes evident as the Defiant flies so close to the
+	surface of the large ship that the Klingon phasers
 	can't lock on to their target.
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FIVE   55.
 
 78   CONTINUED:
 
-	Sisko makes a series of spectacular maneuvers, flying 
-	the Defiant at "treetop" level as it dives around the 
+	Sisko makes a series of spectacular maneuvers, flying
+	the Defiant at "treetop" level as it dives around the
 	larger ship, pummeling it with phaser FIRE.
 
 79   INT. KLINGON FLAGSHIP - BRIDGE
 
-	repeatedly ROCKED by the Defiant's phaser fire. Each 
+	repeatedly ROCKED by the Defiant's phaser fire. Each
 	blast feeds Worf's anger and frustration.
 
 					WORF
 			I want that ship destroyed -- now!
 
 					KLINGON HELMSMAN
-			They're flying too close -- we 
+			They're flying too close -- we
 			can't target them.
 
 	The Klingon ship ROCKS again.
 
-80   INT. DEFIANT - BRIDGE 
+80   INT. DEFIANT - BRIDGE
 
 	Sisko, still at the helm, while O'Brien is at tactical.
 
-					O'BRIEN 
+					O'BRIEN
 			We've put a hole in their forward shields.
 
 					SISKO
@@ -3065,22 +3065,22 @@ thru   OMITTED
 
 					O'BRIEN
 				(off his console)
-			Hold on -- a bird of prey just 
+			Hold on -- a bird of prey just
 			locked on to us.
 
 	Then, with lightning-fast pacing:
 
 					SISKO
-			On screen. Secondary power to aft 
+			On screen. Secondary power to aft
 			shields.
 
 					O'BRIEN
-			What secondary power? You've got 
+			What secondary power? You've got
 			to get us out of here.
 
 					SISKO
 				(shaking his head)
-			Can't risk giving the cruiser a 
+			Can't risk giving the cruiser a
 			clear shot.
 
 	O'Brien doesn't see a way out.
@@ -3089,14 +3089,14 @@ thru   OMITTED
 
 80   CONTINUED:
 
-					O'BRIEN 
-			Damn... I was just starting to 
+					O'BRIEN
+			Damn... I was just starting to
 			like this ship.
 
 81   ANGLE ON THE SCREEN (OPTICAL)
 
 
-	to see the Bird of Prey tailing the Defiant. Suddenly, 
+	to see the Bird of Prey tailing the Defiant. Suddenly,
 	the Bird of Prey EXPLODES in a ball of fire.
 
 82   INT. REBEL RAIDER
@@ -3105,20 +3105,20 @@ thru   OMITTED
 
 83   EXT. SPACE - THE BATTLE - CONTINUOUS (OPTICAL)
 
-	Their Raider comes flying through the debris of the 
-	Bird of Prey, and joins the Defiant in attacking the 
+	Their Raider comes flying through the debris of the
+	Bird of Prey, and joins the Defiant in attacking the
 	cruiser.
 
 84   INT. DEFIANT - BRIDGE
 
 	As before.
 
-					BASHIR COM VOICE
-			Bashir to Defiant. Aren't you 
+					BASHIR'S COM VOICE
+			Bashir to Defiant. Aren't you
 			going to welcome me back?
 
 					O'BRIEN
-			I never thought I'd be happy to 
+			I never thought I'd be happy to
 			hear your voice.
 
 85   INT. REBEL RAIDER
@@ -3129,10 +3129,10 @@ thru   OMITTED
 86   INT. DEFIANT - BRIDGE
 
 					SISKO
-			Sisko to Bashir. Concentrate your 
+			Sisko to Bashir. Concentrate your
 			fire on their forward shields.
 
-					BASHIR COM VOICE
+					BASHIR'S COM VOICE
 			With pleasure.
 
     DEEP SPACE NINE: "Shattered Mirror" - REV. 2/15/96 - ACT FIVE   57.
@@ -3143,7 +3143,7 @@ thru   OMITTED
 
 88   INT. KLINGON FLAGSHIP - BRIDGE
 
-	CLOSE ON Worf as all hell breaks lose on the Bridge, 
+	CLOSE ON Worf as all hell breaks lose on the Bridge,
 	which is taking a heavy pounding. He can't believe it.
 
 					GARAK
@@ -3174,9 +3174,9 @@ thru   OMITTED
 
 91   INT. DEFIANT - BRIDGE
 
-					O'BRIEN 
-			The other Alliance ships have 
-			broken off their attack on the 
+					O'BRIEN
+			The other Alliance ships have
+			broken off their attack on the
 			station.
 				(to Sisko)
 			We've won.
@@ -3205,12 +3205,12 @@ thru   OMITTED
 				(half to himself)
 			I've been betrayed.
 
-	Without looking at Garak, he yanks taut his chain 
+	Without looking at Garak, he yanks taut his chain
 	forcing the Cardassian closer.
 
 
 					WORF
-			There can be no other explanation 
+			There can be no other explanation
 			for my defeat.
 
 					GARAK
@@ -3218,13 +3218,13 @@ thru   OMITTED
 
 					WORF
 				(emphatic)
-			The traitor must be found and 
+			The traitor must be found and
 			punished.
 
 					GARAK
 			She will be.
 				(off Worf's reaction)
-			It is the Intendant we're talking 
+			It is the Intendant we're talking
 			about, isn't it?
 
 	Worf thinks this through.
@@ -3233,11 +3233,11 @@ thru   OMITTED
 			The Intendant... yes, of course.
 
 					GARAX
-			All I ask is that when the moment 
-			comes, you allow me, your humble 
-			servant, the honor of 
-			administering her punishment. I 
-			promise you, she will regret her 
+			All I ask is that when the moment
+			comes, you allow me, your humble
+			servant, the honor of
+			administering her punishment. I
+			promise you, she will regret her
 			disloyalty before she dies.
 
 	Worf thinks about this for a moment.
@@ -3247,8 +3247,8 @@ thru   OMITTED
 92   CONTINUED:
 
 					WORF
-			And while you dispose of the 
-			Intendant, I'll dispose of the 
+			And while you dispose of the
+			Intendant, I'll dispose of the
 			rebels.
 
 	Garak is pleased by the Regent's decision.
@@ -3268,9 +3268,9 @@ thru   OMITTED
 
 	Sisko ENTERS, but stops short, as he sees --
 
-95   SISKO'S POV 
+95   SISKO'S POV
 
-	Jennifer is lying on a surgical bed. Jake stands vigil 
+	Jennifer is lying on a surgical bed. Jake stands vigil
 	next to her.
 
 					JAKE
@@ -3281,15 +3281,15 @@ thru   OMITTED
 					SISKO
 			How is she?
 
-	Jake just shakes his head -- not wanting to voice his 
-	fears. Sisko approaches the bed. Jennifer is 
-	conscious, but very weak. Summoning her strength, she 
+	Jake just shakes his head -- not wanting to voice his
+	fears. Sisko approaches the bed. Jennifer is
+	conscious, but very weak. Summoning her strength, she
 	whispers:
 
 					JENNIFER
 			Ben...
 
-	She holds out her hand. Sisko takes hold of her hand. 
+	She holds out her hand. Sisko takes hold of her hand.
 	She smiles and struggles to speak again.
 
 					SISKO
@@ -3307,8 +3307,8 @@ thru   OMITTED
 					SISKO
 			Always.
 
-	She grips his hand tightly, and smiles. For a moment, 
-	everything is all right. She's at peace. And with 
+	She grips his hand tightly, and smiles. For a moment,
+	everything is all right. She's at peace. And with
 	that, her eyes close.
 
 97   CLOSE ON SISKO'S AND JENNIFER'S CLASPED HANDS
@@ -3317,13 +3317,13 @@ thru   OMITTED
 
 98   CLOSE ON SISKO
 
-	as he slowly, reluctantly, places Jennifer's lifeless hand 
+	as he slowly, reluctantly, places Jennifer's lifeless hand
 	gently on the bed.
 
 					JAKE
 			Dad...
 
-	Sisko turns to Jake and envelops him in a comforting 
+	Sisko turns to Jake and envelops him in a comforting
 	hug.
 
 					JAKE
@@ -3333,6 +3333,5 @@ thru   OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
-                            THE END                             
-
+                        END OF ACT FIVE
+                            THE END

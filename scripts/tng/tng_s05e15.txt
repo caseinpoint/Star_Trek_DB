@@ -5,22 +5,22 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                         "Power Play" 
-        (f.k.a. "The Invaders", "Terror In Ten-Forward" 
-                              and 
-                       "Feeling Poorly") 
-                          #40275-215 
-                              
-                           Story by 
-                 Paul Rubin and Maurice Hurley 
-                              
-                          Teleplay by 
-       Rene Balcer and Herbert J. Wright & Brannon Braga 
-                              
-                          Directed by 
-                       David Livingston 
+                STAR TREK: THE NEXT GENERATION
+
+                         "Power Play"
+        (f.k.a. "The Invaders", "Terror In Ten-Forward"
+                              and
+                       "Feeling Poorly")
+                          #40275-215
+
+                           Story by
+                 Paul Rubin and Maurice Hurley
+
+                          Teleplay by
+       Rene Balcer and Herbert J. Wright & Brannon Braga
+
+                          Directed by
+                       David Livingston
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -36,43 +36,43 @@ lost or destroyed, please notify the Script Department.
 
                       NOVEMBER 26, 1991
 
-           STAR TREK: "Power Play" - 11/26/91 - CAST 
+           STAR TREK: "Power Play" - 11/26/91 - CAST
 
-                STAR TREK: THE NEXT GENERATION 
-                         "Power Play" 
+                STAR TREK: THE NEXT GENERATION
+                         "Power Play"
 
-                             CAST                               
-                              
-                       PICARD      
-                       RIKER       
-                       DATA        
-                       BEVERLY     
-                       TROI        
-                       GEORDI      
-                       WORF        
-                       O'BRIEN     
-                       KEIKO       
-                       ENSIGN RO   
+                             CAST
+
+                       PICARD
+                       RIKER
+                       DATA
+                       BEVERLY
+                       TROI
+                       GEORDI
+                       WORF
+                       O'BRIEN
+                       KEIKO
+                       ENSIGN RO
                        TRANSPORTER OFFICER
 
                        Non-Speaking
-                       A NURSE     
-                       BABY MOLLY  
+                       A NURSE
+                       BABY MOLLY
                        CREWMEMBERS IN TEN FORWARD
                        CIVILIANS IN TEN FORWARD
                        N.D. SECURITY
                        N.D. MEDICAL
                        SUPERNUMERARIES
 
-        STAR TREK: "Power Play" - REV. 11/27/91 - SETS 
+        STAR TREK: "Power Play" - REV. 11/27/91 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                         "Power Play" 
-                       
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                         "Power Play"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               MAIN BRIDGE
               CARGO BAY                SHUTTLE
@@ -83,14 +83,14 @@ lost or destroyed, please notify the Script Department.
               TEN FORWARD
               TURBOLIFT
               TRANSPORTER
-          
+
             SHUTTLE
 
         STAR TREK: "Ethics" - REV. 11/27/91 - TEASER        1.
 
-                STAR TREK: THE NEXT GENERATION                  
-                         "Power Play"                              
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                         "Power Play"
+                            TEASER
 
 	FADE IN:
 
@@ -233,15 +233,15 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
       STAR TREK: "Power Play" - REV. 12/04/91 - ACT ONE      4.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
-          (NOTE: Episode credits fall over opening scenes.)            
+          (NOTE: Episode credits fall over opening scenes.)
 
 4    EXT. MOON - THE SHUTTLE (OPTICAL)
 
@@ -596,7 +596,7 @@ lost or destroyed, please notify the Script Department.
 
 16   INT. TRANSPORTER ROOM
 
-					PICARD COM VOICE
+					PICARD'S COM VOICE
 			Prepare to transport.
 
 					O'BRIEN
@@ -690,7 +690,7 @@ thru	OMITTED
 	reaches out for the enhancer rod, throws the final
 	switch. Three BEAMS OF BLUE LIGHT instantly turn on
 	and connect - making a horizontal TRIANGLE OF LIGHT
-	between the upright rods, which encloses them. 
+	between the upright rods, which encloses them.
 	Riker collapses.
 
 25   ON GROUP (OPTICAL)
@@ -700,11 +700,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
      STAR TREK: "Power Play" - REV. 11/27/91 - ACT TWO     12.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -714,7 +714,7 @@ thru	OMITTED
 	BEVERLY who scans Troi on a table with a medical
 	tricorder. A quiet moment goes by... Then without
 	warning, Troi's EYES JERK OPEN and she BOLTS UPRIGHT,
-	knocking aside equipment -- crying out in terror, as 
+	knocking aside equipment -- crying out in terror, as
 	if awakened from a nightmare. Beverly's startled, and
 	grasps Troi by the arms to keep her from struggling.
 
@@ -1033,7 +1033,7 @@ thru	OMITTED
 	and wrenches the phaser free. He SLAMS Worf to the
 	floor, hard, stunning him.
 
-      STAR TREK: "Power Play" - REV. 12/03/91 - ACT TWO 18-18A         
+      STAR TREK: "Power Play" - REV. 12/03/91 - ACT TWO 18-18A
 
 30   CONTINUED:
 
@@ -1347,11 +1347,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
     STAR TREK: "Power Play" - REV. 11/27/91 - ACT THREE    24.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -2056,11 +2056,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
      STAR TREK: "Power Play" - REV. 11/26/91 - ACT FOUR     37.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2443,8 +2443,8 @@ thru	OMITTED
 					PICARD
 			Mister Worf, I assure you these
 			are not Jat'yIn. Our job is to
-			find out what they are... and 
-			then to determine how to deal 
+			find out what they are... and
+			then to determine how to deal
 			with them...
 
          STAR TREK: "Power Play" - REV. 11/26/91 - ACT FOUR        42A.
@@ -2795,11 +2795,11 @@ thru	OMITTED
 
 									FADE OUT
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
          STAR TREK: "Power Play" - REV. 11/26/91 - ACT FIVE         49.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -3565,16 +3565,6 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
+                        END OF ACT FIVE
 
-                            THE END                             
-
-
-
-
-
-
-
-
-
-
+                            THE END

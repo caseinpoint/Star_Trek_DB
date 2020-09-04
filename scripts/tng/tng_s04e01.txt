@@ -5,16 +5,16 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-              "The Best of Both Worlds, Part II" 
-                          #40274-175 
-                              
-                          Written by 
-                        Michael Piller 
-                              
-                          Directed by 
-                          Cliff Bole 
+                STAR TREK: THE NEXT GENERATION
+
+              "The Best of Both Worlds, Part II"
+                          #40274-175
+
+                          Written by
+                        Michael Piller
+
+                          Directed by
+                          Cliff Bole
 
 
 WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED FOR
@@ -27,45 +27,45 @@ reproduction. No one is authorized to dispose of same. If
 lost or destroyed, please notify the Script Department.
 
                          FINAL DRAFT
-                       
+
                         JULY 2, 1990
 
 
-         STAR TREK: "Worlds" Part Two - 7/9/90 - CAST 
+         STAR TREK: "Worlds" Part Two - 7/9/90 - CAST
 
-                STAR TREK: THE NEXT GENERATION 
-              "The Best of Both Worlds" Part Two 
+                STAR TREK: THE NEXT GENERATION
+              "The Best of Both Worlds" Part Two
 
-                             CAST                               
-                              
+                             CAST
+
                 PICARD             ADMIRAL HANSON
                 RIKER              LT. COMMANDER SHELBY
                 DATA               LOCUTUS (PICARD-BORG)
-                BEVERLY            
-                TROI               
-                GEORDI             
-                WORF               
+                BEVERLY
+                TROI
+                GEORDI
+                WORF
                 WESLEY             Non-Speaking
                                      SEVERAL BORG
-                GUINAN             
-                O'BRIEN            
-                GLEASON            
+                GUINAN
+                O'BRIEN
+                GLEASON
 
-                COMPUTER VOICE     
+                COMPUTER VOICE
 
-                Non-Speaking       
-                  SUPERNUMERARIES    
+                Non-Speaking
+                  SUPERNUMERARIES
                   MISC. SECURITY PERSONNEL
 
-         STAR TREK: "Worlds" Part Two - 7/10/90 - SETS 
+         STAR TREK: "Worlds" Part Two - 7/10/90 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
+                STAR TREK: THE NEXT GENERATION
                "The Best of Both Worlds" Part Two
-                   
-                             SETS 
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               MAIN BRIDGE                BATTLE SECTION
               BATTLE BRIDGE              SAUCER SECTION
@@ -77,33 +77,33 @@ lost or destroyed, please notify the Script Department.
               TURBOLIFT                  ETC.
               OBSERVATION LOUNGE
               TRANSPORTER ROOM
-          
+
             ENTERPRISE SHUTTLE         ENTERPRISE SHUTTLE
-          
+
             THE BORG SHIP              THE BORG SHIP
               INTERIOR CHAMBER
               OPERATING ROOM           SATURN (FROM SPACE)
-          
+
             ADMIRAL HANSON'S SHIP      MARS (FROM SPACE)
               (GALAXY CLASS STARSHIP)    UNMANNED PODS
               READY ROOM
               BATTLE BRIDGE            EARTH (FROM SPACE)
 
-  STAR TREK: "Worlds" Part Two - REV. 7/3/90 - PRONUNCIATION 
+  STAR TREK: "Worlds" Part Two - REV. 7/3/90 - PRONUNCIATION
 
-                STAR TREK: THE NEXT GENERATION 
-              "The Best of Both Worlds" Part Two 
-                
-                      PRONUNCIATION GUIDE 
+                STAR TREK: THE NEXT GENERATION
+              "The Best of Both Worlds" Part Two
+
+                      PRONUNCIATION GUIDE
 
                  LOCUTUS           low-KEW-tus
                  ITERATIVE         IT-er-ah-tiv
 
     STAR TREK: "Worlds" Part Two - REV. 7/27/90 - TEASER    1.
 
-                STAR TREK: THE NEXT GENERATION                  
-              "The Best of Both Worlds" Part Two                   
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+              "The Best of Both Worlds" Part Two
+                            TEASER
 
 	FADE IN:
 
@@ -207,11 +207,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
     STAR TREK: "Worlds" Part Two - REV. 7/6/90 - ACT TWO    4.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -785,11 +785,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
     STAR TREK: "Worlds" Part Two - REV. 7/6/90 - ACT TWO    16.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1186,11 +1186,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
    STAR TREK: "Worlds" Part Two - REV. 7/9/90 - ACT THREE   24.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -1725,11 +1725,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
    STAR TREK: "Worlds" Part Two - REV. 7/9/90 - ACT FOUR   35.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -1882,7 +1882,7 @@ thru	OMITTED
 
 85   CONTINUED: (2)
 
-					LOCUTUS/PICARD
+					PICARD/LOCUTUS
 			No harm.
 
 	Locutus continues.
@@ -2052,11 +2052,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
    STAR TREK: "Worlds" Part Two - REV. 7/3/90 - ACT FIVE   41.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -2997,9 +2997,9 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
+                        END OF ACT FIVE
 
-                            THE END                             
+                            THE END
 
             DISTRIBUTION                    DATE      JULY 2, 1990
 
@@ -3025,6 +3025,3 @@ FROM        MICHAEL PILLER                  SUBJECT   "THE BEST OF BOTH WORLDS"
 	Mike and J.R. will collect them.
 
 	Thank you.
-
-
-

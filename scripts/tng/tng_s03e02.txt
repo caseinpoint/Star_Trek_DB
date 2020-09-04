@@ -4,19 +4,19 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                          "Evolution" 
-                          #40273-150 
-                              
-                           Story by 
-                Michael Piller & Michael Wagner 
-                              
-                          Teleplay by 
-                        Michael Piller 
-                              
-                          Directed by 
-                           Ric Kolbe 
+                STAR TREK: THE NEXT GENERATION
+
+                          "Evolution"
+                          #40273-150
+
+                           Story by
+                Michael Piller & Michael Wagner
+
+                          Teleplay by
+                        Michael Piller
+
+                          Directed by
+                           Ric Kolbe
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -29,47 +29,47 @@ reproduction. No one is authorized to dispose of same. If
 lost or destroyed, please notify the Script Department.
 
                      REVISED FINAL DRAFT
- 
+
                         JULY 24, 1989
- 
 
-            STAR TREK: "Evolution" - 7/25/89 - CAST 
 
-                STAR TREK: THE NEXT GENERATION 
-                          "Evolution" 
-                             CAST                               
-                              
+            STAR TREK: "Evolution" - 7/25/89 - CAST
+
+                STAR TREK: THE NEXT GENERATION
+                          "Evolution"
+                             CAST
+
                 PICARD             STUBBS
                 RIKER              (DATA/NANITE)
-                DATA               
-                WORF               
-                BEVERLY            
+                DATA
+                WORF
+                BEVERLY
                 TROI               Non-Speaking
                 GEORDI             ERIC'S GIRLFRIEND
                 WESLEY             GUARD
                 GUINAN             CREW OF ENGINEERS
                                    SUPERNUMERARIES
 
-                WORK CREWMEMBER #1 
-                COMPUTER VOICE     
-                ERIC               
-                ANNETTE            
-                MALE NURSE         
+                WORK CREWMEMBER #1
+                COMPUTER VOICE
+                ERIC
+                ANNETTE
+                MALE NURSE
 
-         STAR TREK: "Evolution" - REV. 7/25/89 - SETS 
+         STAR TREK: "Evolution" - REV. 7/25/89 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                          "Evolution" 
-                            
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                          "Evolution"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               MAIN BRIDGE
               SHUTTLE BAY
               CORRIDOR
-          
+
               SICKBAY
               SICKBAY LAB
               SICKBAY WAITING ROOM
@@ -83,9 +83,9 @@ lost or destroyed, please notify the Script Department.
 
           STAR TREK: "Evolution" - 7/24/89 - TEASER          1.
 
-                STAR TREK: THE NEXT GENERATION                  
-                          "Evolution"                               
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                          "Evolution"
+                            TEASER
 
 	FADE IN:
 
@@ -369,11 +369,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
        STAR TREK: "Evolution" - REV. 7/25/89 - ACT ONE       7.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -434,7 +434,7 @@ lost or destroyed, please notify the Script Department.
 			Close the shuttle bay door...
 			Prepare for impact.
 
-					CREWMEMBER#1'S COM VOICE
+					CREWMEMBER #1'S COM VOICE
 			Door is frozen, Commander...
 
 19   ANGLE ON VIEWSCREEN (OPTICAL)
@@ -997,11 +997,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
       STAR TREK: "Evolution" - REV. 7/25/89 - ACT TWO      19.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1615,11 +1615,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
      STAR TREK: "Evolution" - REV. 7/25/89 - ACT THREE     31.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -2296,11 +2296,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
       STAR TREK: "Evolution" - REV. 7/25/89 - ACT FOUR      45.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2657,11 +2657,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
           STAR TREK: "Evolution" - REV. 7/25/89 - ACT FIVE          53.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -3207,6 +3207,4 @@ thru	OMITTED
 
 									FADE OUT.
 
-                            THE END                             
-
-
+                            THE END

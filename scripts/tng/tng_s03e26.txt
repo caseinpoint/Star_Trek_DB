@@ -4,16 +4,16 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-               "The Best of Both Worlds, Part I" 
-                          #40273-174 
-                              
-                          Written by 
-                        Michael Piller 
-                              
-                          Directed by 
-                          Cliff Bole 
+                STAR TREK: THE NEXT GENERATION
+
+               "The Best of Both Worlds, Part I"
+                          #40273-174
+
+                          Written by
+                        Michael Piller
+
+                          Directed by
+                          Cliff Bole
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -30,38 +30,38 @@ lost or destroyed, please notify the Script Department.
                        APRIL 6, 1990
 
 
-        STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - CAST          
+        STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - CAST
 
-                STAR TREK: THE NEXT GENERATION                  
-                      "The Best of Both Worlds" 
-                       
-                             CAST                               
+                STAR TREK: THE NEXT GENERATION
+                      "The Best of Both Worlds"
+
+                             CAST
 
                 PICARD             ADMIRAL HANSON
                 RIKER              LT. COMMANDER SHELBY
                 DATA               BORG LEADER
-                BEVERLY            PICARD/BORG
-                TROI               
-                GEORDI             
-                WORF               
+                BEVERLY            PICARD/LOCUTUS
+                TROI
+                GEORDI
+                WORF
                 WESLEY             Non-Speaking
                                      SEVERAL BORG
-                GUINAN             
-                O'BRIEN            
+                GUINAN
+                O'BRIEN
 
-                Non-Speaking       
-                  SUPERNUMERARIES    
-                  TECHNICIAN         
+                Non-Speaking
+                  SUPERNUMERARIES
+                  TECHNICIAN
 
-     STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - SETS 
+     STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                   "The Best of Both Worlds" 
-                      
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                   "The Best of Both Worlds"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               MAIN BRIDGE
               CAPTAIN'S READY ROOM     JOURET FOUR SURFACE
@@ -74,15 +74,15 @@ lost or destroyed, please notify the Script Department.
               PICARD'S QUARTERS
               RIKER'S QUARTERS
               SHELBY'S QUARTERS
-          
+
             BORG SHIP
               INTERIOR CHAMBER
 
    STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - TEASER   1.
 
-                STAR TREK: THE NEXT GENERATION                  
-                  "The Best of Both Worlds"                        
-                            TEASER                              
+                STAR TREK: THE NEXT GENERATION
+                  "The Best of Both Worlds"
+                            TEASER
 
 	FADE IN:
 
@@ -155,11 +155,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
   STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - ACT ONE  3.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
@@ -722,11 +722,11 @@ lost or destroyed, please notify the Script Department.
 
 									FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
   STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - ACT TWO  14.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1337,11 +1337,11 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
  STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - ACT THREE 26.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -2038,11 +2038,11 @@ STAR TREK: "Best of Both Worlds" - REV. 4/11/90 - ACT THREE34.
 
 									FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
  STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - ACT FOUR 40.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2543,11 +2543,11 @@ STAR TREK: "Best of Both Worlds" - REV. 4/11/90 - ACT THREE34.
 
 									FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
       STAR TREK: "Best of Both Worlds" - REV. 4/6/90 - ACT FIVE     50.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 	FADE IN:
 
@@ -3144,7 +3144,7 @@ thru	OMITTED
 103  MATCHING PUSHES TO CLOSEUPS OF RIKER AND PICARD
 	(OPTICAL)
 
-					PICARD/BORG
+					PICARD/LOCUTUS
 			I am Locutus of Borg. Resistance
 			is futile. Your life as it has
 			been is over. From this time
@@ -3162,8 +3162,6 @@ thru	OMITTED
 
 									FADE OUT.
 
-                        END OF ACT FIVE                         
+                        END OF ACT FIVE
 
-                            THE END                             
-
-
+                            THE END

@@ -6,16 +6,16 @@
 
 
 
-                STAR TREK: THE NEXT GENERATION 
-                              
-                          "Attached" 
-                          #40277-260 
-                              
-                          Written by 
-                          Nick Sagan 
-                              
-                          Directed by 
-                        Jonathan Frakes 
+                STAR TREK: THE NEXT GENERATION
+
+                          "Attached"
+                          #40277-260
+
+                          Written by
+                          Nick Sagan
+
+                          Directed by
+                        Jonathan Frakes
 
 
 THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
@@ -28,16 +28,16 @@ reproduction. No one is authorized to dispose of same. If
 lost or destroyed, please notify the Script Department.
 
                          FINAL DRAFT
- 
+
                        SEPTEMBER 7, 1993
 
-            STAR TREK: "Attached" - 09/07/93 - CAST 
+            STAR TREK: "Attached" - 09/07/93 - CAST
 
-                STAR TREK: THE NEXT GENERATION 
-                          "Attached" 
+                STAR TREK: THE NEXT GENERATION
+                          "Attached"
 
-                             CAST                               
-                              
+                             CAST
+
                 PICARD             LORIN
                 RIKER              MAURIC
                 DATA               AIDE
@@ -48,15 +48,15 @@ lost or destroyed, please notify the Script Department.
                 Non-Speaking       Non-Speaking
                   N.D. CREWMEMBERS   ARMED GUARDS
 
-            STAR TREK: "Attached" - 09/07/93 - SETS 
+            STAR TREK: "Attached" - 09/07/93 - SETS
 
-                STAR TREK: THE NEXT GENERATION 
-                          "Attached" 
-                       
-                             SETS 
+                STAR TREK: THE NEXT GENERATION
+                          "Attached"
+
+                             SETS
 
             INTERIORS                  EXTERIORS
-          
+
             USS ENTERPRISE             USS ENTERPRISE
               BRIDGE
               PICARD'S QUARTERS        MOUNTAINSIDE
@@ -64,19 +64,19 @@ lost or destroyed, please notify the Script Department.
               OBSERVATION LOUNGE       BORDER AREA
               CORRIDOR
               KES QUARTERS             SLOPE
-          
+
               DARK CELL                RAVINE
               CAVES
                                        CUL DE SAC
-          
+
                                        CAVE ENTRANCE
 
-    STAR TREK: "Attached" - 09/07/93 - PRONUNCIATION GUIDE 
+    STAR TREK: "Attached" - 09/07/93 - PRONUNCIATION GUIDE
 
-                STAR TREK: THE NEXT GENERATION 
-                          "Attached" 
-                      
-                      PRONUNCIATION GUIDE 
+                STAR TREK: THE NEXT GENERATION
+                          "Attached"
+
+                      PRONUNCIATION GUIDE
 
                    ARCTURUS        ARK-toor-us
                    HORATH          HO-rath
@@ -86,9 +86,9 @@ lost or destroyed, please notify the Script Department.
 
           STAR TREK: "Attached" - 09/07/93 - TEASER          1.
 
-                STAR TREK: The Next Generation                  
-                          "Attached"                               
-                            TEASER                              
+                STAR TREK: The Next Generation
+                          "Attached"
+                            TEASER
 
 	FADE IN:
 
@@ -356,15 +356,15 @@ lost or destroyed, please notify the Script Department.
 
                                              FADE OUT.
 
-                         END OF TEASER                          
+                         END OF TEASER
 
          STAR TREK: "Attached" - 09/07/93 - ACT ONE         6.
 
-                            ACT ONE                             
+                            ACT ONE
 
 	FADE IN:
 
-          (NOTE: Episode credits fall over opening scenes.)            
+          (NOTE: Episode credits fall over opening scenes.)
 
 4    INT. DARK CELL
 
@@ -805,11 +805,11 @@ lost or destroyed, please notify the Script Department.
 
                                              FADE OUT.
 
-                        END OF ACT ONE                          
+                        END OF ACT ONE
 
          STAR TREK: "Attached" - 09/07/93 - ACT TWO         15.
 
-                            ACT TWO                             
+                            ACT TWO
 
 	FADE IN:
 
@@ -1201,11 +1201,11 @@ lost or destroyed, please notify the Script Department.
 
                                              FADE OUT.
 
-                        END OF ACT TWO                          
+                        END OF ACT TWO
 
      STAR TREK: "Attached" - REV. 09/07/93 - ACT THREE     21.
 
-                           ACT THREE                            
+                           ACT THREE
 
 	FADE IN:
 
@@ -1882,11 +1882,11 @@ lost or destroyed, please notify the Script Department.
 
                                              FADE OUT.
 
-                       END OF ACT THREE                         
+                       END OF ACT THREE
 
         STAR TREK: "Attached" - 09/07/93 - ACT FOUR        34.
 
-                           ACT FOUR                             
+                           ACT FOUR
 
 	FADE IN:
 
@@ -2523,11 +2523,11 @@ lost or destroyed, please notify the Script Department.
 
                                              FADE OUT.
 
-                        END OF ACT FOUR                         
+                        END OF ACT FOUR
 
           STAR TREK: "Attached" - REV. 09/08/93 - ACT FIVE          46.
 
-                           ACT FIVE                             
+                           ACT FIVE
 
 26   INT. MAIN BRIDGE (OPTICAL)
 
@@ -3189,14 +3189,6 @@ lost or destroyed, please notify the Script Department.
 
                                              FADE OUT.
 
-                        END OF ACT FIVE                         
+                        END OF ACT FIVE
 
-                            THE END                             
-
-
-
-
-
-
-
-
+                            THE END
